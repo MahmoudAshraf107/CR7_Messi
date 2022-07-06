@@ -1,0 +1,1382 @@
+,Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing Position,Minutes,Score At,Type,Goal assist,Player,Penalty
+0,02_03,Liga Portugal,6,2002-10-07,Home,Sporting CP,Moreirense FC,3:0,LW,34,02:00,Solo run,,CR7,False
+1,02_03,Liga Portugal,6,2002-10-07,Home,Sporting CP,Moreirense FC,3:0,LW,90+5,03:00,Header,Rui Jorge,CR7,False
+2,02_03,Liga Portugal,8,2002-10-26,Away,Sporting CP,Boavista FC,1:2,LW,88,01:02,Right-footed shot,Carlos Martins,CR7,False
+3,02_03,Taca de Portugal Placard,Fourth Round,2002-11-24,Home,Sporting CP,CD Estarreja,4:1,LW,67,03:00,Left-footed shot,Cesar Prates,CR7,False
+4,02_03,Taca de Portugal Placard,Fifth Round,2002-12-18,Home,Sporting CP,FC Oliveira do Hospital,8:1,LW,13,03:00,,,CR7,False
+5,03_04,Premier League,11,2003-11-01,Home,Man.United,Portsmouth FC,3:0,RW,80,02:00,Direct free kick,,CR7,False
+6,03_04,FA Cup,Fifth Round,2004-02-14,Home,Man.United,Manchester City,4:2,RW,74,03:00,Right-footed shot,,CR7,False
+7,03_04,Premier League,29,2004-03-20,Home,Man.United,Tottenham Hotspur,3:0,RW,89,02:00,Right-footed shot,,CR7,False
+8,03_04,Premier League,32,2004-04-10,Away,Man.United,Birmingham City,1:2,RW,60,01:01,Header,Ryan Giggs,CR7,False
+9,03_04,Premier League,38,2004-05-15,Away,Man.United,Aston Villa,0:2,RW,4,00:01,Right-footed shot,,CR7,False
+10,03_04,FA Cup,Final,2004-05-22,Home,Man.United,Millwall FC,3:0,RW,44,01:00,Header,Gary Neville,CR7,False
+11,04_05,Premier League,16,2004-12-04,Home,Man.United,Southampton FC,3:0,RW,87,03:00,Right-footed shot,Gary Neville,CR7,False
+12,04_05,FA Cup,Third Round,2005-01-19,Away,Man.United,Exeter City,0:2,RW,9,00:01,,Paul Scholes,CR7,False
+13,04_05,Premier League,24,2005-01-22,Home,Man.United,Aston Villa,3:1,RW,8,01:00,Right-footed shot,Louis Saha,CR7,False
+14,04_05,Premier League,25,2005-02-01,Away,Man.United,Arsenal FC,2:4,RW,54,02:02,Left-footed shot,Ryan Giggs,CR7,False
+15,04_05,Premier League,25,2005-02-01,Away,Man.United,Arsenal FC,2:4,RW,58,02:03,Tap-in,Ryan Giggs,CR7,False
+16,04_05,FA Cup,Fifth Round,2005-02-19,Away,Man.United,Everton FC,0:2,RW,58,00:02,Tap-in,Paul Scholes,CR7,False
+17,04_05,FA Cup,Sixth Round,2005-03-12,Away,Man.United,Southampton FC,0:4,RW,45+1,00:02,Left-footed shot,Ruud van Nistelrooy,CR7,False
+18,04_05,Premier League,30,2005-03-19,Home,Man.United,Fulham FC,1:0,RW,21,01:00,Right-footed shot,Roy Keane,CR7,False
+19,04_05,FA Cup,Semi-Finals,2005-04-17,Away,Man.United,Newcastle United,1:4,RW,76,01:04,Right-footed shot,Ruud van Nistelrooy,CR7,False
+20,05_06,UEFA Champions League Qualifying,3rd round,2005-08-09,Home,Man.United,Debreceni VSC,3:0,RW,63,03:00,Right-footed shot,Paul Scholes,CR7,False
+21,05_06,Premier League,11,2005-10-29,Away,Man.United,Middlesbrough FC,4:1,RW,90,04:01,Header,Paul Scholes,CR7,False
+22,05_06,EFL Cup,Round of 16,2005-11-30,Home,Man.United,West Bromwich Albion,3:1,RW,12,01:01,Penalty,,CR7,True
+23,05_06,Premier League,20,2005-12-31,Home,Man.United,Bolton Wanderers,4:1,RW,68,03:01,Right-footed shot,Wayne Rooney,CR7,False
+24,05_06,Premier League,20,2005-12-31,Home,Man.United,Bolton Wanderers,4:1,RW,90,04:01,Left-footed shot,Ruud van Nistelrooy,CR7,False
+25,05_06,Premier League,25,2006-02-04,Home,Man.United,Fulham FC,4:2,RW,14,02:00,Direct free kick,,CR7,False
+26,05_06,Premier League,25,2006-02-04,Home,Man.United,Fulham FC,4:2,RW,87,04:02,Right-footed shot,,CR7,False
+27,05_06,Premier League,26,2006-02-11,Away,Man.United,Portsmouth FC,1:3,RW,38,00:02,Left-footed shot,,CR7,False
+28,05_06,Premier League,26,2006-02-11,Away,Man.United,Portsmouth FC,1:3,RW,45,00:03,Right-footed shot,Wayne Rooney,CR7,False
+29,05_06,EFL Cup,Final,2006-02-26,Home,Man.United,Wigan Athletic,4:0,RW,59,03:00,,Louis Saha,CR7,False
+30,05_06,Premier League,28,2006-03-06,Away,Man.United,Wigan Athletic,1:2,RW,74,01:01,Right-footed shot,Ruud van Nistelrooy,CR7,False
+31,05_06,Premier League,38,2006-05-07,Home,Man.United,Charlton Athletic,4:0,RW,23,02:00,Left-footed shot,Ryan Giggs,CR7,False
+32,06_07,Premier League,1,2006-08-20,Home,Man.United,Fulham FC,5:1,RW,19,04:00,,Wayne Rooney,CR7,False
+33,06_07,Premier League,6,2006-09-23,Away,Man.United,Reading FC,1:1,CF,73,01:01,,John OShea,CR7,False
+34,06_07,Premier League,10,2006-10-28,Away,Man.United,Bolton Wanderers,0:4,RW,82,00:03,,Louis Saha,CR7,False
+35,06_07,Premier League,11,2006-11-04,Home,Man.United,Portsmouth FC,3:0,RW,10,02:00,Direct free kick,,CR7,False
+36,06_07,Premier League,15,2006-11-29,Home,Man.United,Everton FC,3:0,RW,39,01:00,,,CR7,False
+37,06_07,Premier League,17,2006-12-09,Home,Man.United,Manchester City,3:1,RW,84,03:01,,,CR7,False
+38,06_07,Premier League,19,2006-12-23,Away,Man.United,Aston Villa,0:3,RW,58,00:01,,,CR7,False
+39,06_07,Premier League,19,2006-12-23,Away,Man.United,Aston Villa,0:3,RW,85,00:03,,Gary Neville,CR7,False
+40,06_07,Premier League,20,2006-12-26,Home,Man.United,Wigan Athletic,3:1,RW,47,01:00,,Paul Scholes,CR7,False
+41,06_07,Premier League,20,2006-12-26,Home,Man.United,Wigan Athletic,3:1,RW,50,02:00,Penalty rebound,Ji-sung Park,CR7,False
+42,06_07,Premier League,21,2006-12-30,Home,Man.United,Reading FC,3:2,RW,58,02:01,,Ole Gunnar Solskjaer,CR7,False
+43,06_07,Premier League,21,2006-12-30,Home,Man.United,Reading FC,3:2,RW,77,03:01,,Ryan Giggs,CR7,False
+44,06_07,Premier League,23,2007-01-13,Home,Man.United,Aston Villa,3:1,RW,34,03:00,Header,Michael Carrick,CR7,False
+45,06_07,Premier League,25,2007-01-31,Home,Man.United,Watford FC,4:0,RW,12,01:00,Penalty,,CR7,True
+46,06_07,Premier League,26,2007-02-03,Away,Man.United,Tottenham Hotspur,0:4,RW,45,00:01,Penalty,,CR7,True
+47,06_07,Premier League,28,2007-02-24,Away,Man.United,Fulham FC,1:2,RW,88,01:02,Solo run,,CR7,False
+48,06_07,FA Cup,Sixth Round,2007-03-10,Away,Man.United,Middlesbrough FC,2:2,RW,68,02:02,Penalty,,CR7,True
+49,06_07,FA Cup,6th round,2007-03-19,Home,Man.United,Middlesbrough FC,1:0,RW,76,01:00,Penalty,,CR7,True
+50,06_07,UEFA Champions League,Quarter-Finals,2007-04-10,Home,Man.United,AS Roma,7:1,RW,44,04:00,Right-footed shot,Ryan Giggs,CR7,False
+51,06_07,UEFA Champions League,Quarter-Finals,2007-04-10,Home,Man.United,AS Roma,7:1,RW,49,05:00,Right-footed shot,Ryan Giggs,CR7,False
+52,06_07,FA Cup,Semi-Finals,2007-04-14,Away,Man.United,Watford FC,1:4,RW,28,01:02,Right-footed shot,Wayne Rooney,CR7,False
+53,06_07,UEFA Champions League,Semi-Finals,2007-04-24,Home,Man.United,AC Milan,3:2,RW,5,01:00,Header,Ryan Giggs,CR7,False
+54,06_07,Premier League,37,2007-05-05,Away,Man.United,Manchester City,0:1,RW,34,00:01,Penalty,,CR7,True
+55,07_08,UEFA Champions League,Group Stage,2007-09-19,Away,Man.United,Sporting CP,0:1,RW,62,00:01,Header,Wes Brown,CR7,False
+56,07_08,Premier League,8,2007-09-29,Away,Man.United,Birmingham City,0:1,RW,51,00:01,,,CR7,False
+57,07_08,Premier League,9,2007-10-06,Home,Man.United,Wigan Athletic,4:0,RW,59,02:00,Header,Ryan Giggs,CR7,False
+58,07_08,Premier League,9,2007-10-06,Home,Man.United,Wigan Athletic,4:0,RW,76,03:00,Right-footed shot,Wayne Rooney,CR7,False
+59,07_08,UEFA Champions League,Group Stage,2007-10-23,Away,Man.United,Dynamo Kyiv,2:4,RW,41,01:03,Penalty,,CR7,True
+60,07_08,UEFA Champions League,Group Stage,2007-10-23,Away,Man.United,Dynamo Kyiv,2:4,RW,68,01:04,Header,Ryan Giggs,CR7,False
+61,07_08,Premier League,12,2007-11-03,Away,Man.United,Arsenal FC,2:2,RW,82,01:02,,Patrice Evra,CR7,False
+62,07_08,UEFA Champions League,Group Stage,2007-11-07,Home,Man.United,Dynamo Kyiv,4:0,RW,88,04:00,Right-footed shot,Patrice Evra,CR7,False
+63,07_08,Premier League,13,2007-11-11,Home,Man.United,Blackburn Rovers,2:0,RW,34,01:00,Header,Ryan Giggs,CR7,False
+64,07_08,Premier League,13,2007-11-11,Home,Man.United,Blackburn Rovers,2:0,RW,35,02:00,Right-footed shot,Carlos Tevez,CR7,False
+65,07_08,UEFA Champions League,Group Stage,2007-11-27,Home,Man.United,Sporting CP,2:1,RW,90+3,02:01,Direct free kick,,CR7,False
+66,07_08,Premier League,15,2007-12-03,Home,Man.United,Fulham FC,2:0,RW,10,01:00,Right-footed shot,Nemanja Vidić,CR7,False
+67,07_08,Premier League,15,2007-12-03,Home,Man.United,Fulham FC,2:0,RW,58,02:00,Header,John OShea,CR7,False
+68,07_08,Premier League,16,2007-12-08,Home,Man.United,Derby County,4:1,RW,90,04:01,Penalty,,CR7,True
+69,07_08,Premier League,18,2007-12-23,Home,Man.United,Everton FC,2:1,RW,22,01:00,Left-footed shot,Carlos Tevez,CR7,False
+70,07_08,Premier League,18,2007-12-23,Home,Man.United,Everton FC,2:1,RW,87,02:01,Penalty,,CR7,True
+71,07_08,Premier League,19,2007-12-26,Away,Man.United,Sunderland AFC,0:4,RW,45,00:03,Direct free kick,,CR7,False
+72,07_08,Premier League,20,2007-12-29,Away,Man.United,West Ham United,2:1,RW,14,00:01,Header,Ryan Giggs,CR7,False
+73,07_08,FA Cup,Third Round,2008-01-05,Away,Man.United,Aston Villa,0:2,RW,81,00:01,Left-footed shot,Ryan Giggs,CR7,False
+74,07_08,Premier League,22,2008-01-12,Home,Man.United,Newcastle United,6:0,RW,48,01:00,Direct free kick,,CR7,False
+75,07_08,Premier League,22,2008-01-12,Home,Man.United,Newcastle United,6:0,RW,70,03:00,Right-footed shot,Carlos Tevez,CR7,False
+76,07_08,Premier League,22,2008-01-12,Home,Man.United,Newcastle United,6:0,RW,88,05:00,Left-footed shot,,CR7,False
+77,07_08,Premier League,23,2008-01-19,Away,Man.United,Reading FC,0:2,RW,90+2,00:02,Right-footed shot,,CR7,False
+78,07_08,FA Cup,Fourth Round,2008-01-27,Home,Man.United,Tottenham Hotspur,3:1,RW,69,02:01,Penalty,,CR7,True
+79,07_08,FA Cup,Fourth Round,2008-01-27,Home,Man.United,Tottenham Hotspur,3:1,RW,88,03:01,Right-footed shot,Ryan Giggs,CR7,False
+80,07_08,Premier League,24,2008-01-30,Home,Man.United,Portsmouth FC,2:0,RW,10,01:00,Right-footed shot,Nani,CR7,False
+81,07_08,Premier League,24,2008-01-30,Home,Man.United,Portsmouth FC,2:0,RW,12,02:00,Direct free kick,,CR7,False
+82,07_08,Premier League,27,2008-02-23,Away,Man.United,Newcastle United,1:5,RW,45,00:02,Right-footed shot,Michael Carrick,CR7,False
+83,07_08,Premier League,27,2008-02-23,Away,Man.United,Newcastle United,1:5,RW,56,00:03,Right-footed shot,,CR7,False
+84,07_08,UEFA Champions League,last 16,2008-03-04,Home,Man.United,Olympique Lyon,1:0,RW,41,01:00,Left-footed shot,,CR7,False
+85,07_08,Premier League,29,2008-03-15,Away,Man.United,Derby County,0:1,RW,76,00:01,Right-footed shot,Wayne Rooney,CR7,False
+86,07_08,Premier League,30,2008-03-19,Home,Man.United,Bolton Wanderers,2:0,RW,8,01:00,Right-footed shot,,CR7,False
+87,07_08,Premier League,30,2008-03-19,Home,Man.United,Bolton Wanderers,2:0,RW,19,02:00,Direct free kick,,CR7,False
+88,07_08,Premier League,31,2008-03-23,Home,Man.United,Liverpool FC,3:0,RW,79,02:00,Header,Nani,CR7,False
+89,07_08,Premier League,32,2008-03-29,Home,Man.United,Aston Villa,4:0,RW,16,01:00,Right-footed shot,,CR7,False
+90,07_08,UEFA Champions League,Quarter-Finals,2008-04-01,Away,Man.United,AS Roma,0:2,RW,39,00:01,Header,Paul Scholes,CR7,False
+91,07_08,Premier League,33,2008-04-06,Away,Man.United,Middlesbrough FC,2:2,RW,9,00:01,Left-footed shot,Michael Carrick,CR7,False
+92,07_08,Premier League,34,2008-04-13,Home,Man.United,Arsenal FC,2:1,RW,53,01:01,Penalty,,CR7,True
+93,07_08,Premier League,37,2008-05-03,Home,Man.United,West Ham United,4:1,RW,3,01:00,Right-footed shot,Edwin van der Sar,CR7,False
+94,07_08,Premier League,37,2008-05-03,Home,Man.United,West Ham United,4:1,RW,24,02:00,Right-footed shot,Owen Hargreaves,CR7,False
+95,07_08,Premier League,38,2008-05-11,Away,Man.United,Wigan Athletic,0:2,RW,32,00:01,Penalty,,CR7,True
+96,07_08,UEFA Champions League,Final,2008-05-21,Home,Man.United,Chelsea FC,6:5 on pens,LW,26,01:00,Header,Wes Brown,CR7,False
+97,08_09,EFL Cup,Third Round,2008-09-23,Home,Man.United,Middlesbrough FC,3:1,RW,25,01:00,Header,Ryan Giggs,CR7,False
+98,08_09,Premier League,6,2008-09-27,Home,Man.United,Bolton Wanderers,2:0,RW,59,01:00,Penalty,,CR7,True
+99,08_09,Premier League,8,2008-10-18,Home,Man.United,West Bromwich Albion,4:0,RW,69,02:00,Left-footed shot,Wayne Rooney,CR7,False
+100,08_09,Premier League,10,2008-10-29,Home,Man.United,West Ham United,2:0,RW,14,01:00,Left-footed shot,Nani,CR7,False
+101,08_09,Premier League,10,2008-10-29,Home,Man.United,West Ham United,2:0,RW,30,02:00,Right-footed shot,Dimitar Berbatov,CR7,False
+102,08_09,Premier League,11,2008-11-01,Home,Man.United,Hull City,4:3,RW,3,01:00,Left-footed shot,Dimitar Berbatov,CR7,False
+103,08_09,Premier League,11,2008-11-01,Home,Man.United,Hull City,4:3,RW,43,03:01,Header,Nani,CR7,False
+104,08_09,Premier League,13,2008-11-15,Home,Man.United,Stoke City,5:0,RW,3,01:00,Direct free kick,,CR7,False
+105,08_09,Premier League,13,2008-11-15,Home,Man.United,Stoke City,5:0,RW,88,05:00,Direct free kick,,CR7,False
+106,08_09,FIFA Club World Cup,Semi-Finals,2008-12-18,Away,Man.United,Gamba Osaka,3:5,LW,45+1,00:02,Header,Ryan Giggs,CR7,False
+107,08_09,EFL Cup,Semi-Finals,2009-01-20,Home,Man.United,Derby County,4:2,RW,89,04:01,Penalty,,CR7,True
+108,08_09,Premier League,23,2009-01-27,Away,Man.United,West Bromwich Albion,0:5,LW,65,00:04,Right-footed shot,Ryan Giggs,CR7,False
+109,08_09,Premier League,23,2009-01-27,Away,Man.United,West Bromwich Albion,0:5,LW,73,00:05,Right-footed shot,Dimitar Berbatov,CR7,False
+110,08_09,Premier League,24,2009-01-31,Home,Man.United,Everton FC,1:0,LW,43,01:00,Penalty,,CR7,True
+111,08_09,FA Cup,Fifth Round,2009-02-15,Away,Man.United,Derby County,1:4,CF,68,01:03,Header,Ryan Giggs,CR7,False
+112,08_09,Premier League,26,2009-02-21,Home,Man.United,Blackburn Rovers,2:1,RW,60,02:01,Direct free kick,,CR7,False
+113,08_09,UEFA Champions League,last 16,2009-03-11,Home,Man.United,FC Internazionale,2:0,RW,49,02:00,Header,Wayne Rooney,CR7,False
+114,08_09,Premier League,29,2009-03-14,Home,Man.United,Liverpool FC,1:4,RW,22,01:00,Penalty,,CR7,True
+115,08_09,Premier League,31,2009-04-05,Home,Man.United,Aston Villa,3:2,RW,11,01:00,Direct free kick,,CR7,False
+116,08_09,Premier League,31,2009-04-05,Home,Man.United,Aston Villa,3:2,RW,80,02:02,Left-footed shot,Michael Carrick,CR7,False
+117,08_09,UEFA Champions League,Quarter-Finals,2009-04-15,Away,Man.United,FC Porto,0:1,RW,6,00:01,Long distance kick,Anderson,CR7,False
+118,08_09,Premier League,34,2009-04-25,Home,Man.United,Tottenham Hotspur,5:2,RW,57,01:02,Penalty,,CR7,True
+119,08_09,Premier League,34,2009-04-25,Home,Man.United,Tottenham Hotspur,5:2,RW,68,03:02,Header,Wayne Rooney,CR7,False
+120,08_09,UEFA Champions League,Semi-Finals,2009-05-05,Away,Man.United,Arsenal FC,1:3,CF,11,00:02,Direct free kick,,CR7,False
+121,08_09,UEFA Champions League,Semi-Finals,2009-05-05,Away,Man.United,Arsenal FC,1:3,CF,61,00:03,Right-footed shot,Wayne Rooney,CR7,False
+122,08_09,Premier League,36,2009-05-10,Home,Man.United,Manchester City,2:0,RW,17,01:00,Direct free kick,,CR7,False
+123,09_10,LaLiga,1,2009-08-29,Home,RM,Deportivo de La Coruña,3:2,RW,35,02:01,Penalty,,CR7,True
+124,09_10,LaLiga,2,2009-09-12,Away,RM,RCD Espanyol Barcelona,0:3,CF,90,00:03,Right-footed shot,Guti,CR7,False
+125,09_10,UEFA Champions League,Group Stage,2009-09-15,Away,RM,FC Zürich,2:5,CF,27,00:01,Direct free kick,,CR7,False
+126,09_10,UEFA Champions League,Group Stage,2009-09-15,Away,RM,FC Zürich,2:5,CF,89,02:04,Direct free kick,,CR7,False
+127,09_10,LaLiga,3,2009-09-20,Home,RM,Xerez CD,5:0,RW,1,01:00,Right-footed shot,,CR7,False
+128,09_10,LaLiga,3,2009-09-20,Home,RM,Xerez CD,5:0,RW,75,02:00,Header,Esteban Granero,CR7,False
+129,09_10,LaLiga,4,2009-09-23,Away,RM,Villarreal CF,0:2,CF,2,00:01,Right-footed shot,,CR7,False
+130,09_10,UEFA Champions League,Group Stage,2009-09-30,Home,RM,Olympique Marseille,3:0,CF,58,01:00,Left-footed shot,Pepe,CR7,False
+131,09_10,UEFA Champions League,Group Stage,2009-09-30,Home,RM,Olympique Marseille,3:0,CF,64,03:00,Right-footed shot,Karim Benzema,CR7,False
+132,09_10,LaLiga,13,2009-12-05,Home,RM,UD Almeria,4:2,CF,84,04:02,Right-footed shot,Gonzalo Higuain,CR7,False
+133,09_10,UEFA Champions League,Group Stage,2009-12-08,Away,RM,Olympique Marseille,1:3,CF,5,00:01,Direct free kick,,CR7,False
+134,09_10,UEFA Champions League,Group Stage,2009-12-08,Away,RM,Olympique Marseille,1:3,CF,80,01:03,Right-footed shot,Lassana Diarra,CR7,False
+135,09_10,LaLiga,15,2009-12-19,Home,RM,Real Zaragoza,6:0,CF,50,05:00,Left-footed shot,Ezequiel Garay,CR7,False
+136,09_10,LaLiga,19,2010-01-24,Home,RM,Malaga CF,2:0,RW,35,01:00,Right-footed shot,Kaka,CR7,False
+137,09_10,LaLiga,19,2010-01-24,Home,RM,Malaga CF,2:0,RW,39,02:00,Right-footed shot,Guti,CR7,False
+138,09_10,LaLiga,22,2010-02-13,Away,RM,Xerez CD,0:3,CF,69,00:02,Header,Kaka,CR7,False
+139,09_10,LaLiga,22,2010-02-13,Away,RM,Xerez CD,0:3,CF,71,00:03,Left-footed shot,Kaka,CR7,False
+140,09_10,LaLiga,23,2010-02-21,Home,RM,Villarreal CF,6:2,CF,18,01:00,Direct free kick,,CR7,False
+141,09_10,LaLiga,24,2010-02-27,Away,RM,CD Tenerife,1:5,CF,78,01:04,Penalty,,CR7,True
+142,09_10,LaLiga,25,2010-03-06,Home,RM,Sevilla FC,3:2,CF,59,01:02,Left-footed shot,,CR7,False
+143,09_10,UEFA Champions League,last 16,2010-03-10,Home,RM,Olympique Lyon,1:1,LW,6,01:00,Left-footed shot,Guti,CR7,False
+144,09_10,LaLiga,26,2010-03-14,Away,RM,Real Valladolid CF,1:4,CF,29,00:01,Direct free kick,,CR7,False
+145,09_10,LaLiga,28,2010-03-25,Away,RM,Getafe CF,2:4,CF,13,00:01,Direct free kick,,CR7,False
+146,09_10,LaLiga,28,2010-03-25,Away,RM,Getafe CF,2:4,CF,36,00:04,Right-footed shot,,CR7,False
+147,09_10,LaLiga,30,2010-04-04,Away,RM,Racing Santander,0:2,CF,23,00:01,Penalty,,CR7,True
+148,09_10,LaLiga,32,2010-04-15,Away,RM,UD Almeria,1:2,CF,26,01:01,Left-footed shot,,CR7,False
+149,09_10,LaLiga,33,2010-04-18,Home,RM,Valencia CF,2:0,CF,77,02:00,Right-footed shot,Marcelo,CR7,False
+150,09_10,LaLiga,35,2010-05-02,Home,RM,CA Osasuna,3:2,CF,25,01:01,Right-footed shot,,CR7,False
+151,09_10,LaLiga,35,2010-05-02,Home,RM,CA Osasuna,3:2,CF,89,03:02,Header,Gonzalo Higuain,CR7,False
+152,09_10,LaLiga,36,2010-05-05,Away,RM,RCD Mallorca,1:4,CF,26,01:01,Right-footed shot,Sergio Ramos,CR7,False
+153,09_10,LaLiga,36,2010-05-05,Away,RM,RCD Mallorca,1:4,CF,56,01:02,Right-footed shot,Sergio Ramos,CR7,False
+154,09_10,LaLiga,36,2010-05-05,Away,RM,RCD Mallorca,1:4,CF,71,01:03,Right-footed shot,,CR7,False
+155,09_10,LaLiga,37,2010-05-08,Home,RM,Athletic Bilbao,5:1,CF,21,01:00,Penalty,,CR7,True
+156,10_11,LaLiga,4,2010-09-21,Home,RM,RCD Espanyol Barcelona,3:0,LW,28,01:00,Penalty,,CR7,True
+157,10_11,LaLiga,6,2010-10-03,Home,RM,Deportivo de La Coruña,6:1,LW,4,01:00,Header,Mesut Ozil,CR7,False
+158,10_11,LaLiga,6,2010-10-03,Home,RM,Deportivo de La Coruña,6:1,LW,89,06:01,Left-footed shot,Xabi Alonso,CR7,False
+159,10_11,LaLiga,7,2010-10-16,Away,RM,Malaga CF,1:4,LW,45,00:02,Right-footed shot,Mesut Ozil,CR7,False
+160,10_11,LaLiga,7,2010-10-16,Away,RM,Malaga CF,1:4,LW,50,00:03,Penalty,,CR7,True
+161,10_11,UEFA Champions League,Group Stage,2010-10-19,Home,RM,AC Milan,2:0,LW,13,01:00,Direct free kick,,CR7,False
+162,10_11,LaLiga,8,2010-10-23,Home,RM,Racing Santander,6:1,LW,15,02:00,Right-footed shot,Gonzalo Higuain,CR7,False
+163,10_11,LaLiga,8,2010-10-23,Home,RM,Racing Santander,6:1,LW,26,03:00,Left-footed shot,Mesut Ozil,CR7,False
+164,10_11,LaLiga,8,2010-10-23,Home,RM,Racing Santander,6:1,LW,47,04:00,Right-footed shot,Angel Di Maria,CR7,False
+165,10_11,LaLiga,8,2010-10-23,Home,RM,Racing Santander,6:1,LW,55,05:00,Penalty,,CR7,True
+166,10_11,LaLiga,9,2010-10-30,Away,RM,Hercules CF,1:3,LW,82,01:02,Right-footed shot,Karim Benzema,CR7,False
+167,10_11,LaLiga,9,2010-10-30,Away,RM,Hercules CF,1:3,LW,86,01:03,Right-footed shot,Karim Benzema,CR7,False
+168,10_11,Copa del Rey,4th round,2010-11-10,Home,RM,Real Murcia CF,5:1,LW,76,03:00,Left-footed shot,Angel Di Maria,CR7,False
+169,10_11,LaLiga,12,2010-11-20,Home,RM,Athletic Bilbao,5:1,LW,30,02:00,Left-footed shot,Mesut Ozil,CR7,False
+170,10_11,LaLiga,12,2010-11-20,Home,RM,Athletic Bilbao,5:1,LW,62,04:01,Direct free kick,,CR7,False
+171,10_11,LaLiga,12,2010-11-20,Home,RM,Athletic Bilbao,5:1,LW,90+1,05:01,Penalty,,CR7,True
+172,10_11,UEFA Champions League,Group Stage,2010-11-23,Away,RM,Ajax Amsterdam,0:4,LW,70,00:03,Left-footed shot,Angel Di Maria,CR7,False
+173,10_11,UEFA Champions League,Group Stage,2010-11-23,Away,RM,Ajax Amsterdam,0:4,LW,81,00:04,Penalty,,CR7,True
+174,10_11,LaLiga,14,2010-12-04,Home,RM,Valencia CF,2:0,LW,72,01:00,Left-footed shot,Mesut Ozil,CR7,False
+175,10_11,LaLiga,14,2010-12-04,Home,RM,Valencia CF,2:0,LW,86,02:00,Right-footed shot,,CR7,False
+176,10_11,UEFA Champions League,Group Stage,2010-12-08,Home,RM,AJ Auxerre,4:0,LW,49,02:00,Right-footed shot,Marcelo,CR7,False
+177,10_11,LaLiga,15,2010-12-12,Away,RM,Real Zaragoza,1:3,LW,43,00:02,Direct free kick,,CR7,False
+178,10_11,Copa del Rey,last 16,2010-12-22,Home,RM,Levante UD,8:0,LW,44,04:00,Right-footed shot,Karim Benzema,CR7,False
+179,10_11,Copa del Rey,last 16,2010-12-22,Home,RM,Levante UD,8:0,LW,71,06:00,Right-footed shot,Angel Di Maria,CR7,False
+180,10_11,Copa del Rey,last 16,2010-12-22,Home,RM,Levante UD,8:0,LW,73,07:00,Right-footed shot,Karim Benzema,CR7,False
+181,10_11,LaLiga,17,2011-01-03,Away,RM,Getafe CF,2:3,LW,11,00:01,Penalty,,CR7,True
+182,10_11,LaLiga,17,2011-01-03,Away,RM,Getafe CF,2:3,LW,57,01:03,Right-footed shot,Karim Benzema,CR7,False
+183,10_11,LaLiga,18,2011-01-09,Home,RM,Villarreal CF,4:2,LW,10,01:01,Right-footed shot,Mesut Ozil,CR7,False
+184,10_11,LaLiga,18,2011-01-09,Home,RM,Villarreal CF,4:2,LW,45,02:02,Header,Xabi Alonso,CR7,False
+185,10_11,LaLiga,18,2011-01-09,Home,RM,Villarreal CF,4:2,LW,79,03:02,Left-footed shot,Kaka,CR7,False
+186,10_11,Copa del Rey,Quarter-Finals,2011-01-13,Home,RM,Atletico de Madrid,3:1,LW,60,02:01,Right-footed shot,Mesut Ozil,CR7,False
+187,10_11,Copa del Rey,Quarter-Finals,2011-01-20,Away,RM,Atletico de Madrid,0:1,CF,22,00:01,Right-footed shot,Sergio Ramos,CR7,False
+188,10_11,LaLiga,22,2011-02-06,Home,RM,Real Sociedad,4:1,LW,20,02:00,Left-footed shot,Kaka,CR7,False
+189,10_11,LaLiga,22,2011-02-06,Home,RM,Real Sociedad,4:1,LW,42,03:00,Header,Mesut Ozil,CR7,False
+190,10_11,LaLiga,26,2011-03-03,Home,RM,Malaga CF,7:0,LW,50,04:00,Left-footed shot,Mesut Ozil,CR7,False
+191,10_11,LaLiga,26,2011-03-03,Home,RM,Malaga CF,7:0,LW,67,06:00,Penalty,,CR7,True
+192,10_11,LaLiga,26,2011-03-03,Home,RM,Malaga CF,7:0,LW,76,07:00,Right-footed shot,Sergio Canales,CR7,False
+193,10_11,UEFA Champions League,Quarter-Finals,2011-04-05,Home,RM,Tottenham Hotspur,4:0,LW,87,04:00,Right-footed shot,Kaka,CR7,False
+194,10_11,LaLiga,31,2011-04-09,Away,RM,Athletic Bilbao,0:3,CF,70,00:03,Right-footed shot,Esteban Granero,CR7,False
+195,10_11,UEFA Champions League,Quarter-Finals,2011-04-13,Away,RM,Tottenham Hotspur,0:1,RW,50,00:01,Right-footed shot,Sami Khedira,CR7,False
+196,10_11,LaLiga,32,2011-04-16,Home,RM,FC Barcelona,1:1,LW,82,01:01,Penalty,,CR7,True
+197,10_11,Copa del Rey,Final,2011-04-20,Away,RM,FC Barcelona,0:1 AET,CF,103,00:01,Header,Angel Di Maria,CR7,False
+198,10_11,LaLiga,35,2011-05-07,Away,RM,Sevilla FC,2:6,LW,30,00:02,Right-footed shot,Pepe,CR7,False
+199,10_11,LaLiga,35,2011-05-07,Away,RM,Sevilla FC,2:6,LW,64,01:04,Right-footed shot,,CR7,False
+200,10_11,LaLiga,35,2011-05-07,Away,RM,Sevilla FC,2:6,LW,70,01:05,Right-footed shot,Mesut Ozil,CR7,False
+201,10_11,LaLiga,35,2011-05-07,Away,RM,Sevilla FC,2:6,LW,76,01:06,Right-footed shot,Karim Benzema,CR7,False
+202,10_11,LaLiga,36,2011-05-10,Home,RM,Getafe CF,4:0,LW,23,01:00,Header,Mesut Ozil,CR7,False
+203,10_11,LaLiga,36,2011-05-10,Home,RM,Getafe CF,4:0,LW,57,02:00,Left-footed shot,Mesut Ozil,CR7,False
+204,10_11,LaLiga,36,2011-05-10,Home,RM,Getafe CF,4:0,LW,90+1,04:00,Penalty,,CR7,True
+205,10_11,LaLiga,37,2011-05-15,Away,RM,Villarreal CF,1:3,CF,22,00:02,Direct free kick,,CR7,False
+206,10_11,LaLiga,37,2011-05-15,Away,RM,Villarreal CF,1:3,CF,90,01:03,Direct free kick,,CR7,False
+207,10_11,LaLiga,38,2011-05-21,Home,RM,UD Almeria,8:1,LW,4,01:00,Right-footed shot,Sergio Ramos,CR7,False
+208,10_11,LaLiga,38,2011-05-21,Home,RM,UD Almeria,8:1,LW,76,07:01,Right-footed shot,Sergio Ramos,CR7,False
+209,11_12,Supercopa,final,2011-08-17,Away,RM,FC Barcelona,3:2,LW,20,01:01,Right-footed shot,Karim Benzema,CR7,False
+210,11_12,LaLiga,2,2011-08-28,Away,RM,Real Zaragoza,0:6,LW,23,00:01,Left-footed shot,Mesut Ozil,CR7,False
+211,11_12,LaLiga,2,2011-08-28,Away,RM,Real Zaragoza,0:6,LW,70,00:04,Right-footed shot,Angel Di Maria,CR7,False
+212,11_12,LaLiga,2,2011-08-28,Away,RM,Real Zaragoza,0:6,LW,86,00:06,Right-footed shot,Kaka,CR7,False
+213,11_12,LaLiga,3,2011-09-10,Home,RM,Getafe CF,4:2,LW,59,02:01,Penalty,,CR7,True
+214,11_12,LaLiga,6,2011-09-24,Home,RM,Rayo Vallecano,6:2,LW,39,01:01,Left-footed shot,Kaka,CR7,False
+215,11_12,LaLiga,6,2011-09-24,Home,RM,Rayo Vallecano,6:2,LW,51,03:01,Penalty,,CR7,True
+216,11_12,LaLiga,6,2011-09-24,Home,RM,Rayo Vallecano,6:2,LW,84,06:02,Penalty,,CR7,True
+217,11_12,UEFA Champions League,Group Stage,2011-09-27,Home,RM,Ajax Amsterdam,3:0,LW,25,01:00,Right-footed shot,Karim Benzema,CR7,False
+218,11_12,LaLiga,9,2011-10-22,Away,RM,Malaga CF,0:4,LW,24,00:02,Left-footed shot,Angel Di Maria,CR7,False
+219,11_12,LaLiga,9,2011-10-22,Away,RM,Malaga CF,0:4,LW,28,00:03,Right-footed shot,Xabi Alonso,CR7,False
+220,11_12,LaLiga,9,2011-10-22,Away,RM,Malaga CF,0:4,LW,38,00:04,Right-footed shot,Sergio Ramos,CR7,False
+221,11_12,UEFA Champions League,Group Stage,2011-11-02,Away,RM,Olympique Lyon,0:2,LW,25,00:01,Direct free kick,,CR7,False
+222,11_12,UEFA Champions League,Group Stage,2011-11-02,Away,RM,Olympique Lyon,0:2,LW,69,00:02,Penalty,,CR7,True
+223,11_12,LaLiga,12,2011-11-06,Home,RM,CA Osasuna,7:1,LW,23,01:00,Header,Angel Di Maria,CR7,False
+224,11_12,LaLiga,12,2011-11-06,Home,RM,CA Osasuna,7:1,LW,55,04:01,Penalty,,CR7,True
+225,11_12,LaLiga,12,2011-11-06,Home,RM,CA Osasuna,7:1,LW,58,05:01,Header,alvaro Arbeloa,CR7,False
+226,11_12,LaLiga,13,2011-11-19,Away,RM,Valencia CF,2:3,LW,79,01:03,Right-footed shot,Pepe,CR7,False
+227,11_12,LaLiga,14,2011-11-26,Home,RM,Atletico de Madrid,4:1,LW,24,01:01,Penalty,,CR7,True
+228,11_12,LaLiga,14,2011-11-26,Home,RM,Atletico de Madrid,4:1,LW,82,04:01,Penalty,,CR7,True
+229,11_12,LaLiga,15,2011-12-03,Away,RM,Sporting de Gijón,0:3,LW,65,00:02,Right-footed shot,Angel Di Maria,CR7,False
+230,11_12,Copa del Rey,4th round,2011-12-13,Away,RM,SD Ponferradina,0:2,LW,74,00:02,Left-footed shot,Gonzalo Higuain,CR7,False
+231,11_12,LaLiga,17,2011-12-17,Away,RM,Sevilla FC,2:6,LW,10,00:01,Right-footed shot,Angel Di Maria,CR7,False
+232,11_12,LaLiga,17,2011-12-17,Away,RM,Sevilla FC,2:6,LW,41,00:03,Right-footed shot,Karim Benzema,CR7,False
+233,11_12,LaLiga,17,2011-12-17,Away,RM,Sevilla FC,2:6,LW,86,01:05,Penalty,,CR7,True
+234,11_12,LaLiga,18,2012-01-07,Home,RM,Granada CF,5:1,LW,89,05:01,Right-footed shot,,CR7,False
+235,11_12,Copa del Rey,Quarter-Finals,2012-01-18,Home,RM,FC Barcelona,1:2,LW,11,01:00,Left-footed shot,Karim Benzema,CR7,False
+236,11_12,LaLiga,1,2012-01-22,Home,RM,Athletic Bilbao,4:1,LW,46,02:01,Penalty,,CR7,True
+237,11_12,LaLiga,1,2012-01-22,Home,RM,Athletic Bilbao,4:1,LW,67,03:01,Penalty,,CR7,True
+238,11_12,Copa del Rey,Quarter-Finals,2012-01-25,Away,RM,FC Barcelona,2:2,LW,68,02:01,Right-footed shot,Mesut Ozil,CR7,False
+239,11_12,LaLiga,21,2012-01-28,Home,RM,Real Zaragoza,3:1,LW,48,02:01,Right-footed shot,Mesut Ozil,CR7,False
+240,11_12,LaLiga,23,2012-02-12,Home,RM,Levante UD,4:2,LW,45,01:01,Penalty,,CR7,True
+241,11_12,LaLiga,23,2012-02-12,Home,RM,Levante UD,4:2,LW,50,02:01,Header,Gonzalo Higuain,CR7,False
+242,11_12,LaLiga,23,2012-02-12,Home,RM,Levante UD,4:2,LW,57,03:01,Right-footed shot,Fábio Coentrão,CR7,False
+243,11_12,LaLiga,24,2012-02-18,Home,RM,Racing Santander,4:0,LW,6,01:00,Header,Kaka,CR7,False
+244,11_12,UEFA Champions League,last 16,2012-02-21,Away,RM,CSKA Moscow,1:1,LW,28,00:01,Left-footed shot,Fábio Coentrão,CR7,False
+245,11_12,LaLiga,25,2012-02-26,Away,RM,Rayo Vallecano,0:1,LW,53,00:01,Right-footed shot,,CR7,False
+246,11_12,LaLiga,26,2012-03-04,Home,RM,RCD Espanyol Barcelona,5:0,LW,23,01:00,Left-footed shot,Gonzalo Higuain,CR7,False
+247,11_12,LaLiga,27,2012-03-10,Away,RM,Real Betis Balompie,2:3,LW,52,01:02,Left-footed shot,Marcelo,CR7,False
+248,11_12,LaLiga,27,2012-03-10,Away,RM,Real Betis Balompie,2:3,LW,73,02:03,Left-footed shot,,CR7,False
+249,11_12,UEFA Champions League,last 16,2012-03-14,Home,RM,CSKA Moscow,4:1,LW,55,02:00,Right-footed shot,Sergio Ramos,CR7,False
+250,11_12,UEFA Champions League,last 16,2012-03-14,Home,RM,CSKA Moscow,4:1,LW,90+4,04:01,Right-footed shot,Karim Benzema,CR7,False
+251,11_12,LaLiga,29,2012-03-21,Away,RM,Villarreal CF,1:1,LW,61,00:01,Right-footed shot,Mesut Ozil,CR7,False
+252,11_12,LaLiga,30,2012-03-24,Home,RM,Real Sociedad,5:1,LW,32,02:00,Right-footed shot,Kaka,CR7,False
+253,11_12,LaLiga,30,2012-03-24,Home,RM,Real Sociedad,5:1,LW,55,05:01,Right-footed shot,Gonzalo Higuain,CR7,False
+254,11_12,LaLiga,31,2012-03-31,Away,RM,CA Osasuna,1:5,LW,37,00:02,Long distance kick,Xabi Alonso,CR7,False
+255,11_12,LaLiga,31,2012-03-31,Away,RM,CA Osasuna,1:5,LW,70,01:04,Direct free kick,,CR7,False
+256,11_12,UEFA Champions League,Quarter-Finals,2012-04-04,Home,RM,APOEL Nicosia,5:2,LW,26,01:00,Right-footed shot,Marcelo,CR7,False
+257,11_12,UEFA Champions League,Quarter-Finals,2012-04-04,Home,RM,APOEL Nicosia,5:2,LW,75,03:01,Direct free kick,,CR7,False
+258,11_12,LaLiga,33,2012-04-11,Away,RM,Atletico de Madrid,1:4,LW,24,00:01,Direct free kick,,CR7,False
+259,11_12,LaLiga,33,2012-04-11,Away,RM,Atletico de Madrid,1:4,LW,67,01:02,Long distance kick,,CR7,False
+260,11_12,LaLiga,33,2012-04-11,Away,RM,Atletico de Madrid,1:4,LW,82,01:03,Penalty,,CR7,True
+261,11_12,LaLiga,34,2012-04-14,Home,RM,Sporting de Gijón,3:1,LW,74,02:01,Header,Angel Di Maria,CR7,False
+262,11_12,LaLiga,35,2012-04-21,Away,RM,FC Barcelona,1:2,LW,73,01:02,Right-footed shot,Mesut Ozil,CR7,False
+263,11_12,UEFA Champions League,Semi-Finals,2012-04-25,Home,RM,Bayern Munich,3:4 on pens,LW,6,01:00,Penalty,,CR7,True
+264,11_12,UEFA Champions League,Semi-Finals,2012-04-25,Home,RM,Bayern Munich,3:4 on pens,LW,14,02:00,Right-footed shot,Mesut Ozil,CR7,False
+265,11_12,LaLiga,36,2012-04-29,Home,RM,Sevilla FC,3:0,LW,19,01:00,Right-footed shot,Karim Benzema,CR7,False
+266,11_12,LaLiga,20,2012-05-02,Away,RM,Athletic Bilbao,0:3,LW,49,00:03,Header,Xabi Alonso,CR7,False
+267,11_12,LaLiga,37,2012-05-05,Away,RM,Granada CF,1:2,LW,81,01:01,Penalty,,CR7,True
+268,11_12,LaLiga,38,2012-05-13,Home,RM,RCD Mallorca,4:1,LW,18,01:00,Header,Marcelo,CR7,False
+269,12_13,Supercopa,final,2012-08-23,Away,RM,FC Barcelona,3:2,LW,55,00:01,Header,Mesut Ozil,CR7,False
+270,12_13,Supercopa,final,2012-08-29,Home,RM,FC Barcelona,2:1,LW,19,02:00,Right-footed shot,Sami Khedira,CR7,False
+271,12_13,LaLiga,3,2012-09-02,Home,RM,Granada CF,3:0,LW,25,01:00,Right-footed shot,José Callejón,CR7,False
+272,12_13,LaLiga,3,2012-09-02,Home,RM,Granada CF,3:0,LW,53,02:00,Left-footed shot,,CR7,False
+273,12_13,UEFA Champions League,Group Stage,2012-09-18,Home,RM,Manchester City,3:2,LW,90,03:02,Right-footed shot,Marcelo,CR7,False
+274,12_13,LaLiga,5,2012-09-24,Away,RM,Rayo Vallecano,0:2,LW,69,00:02,Penalty,,CR7,True
+275,12_13,LaLiga,6,2012-09-30,Home,RM,Deportivo de La Coruña,5:1,LW,23,01:01,Penalty,,CR7,True
+276,12_13,LaLiga,6,2012-09-30,Home,RM,Deportivo de La Coruña,5:1,LW,44,03:01,Header,Sergio Ramos,CR7,False
+277,12_13,LaLiga,6,2012-09-30,Home,RM,Deportivo de La Coruña,5:1,LW,84,05:01,Penalty,,CR7,True
+278,12_13,UEFA Champions League,Group Stage,2012-10-03,Away,RM,Ajax Amsterdam,1:4,LW,42,00:01,Right-footed shot,Karim Benzema,CR7,False
+279,12_13,UEFA Champions League,Group Stage,2012-10-03,Away,RM,Ajax Amsterdam,1:4,LW,79,01:03,Right-footed shot,Karim Benzema,CR7,False
+280,12_13,UEFA Champions League,Group Stage,2012-10-03,Away,RM,Ajax Amsterdam,1:4,LW,81,01:04,Left-footed shot,Sami Khedira,CR7,False
+281,12_13,LaLiga,7,2012-10-07,Away,RM,FC Barcelona,2:2,LW,22,00:01,Left-footed shot,Karim Benzema,CR7,False
+282,12_13,LaLiga,7,2012-10-07,Away,RM,FC Barcelona,2:2,LW,66,02:02,Right-footed shot,Mesut Ozil,CR7,False
+283,12_13,LaLiga,8,2012-10-20,Home,RM,Celta de Vigo,2:0,LW,67,02:00,Penalty,,CR7,True
+284,12_13,UEFA Champions League,Group Stage,2012-10-24,Away,RM,Borussia Dortmund,2:1,LW,38,01:01,Right-footed shot,Mesut Ozil,CR7,False
+285,12_13,LaLiga,9,2012-10-28,Away,RM,RCD Mallorca,0:5,LW,22,00:02,Right-footed shot,Gonzalo Higuain,CR7,False
+286,12_13,LaLiga,9,2012-10-28,Away,RM,RCD Mallorca,0:5,LW,73,00:04,Right-footed shot,Gonzalo Higuain,CR7,False
+287,12_13,LaLiga,11,2012-11-11,Away,RM,Levante UD,1:2,CF,20,00:01,Right-footed shot,,CR7,False
+288,12_13,LaLiga,14,2012-12-01,Home,RM,Atletico de Madrid,2:0,LW,16,01:00,Direct free kick,,CR7,False
+289,12_13,UEFA Champions League,Group Stage,2012-12-04,Home,RM,Ajax Amsterdam,4:1,LW,13,01:00,Right-footed shot,Karim Benzema,CR7,False
+290,12_13,Copa del Rey,last 16,2012-12-12,Away,RM,Celta de Vigo,2:1,LW,87,02:01,Left-footed shot,Xabi Alonso,CR7,False
+291,12_13,LaLiga,16,2012-12-16,Home,RM,RCD Espanyol Barcelona,2:2,CF,45,01:01,Right-footed shot,Sami Khedira,CR7,False
+292,12_13,LaLiga,18,2013-01-06,Home,RM,Real Sociedad,4:3,LW,67,03:02,Left-footed shot,Karim Benzema,CR7,False
+293,12_13,LaLiga,18,2013-01-06,Home,RM,Real Sociedad,4:3,LW,70,04:02,Direct free kick,,CR7,False
+294,12_13,Copa del Rey,last 16,2013-01-09,Home,RM,Celta de Vigo,4:0,LW,2,01:00,Right-footed shot,alvaro Arbeloa,CR7,False
+295,12_13,Copa del Rey,last 16,2013-01-09,Home,RM,Celta de Vigo,4:0,LW,24,02:00,Left-footed shot,Luka Modric,CR7,False
+296,12_13,Copa del Rey,last 16,2013-01-09,Home,RM,Celta de Vigo,4:0,LW,87,03:00,Left-footed shot,Gonzalo Higuain,CR7,False
+297,12_13,LaLiga,20,2013-01-20,Away,RM,Valencia CF,0:5,LW,35,00:03,Left-footed shot,Fábio Coentrão,CR7,False
+298,12_13,LaLiga,20,2013-01-20,Away,RM,Valencia CF,0:5,LW,41,00:04,Right-footed shot,Mesut Ozil,CR7,False
+299,12_13,LaLiga,21,2013-01-27,Home,RM,Getafe CF,4:0,LW,62,02:00,Left-footed shot,Mesut Ozil,CR7,False
+300,12_13,LaLiga,21,2013-01-27,Home,RM,Getafe CF,4:0,LW,65,03:00,Header,Angel Di Maria,CR7,False
+301,12_13,LaLiga,21,2013-01-27,Home,RM,Getafe CF,4:0,LW,72,04:00,Penalty,,CR7,True
+302,12_13,LaLiga,23,2013-02-09,Home,RM,Sevilla FC,4:1,LW,26,02:00,Left-footed shot,Kaka,CR7,False
+303,12_13,LaLiga,23,2013-02-09,Home,RM,Sevilla FC,4:1,LW,46,03:00,Left-footed shot,alvaro Arbeloa,CR7,False
+304,12_13,LaLiga,23,2013-02-09,Home,RM,Sevilla FC,4:1,LW,59,04:00,Right-footed shot,Gonzalo Higuain,CR7,False
+305,12_13,UEFA Champions League,last 16,2013-02-13,Home,RM,Manchester United,1:1,LW,30,01:01,Header,Angel Di Maria,CR7,False
+306,12_13,Copa del Rey,Semi-Finals,2013-02-26,Away,RM,FC Barcelona,1:3,LW,12,00:01,Penalty,,CR7,True
+307,12_13,Copa del Rey,Semi-Finals,2013-02-26,Away,RM,FC Barcelona,1:3,LW,57,00:02,Left-footed shot,,CR7,False
+308,12_13,UEFA Champions League,last 16,2013-03-05,Away,RM,Manchester United,1:2,LW,69,01:02,Right-footed shot,Gonzalo Higuain,CR7,False
+309,12_13,LaLiga,27,2013-03-10,Away,RM,Celta de Vigo,1:2,LW,61,00:01,Left-footed shot,José Callejón,CR7,False
+310,12_13,LaLiga,27,2013-03-10,Away,RM,Celta de Vigo,1:2,LW,71,01:02,Penalty,,CR7,True
+311,12_13,LaLiga,28,2013-03-16,Home,RM,RCD Mallorca,5:2,LW,52,02:02,Header,Mesut Ozil,CR7,False
+312,12_13,LaLiga,29,2013-03-30,Away,RM,Real Zaragoza,1:1,LW,38,01:01,Long distance kick,,CR7,False
+313,12_13,UEFA Champions League,Quarter-Finals,2013-04-03,Home,RM,Galatasaray,3:0,LW,9,01:00,Left-footed shot,Mesut Ozil,CR7,False
+314,12_13,LaLiga,30,2013-04-06,Home,RM,Levante UD,5:1,CF,84,03:01,Right-footed shot,Gonzalo Higuain,CR7,False
+315,12_13,UEFA Champions League,Quarter-Finals,2013-04-09,Away,RM,Galatasaray,3:2,LW,8,00:01,Right-footed shot,Sami Khedira,CR7,False
+316,12_13,UEFA Champions League,Quarter-Finals,2013-04-09,Away,RM,Galatasaray,3:2,LW,90+2,03:02,Right-footed shot,Karim Benzema,CR7,False
+317,12_13,LaLiga,31,2013-04-14,Away,RM,Athletic Bilbao,0:3,LW,2,00:01,Direct free kick,,CR7,False
+318,12_13,LaLiga,31,2013-04-14,Away,RM,Athletic Bilbao,0:3,LW,68,00:02,Header,Xabi Alonso,CR7,False
+319,12_13,UEFA Champions League,Semi-Finals,2013-04-24,Away,RM,Borussia Dortmund,4:1,LW,43,01:01,Right-footed shot,Gonzalo Higuain,CR7,False
+320,12_13,LaLiga,34,2013-05-04,Home,RM,Real Valladolid CF,4:3,LW,32,02:01,Header,Angel Di Maria,CR7,False
+321,12_13,LaLiga,34,2013-05-04,Home,RM,Real Valladolid CF,4:3,LW,70,04:02,Header,Mesut Ozil,CR7,False
+322,12_13,LaLiga,36,2013-05-08,Home,RM,Malaga CF,6:2,LW,26,02:01,Right-footed shot,Xabi Alonso,CR7,False
+323,12_13,Copa del Rey,Final,2013-05-17,Away,RM,Atletico de Madrid,2:1 AET,LW,14,00:01,Header,Luka Modric,CR7,False
+324,13_14,LaLiga,3,2013-09-01,Home,RM,Athletic Bilbao,3:1,LW,45,02:00,Header,Angel Di Maria,CR7,False
+325,13_14,LaLiga,4,2013-09-14,Away,RM,Villarreal CF,2:2,LW,64,01:02,Right-footed shot,,CR7,False
+326,13_14,UEFA Champions League,Group Stage,2013-09-17,Away,RM,Galatasaray,1:6,LW,63,00:03,Left-footed shot,Isco,CR7,False
+327,13_14,UEFA Champions League,Group Stage,2013-09-17,Away,RM,Galatasaray,1:6,LW,66,00:04,Tap-in,Sergio Ramos,CR7,False
+328,13_14,UEFA Champions League,Group Stage,2013-09-17,Away,RM,Galatasaray,1:6,LW,90,01:06,Left-footed shot,Karim Benzema,CR7,False
+329,13_14,LaLiga,5,2013-09-22,Home,RM,Getafe CF,4:1,LW,34,02:01,Penalty,,CR7,True
+330,13_14,LaLiga,5,2013-09-22,Home,RM,Getafe CF,4:1,LW,90,04:01,Right-footed shot,Sami Khedira,CR7,False
+331,13_14,LaLiga,6,2013-09-25,Away,RM,Elche CF,1:2,LW,51,00:01,Direct free kick,,CR7,False
+332,13_14,LaLiga,6,2013-09-25,Away,RM,Elche CF,1:2,LW,90+6,01:02,Penalty,,CR7,True
+333,13_14,UEFA Champions League,Group Stage,2013-10-02,Home,RM,FC Copenhagen,4:0,LW,21,01:00,Header,Marcelo,CR7,False
+334,13_14,UEFA Champions League,Group Stage,2013-10-02,Home,RM,FC Copenhagen,4:0,LW,65,02:00,Header,Angel Di Maria,CR7,False
+335,13_14,LaLiga,8,2013-10-05,Away,RM,Levante UD,2:3,LW,90+4,02:03,Right-footed shot,Luka Modric,CR7,False
+336,13_14,LaLiga,9,2013-10-19,Home,RM,Malaga CF,2:0,LW,90+1,02:00,Penalty,,CR7,True
+337,13_14,UEFA Champions League,Group Stage,2013-10-23,Home,RM,Juventus FC,2:1,LW,4,01:00,Right-footed shot,Angel Di Maria,CR7,False
+338,13_14,UEFA Champions League,Group Stage,2013-10-23,Home,RM,Juventus FC,2:1,LW,29,02:01,Penalty,,CR7,True
+339,13_14,LaLiga,11,2013-10-30,Home,RM,Sevilla FC,7:3,LW,31,03:00,Penalty,,CR7,True
+340,13_14,LaLiga,11,2013-10-30,Home,RM,Sevilla FC,7:3,LW,60,05:02,Right-footed shot,Gareth Bale,CR7,False
+341,13_14,LaLiga,11,2013-10-30,Home,RM,Sevilla FC,7:3,LW,71,06:03,Right-footed shot,Karim Benzema,CR7,False
+342,13_14,LaLiga,12,2013-11-02,Away,RM,Rayo Vallecano,2:3,LW,3,00:01,Right-footed shot,Luka Modric,CR7,False
+343,13_14,LaLiga,12,2013-11-02,Away,RM,Rayo Vallecano,2:3,LW,48,00:03,Right-footed shot,Gareth Bale,CR7,False
+344,13_14,UEFA Champions League,Group Stage,2013-11-05,Away,RM,Juventus FC,2:2,LW,52,01:01,Right-footed shot,Karim Benzema,CR7,False
+345,13_14,LaLiga,13,2013-11-09,Home,RM,Real Sociedad,5:1,LW,12,01:00,Right-footed shot,Karim Benzema,CR7,False
+346,13_14,LaLiga,13,2013-11-09,Home,RM,Real Sociedad,5:1,LW,27,03:00,Penalty,,CR7,True
+347,13_14,LaLiga,13,2013-11-09,Home,RM,Real Sociedad,5:1,LW,76,05:01,Direct free kick,,CR7,False
+348,13_14,LaLiga,14,2013-11-23,Away,RM,UD Almeria,0:5,LW,3,00:01,Left-footed shot,Isco,CR7,False
+349,13_14,UEFA Champions League,Group Stage,2013-12-10,Away,RM,FC Copenhagen,0:2,LW,48,00:02,Right-footed shot,Pepe,CR7,False
+350,13_14,LaLiga,17,2013-12-22,Away,RM,Valencia CF,2:3,LW,40,01:02,Header,Angel Di Maria,CR7,False
+351,13_14,LaLiga,18,2014-01-06,Home,RM,Celta de Vigo,3:0,LW,82,02:00,Right-footed shot,Daniel Carvajal,CR7,False
+352,13_14,LaLiga,18,2014-01-06,Home,RM,Celta de Vigo,3:0,LW,90,03:00,Right-footed shot,Gareth Bale,CR7,False
+353,13_14,Copa del Rey,last 16,2014-01-15,Away,RM,CA Osasuna,0:2,LW,22,00:01,Direct free kick,,CR7,False
+354,13_14,LaLiga,20,2014-01-18,Away,RM,Real Betis Balompie,0:5,LW,10,00:01,Right-footed shot,Angel Di Maria,CR7,False
+355,13_14,LaLiga,21,2014-01-25,Home,RM,Granada CF,2:0,LW,57,01:00,Right-footed shot,Luka Modric,CR7,False
+356,13_14,Copa del Rey,Semi-Finals,2014-02-11,Away,RM,Atletico de Madrid,0:2,LW,6,00:01,Penalty,,CR7,True
+357,13_14,Copa del Rey,Semi-Finals,2014-02-11,Away,RM,Atletico de Madrid,0:2,LW,15,00:02,Penalty,,CR7,True
+358,13_14,UEFA Champions League,last 16,2014-02-26,Away,RM,FC Schalke 04,1:6,LW,52,00:03,Left-footed shot,Gareth Bale,CR7,False
+359,13_14,UEFA Champions League,last 16,2014-02-26,Away,RM,FC Schalke 04,1:6,LW,89,00:06,Right-footed shot,Karim Benzema,CR7,False
+360,13_14,LaLiga,26,2014-03-02,Away,RM,Atletico de Madrid,2:2,LW,82,02:02,Right-footed shot,Gareth Bale,CR7,False
+361,13_14,LaLiga,27,2014-03-09,Home,RM,Levante UD,3:0,LW,11,01:00,Header,Angel Di Maria,CR7,False
+362,13_14,LaLiga,28,2014-03-15,Away,RM,Malaga CF,0:1,LW,23,00:01,Right-footed shot,Gareth Bale,CR7,False
+363,13_14,UEFA Champions League,last 16,2014-03-18,Home,RM,FC Schalke 04,3:1,LW,22,01:00,Right-footed shot,Gareth Bale,CR7,False
+364,13_14,UEFA Champions League,last 16,2014-03-18,Home,RM,FC Schalke 04,3:1,LW,74,02:01,Right-footed shot,,CR7,False
+365,13_14,LaLiga,29,2014-03-23,Home,RM,FC Barcelona,3:4,LW,55,03:02,Penalty,,CR7,True
+366,13_14,LaLiga,30,2014-03-26,Away,RM,Sevilla FC,2:1,LW,14,00:01,Direct free kick,,CR7,False
+367,13_14,LaLiga,31,2014-03-29,Home,RM,Rayo Vallecano,5:0,LW,15,01:00,Right-footed shot,Gareth Bale,CR7,False
+368,13_14,UEFA Champions League,Quarter-Finals,2014-04-02,Home,RM,Borussia Dortmund,3:0,LW,57,03:00,Left-footed shot,Luka Modric,CR7,False
+369,13_14,LaLiga,35,2014-04-26,Home,RM,CA Osasuna,4:0,LW,6,01:00,Long distance kick,Angel Di Maria,CR7,False
+370,13_14,LaLiga,35,2014-04-26,Home,RM,CA Osasuna,4:0,LW,52,02:00,Long distance kick,Isco,CR7,False
+371,13_14,UEFA Champions League,Semi-Finals,2014-04-29,Away,RM,Bayern Munich,0:4,LW,34,00:03,Counter attack goal,Gareth Bale,CR7,False
+372,13_14,UEFA Champions League,Semi-Finals,2014-04-29,Away,RM,Bayern Munich,0:4,LW,90,00:04,Direct free kick,,CR7,False
+373,13_14,LaLiga,36,2014-05-04,Home,RM,Valencia CF,2:2,LW,90,02:02,Right-footed shot,Angel Di Maria,CR7,False
+374,13_14,UEFA Champions League,Final,2014-05-24,Home,RM,Atletico de Madrid,4:1 AET,LW,120,04:01,Penalty,,CR7,True
+375,14_15,UEFA Super Cup,Final,2014-08-12,Home,RM,Sevilla FC,2:0,LW,30,01:00,Right-footed shot,Gareth Bale,CR7,False
+376,14_15,UEFA Super Cup,Final,2014-08-12,Home,RM,Sevilla FC,2:0,LW,49,02:00,Left-footed shot,Karim Benzema,CR7,False
+377,14_15,LaLiga,1,2014-08-25,Home,RM,CÃ³rdoba CF,2:0,LW,90,02:00,Right-footed shot,Isco,CR7,False
+378,14_15,LaLiga,3,2014-09-13,Home,RM,Atletico de Madrid,1:2,LW,25,01:01,Penalty,,CR7,True
+379,14_15,UEFA Champions League,Group Stage,2014-09-16,Home,RM,FC Basel 1893,5:1,LW,31,03:00,Right-footed shot,Gareth Bale,CR7,False
+380,14_15,LaLiga,4,2014-09-20,Away,RM,Deportivo de La Coruña,2:8,RW,29,00:01,Header,alvaro Arbeloa,CR7,False
+381,14_15,LaLiga,4,2014-09-20,Away,RM,Deportivo de La Coruña,2:8,RW,41,00:03,Left-footed shot,Karim Benzema,CR7,False
+382,14_15,LaLiga,4,2014-09-20,Away,RM,Deportivo de La Coruña,2:8,RW,78,01:06,Left-footed shot,James Rodriguez,CR7,False
+383,14_15,LaLiga,5,2014-09-23,Home,RM,Elche CF,5:1,CF,28,02:01,Penalty,,CR7,True
+384,14_15,LaLiga,5,2014-09-23,Home,RM,Elche CF,5:1,CF,32,03:01,Header,Marcelo,CR7,False
+385,14_15,LaLiga,5,2014-09-23,Home,RM,Elche CF,5:1,CF,80,04:01,Penalty,,CR7,True
+386,14_15,LaLiga,5,2014-09-23,Home,RM,Elche CF,5:1,CF,90,05:01,Right-footed shot,Gareth Bale,CR7,False
+387,14_15,LaLiga,6,2014-09-27,Away,RM,Villarreal CF,0:2,CF,40,00:02,Right-footed shot,Karim Benzema,CR7,False
+388,14_15,UEFA Champions League,Group Stage,2014-10-01,Away,RM,Ludogorets Razgrad,1:2,CF,25,01:01,Penalty,,CR7,True
+389,14_15,LaLiga,7,2014-10-05,Home,RM,Athletic Bilbao,5:0,LW,3,01:00,Header,Gareth Bale,CR7,False
+390,14_15,LaLiga,7,2014-10-05,Home,RM,Athletic Bilbao,5:0,LW,55,03:00,Right-footed shot,Gareth Bale,CR7,False
+391,14_15,LaLiga,7,2014-10-05,Home,RM,Athletic Bilbao,5:0,LW,89,05:00,Deflected shot on goal,Pepe,CR7,False
+392,14_15,LaLiga,8,2014-10-18,Away,RM,Levante UD,0:5,CF,13,00:01,Penalty,,CR7,True
+393,14_15,LaLiga,8,2014-10-18,Away,RM,Levante UD,0:5,CF,61,00:03,Right-footed shot,Isco,CR7,False
+394,14_15,UEFA Champions League,Group Stage,2014-10-22,Away,RM,Liverpool FC,0:3,CF,23,00:01,Right-footed shot,James Rodriguez,CR7,False
+395,14_15,LaLiga,9,2014-10-25,Home,RM,FC Barcelona,3:1,CF,35,01:01,Penalty,,CR7,True
+396,14_15,LaLiga,10,2014-11-01,Away,RM,Granada CF,0:4,CF,2,00:01,Right-footed shot,Karim Benzema,CR7,False
+397,14_15,LaLiga,11,2014-11-08,Home,RM,Rayo Vallecano,5:1,CF,83,05:01,Right-footed shot,Isco,CR7,False
+398,14_15,LaLiga,12,2014-11-22,Away,RM,SD Eibar,0:4,CF,43,00:02,Right-footed shot,Daniel Carvajal,CR7,False
+399,14_15,LaLiga,12,2014-11-22,Away,RM,SD Eibar,0:4,CF,83,00:04,Penalty,,CR7,True
+400,14_15,UEFA Champions League,Group Stage,2014-11-26,Away,RM,FC Basel 1893,0:1,LW,35,00:01,Left-footed shot,Karim Benzema,CR7,False
+401,14_15,LaLiga,14,2014-12-06,Home,RM,Celta de Vigo,3:0,CF,36,01:00,Penalty,,CR7,True
+402,14_15,LaLiga,14,2014-12-06,Home,RM,Celta de Vigo,3:0,CF,65,02:00,Right-footed shot,,CR7,False
+403,14_15,LaLiga,14,2014-12-06,Home,RM,Celta de Vigo,3:0,CF,81,03:00,Left-footed shot,Marcelo,CR7,False
+404,14_15,UEFA Champions League,Group Stage,2014-12-09,Home,RM,Ludogorets Razgrad,4:0,CF,20,01:00,Penalty,,CR7,True
+405,14_15,LaLiga,15,2014-12-12,Away,RM,UD Almeria,1:4,CF,81,01:03,Right-footed shot,Karim Benzema,CR7,False
+406,14_15,LaLiga,15,2014-12-12,Away,RM,UD Almeria,1:4,CF,89,01:04,Right-footed shot,Daniel Carvajal,CR7,False
+407,14_15,LaLiga,17,2015-01-04,Away,RM,Valencia CF,2:1,LW,14,00:01,Penalty,,CR7,True
+408,14_15,Copa del Rey,last 16,2015-01-15,Home,RM,Atletico de Madrid,2:2,CF,54,02:02,Header,Gareth Bale,CR7,False
+409,14_15,LaLiga,19,2015-01-18,Away,RM,Getafe CF,0:3,LW,63,00:01,Left-footed shot,Karim Benzema,CR7,False
+410,14_15,LaLiga,19,2015-01-18,Away,RM,Getafe CF,0:3,LW,79,00:03,Header,James Rodriguez,CR7,False
+411,14_15,UEFA Champions League,last 16,2015-02-18,Away,RM,FC Schalke 04,0:2,LW,26,00:01,Header,Daniel Carvajal,CR7,False
+412,14_15,LaLiga,24,2015-02-22,Away,RM,Elche CF,0:2,CF,69,00:02,Header,Isco,CR7,False
+413,14_15,LaLiga,25,2015-03-01,Home,RM,Villarreal CF,1:1,CF,52,01:00,Penalty,,CR7,True
+414,14_15,UEFA Champions League,last 16,2015-03-10,Home,RM,FC Schalke 04,3:4,CF,25,01:01,Header,Toni Kroos,CR7,False
+415,14_15,UEFA Champions League,last 16,2015-03-10,Home,RM,FC Schalke 04,3:4,CF,45,02:02,Header,Fábio Coentrão,CR7,False
+416,14_15,LaLiga,28,2015-03-22,Away,RM,FC Barcelona,2:1,LW,31,01:01,Right-footed shot,Karim Benzema,CR7,False
+417,14_15,LaLiga,29,2015-04-05,Home,RM,Granada CF,9:1,CF,30,02:00,Right-footed shot,James Rodriguez,CR7,False
+418,14_15,LaLiga,29,2015-04-05,Home,RM,Granada CF,9:1,CF,36,03:00,Right-footed shot,,CR7,False
+419,14_15,LaLiga,29,2015-04-05,Home,RM,Granada CF,9:1,CF,38,04:00,Long distance kick,Gareth Bale,CR7,False
+420,14_15,LaLiga,29,2015-04-05,Home,RM,Granada CF,9:1,CF,54,06:00,Header,Gareth Bale,CR7,False
+421,14_15,LaLiga,29,2015-04-05,Home,RM,Granada CF,9:1,CF,90,09:01,Header,Luka Modric,CR7,False
+422,14_15,LaLiga,30,2015-04-08,Away,RM,Rayo Vallecano,0:2,LW,68,00:01,Header,Daniel Carvajal,CR7,False
+423,14_15,LaLiga,31,2015-04-11,Home,RM,SD Eibar,3:0,LW,21,01:00,Direct free kick,,CR7,False
+424,14_15,LaLiga,32,2015-04-18,Home,RM,Malaga CF,3:1,CF,90+2,03:01,Left-footed shot,Chicharito,CR7,False
+425,14_15,LaLiga,35,2015-05-02,Away,RM,Sevilla FC,2:3,CF,36,00:01,Header,Isco,CR7,False
+426,14_15,LaLiga,35,2015-05-02,Away,RM,Sevilla FC,2:3,CF,37,00:02,Right-footed shot,Chicharito,CR7,False
+427,14_15,LaLiga,35,2015-05-02,Away,RM,Sevilla FC,2:3,CF,69,01:03,Header,Gareth Bale,CR7,False
+428,14_15,UEFA Champions League,Semi-Finals,2015-05-05,Away,RM,Juventus FC,2:1,CF,27,01:01,Header,James Rodriguez,CR7,False
+429,14_15,UEFA Champions League,Semi-Finals,2015-05-13,Home,RM,Juventus FC,1:1,LW,23,01:00,Penalty,,CR7,True
+430,14_15,LaLiga,37,2015-05-17,Away,RM,RCD Espanyol Barcelona,1:4,LW,59,00:01,Left-footed shot,Karim Benzema,CR7,False
+431,14_15,LaLiga,37,2015-05-17,Away,RM,RCD Espanyol Barcelona,1:4,LW,83,01:03,Right-footed shot,Chicharito,CR7,False
+432,14_15,LaLiga,37,2015-05-17,Away,RM,RCD Espanyol Barcelona,1:4,LW,90+1,01:04,Header,James Rodriguez,CR7,False
+433,14_15,LaLiga,38,2015-05-23,Home,RM,Getafe CF,7:3,LW,13,01:00,Header,Marcelo,CR7,False
+434,14_15,LaLiga,38,2015-05-23,Home,RM,Getafe CF,7:3,LW,32,02:02,Direct free kick,,CR7,False
+435,14_15,LaLiga,38,2015-05-23,Home,RM,Getafe CF,7:3,LW,34,03:02,Penalty,,CR7,True
+436,15_16,LaLiga,3,2015-09-12,Away,RM,RCD Espanyol Barcelona,0:6,LW,7,00:01,Right-footed shot,Luka Modric,CR7,False
+437,15_16,LaLiga,3,2015-09-12,Away,RM,RCD Espanyol Barcelona,0:6,LW,17,00:02,Penalty,,CR7,True
+438,15_16,LaLiga,3,2015-09-12,Away,RM,RCD Espanyol Barcelona,0:6,LW,20,00:03,Left-footed shot,Gareth Bale,CR7,False
+439,15_16,LaLiga,3,2015-09-12,Away,RM,RCD Espanyol Barcelona,0:6,LW,62,00:05,Right-footed shot,Gareth Bale,CR7,False
+440,15_16,LaLiga,3,2015-09-12,Away,RM,RCD Espanyol Barcelona,0:6,LW,81,00:06,Right-footed shot,Lucas Vazquez,CR7,False
+441,15_16,UEFA Champions League,Group Stage,2015-09-15,Home,RM,Shakhtar Donetsk,4:0,LW,56,02:00,Penalty,,CR7,True
+442,15_16,UEFA Champions League,Group Stage,2015-09-15,Home,RM,Shakhtar Donetsk,4:0,LW,64,03:00,Penalty,,CR7,True
+443,15_16,UEFA Champions League,Group Stage,2015-09-15,Home,RM,Shakhtar Donetsk,4:0,LW,82,04:00,Header,,CR7,False
+444,15_16,UEFA Champions League,Group Stage,2015-09-30,Away,RM,Malmö FF,0:2,LW,29,00:01,Right-footed shot,Isco,CR7,False
+445,15_16,UEFA Champions League,Group Stage,2015-09-30,Away,RM,Malmö FF,0:2,LW,90,00:02,Left-footed shot,Lucas Vazquez,CR7,False
+446,15_16,LaLiga,8,2015-10-17,Home,RM,Levante UD,3:0,CF,30,02:00,Right-footed shot,Toni Kroos,CR7,False
+447,15_16,LaLiga,9,2015-10-24,Away,RM,Celta de Vigo,1:3,CF,8,00:01,Right-footed shot,Lucas Vazquez,CR7,False
+448,15_16,LaLiga,10,2015-10-31,Home,RM,UD Las Palmas,3:1,CF,14,02:00,Header,Marcelo,CR7,False
+449,15_16,UEFA Champions League,Group Stage,2015-11-25,Away,RM,Shakhtar Donetsk,3:4,CF,18,00:01,Header,Gareth Bale,CR7,False
+450,15_16,UEFA Champions League,Group Stage,2015-11-25,Away,RM,Shakhtar Donetsk,3:4,CF,70,00:04,Right-footed shot,Gareth Bale,CR7,False
+451,15_16,LaLiga,13,2015-11-29,Away,RM,SD Eibar,0:2,CF,82,00:02,Penalty,,CR7,True
+452,15_16,LaLiga,14,2015-12-05,Home,RM,Getafe CF,4:1,LW,38,04:00,Right-footed shot,Toni Kroos,CR7,False
+453,15_16,UEFA Champions League,Group Stage,2015-12-08,Home,RM,Malmö FF,8:0,LW,39,03:00,Direct free kick,,CR7,False
+454,15_16,UEFA Champions League,Group Stage,2015-12-08,Home,RM,Malmö FF,8:0,LW,47,04:00,Tap-in,,CR7,False
+455,15_16,UEFA Champions League,Group Stage,2015-12-08,Home,RM,Malmö FF,8:0,LW,50,05:00,Right-footed shot,Danilo,CR7,False
+456,15_16,UEFA Champions League,Group Stage,2015-12-08,Home,RM,Malmö FF,8:0,LW,59,06:00,Right-footed shot,Isco,CR7,False
+457,15_16,LaLiga,16,2015-12-20,Home,RM,Rayo Vallecano,10:2,LW,30,03:02,Penalty,,CR7,True
+458,15_16,LaLiga,16,2015-12-20,Home,RM,Rayo Vallecano,10:2,LW,54,06:02,Header,James Rodriguez,CR7,False
+459,15_16,LaLiga,17,2015-12-30,Home,RM,Real Sociedad,3:1,LW,42,01:00,Penalty,,CR7,True
+460,15_16,LaLiga,17,2015-12-30,Home,RM,Real Sociedad,3:1,LW,68,02:01,Left-footed shot,Marcelo,CR7,False
+461,15_16,LaLiga,20,2016-01-17,Home,RM,Sporting de Gijón,5:1,LW,9,02:00,Left-footed shot,Karim Benzema,CR7,False
+462,15_16,LaLiga,20,2016-01-17,Home,RM,Sporting de Gijón,5:1,LW,18,04:00,Left-footed shot,Daniel Carvajal,CR7,False
+463,15_16,LaLiga,22,2016-01-31,Home,RM,RCD Espanyol Barcelona,6:0,LW,12,02:00,Penalty,,CR7,True
+464,15_16,LaLiga,22,2016-01-31,Home,RM,RCD Espanyol Barcelona,6:0,LW,45,04:00,Left-footed shot,,CR7,False
+465,15_16,LaLiga,22,2016-01-31,Home,RM,RCD Espanyol Barcelona,6:0,LW,82,05:00,Header,Jese,CR7,False
+466,15_16,LaLiga,24,2016-02-13,Home,RM,Athletic Bilbao,4:2,LW,3,01:00,Right-footed shot,Karim Benzema,CR7,False
+467,15_16,LaLiga,24,2016-02-13,Home,RM,Athletic Bilbao,4:2,LW,87,04:01,Right-footed shot,Lucas Vazquez,CR7,False
+468,15_16,UEFA Champions League,last 16,2016-02-17,Away,RM,AS Roma,0:2,LW,57,00:01,Right-footed shot,Marcelo,CR7,False
+469,15_16,LaLiga,25,2016-02-21,Away,RM,Malaga CF,1:1,LW,33,00:01,Header,Toni Kroos,CR7,False
+470,15_16,LaLiga,27,2016-03-02,Away,RM,Levante UD,1:3,LW,34,00:01,Penalty,,CR7,True
+471,15_16,LaLiga,28,2016-03-05,Home,RM,Celta de Vigo,7:1,LW,50,02:00,Long distance kick,Sergio Ramos,CR7,False
+472,15_16,LaLiga,28,2016-03-05,Home,RM,Celta de Vigo,7:1,LW,58,03:00,Direct free kick,,CR7,False
+473,15_16,LaLiga,28,2016-03-05,Home,RM,Celta de Vigo,7:1,LW,64,04:01,Right-footed shot,Isco,CR7,False
+474,15_16,LaLiga,28,2016-03-05,Home,RM,Celta de Vigo,7:1,LW,76,05:01,Header,Jese,CR7,False
+475,15_16,UEFA Champions League,last 16,2016-03-08,Home,RM,AS Roma,2:0,CF,64,01:00,Right-footed shot,Lucas Vazquez,CR7,False
+476,15_16,LaLiga,30,2016-03-20,Home,RM,Sevilla FC,4:0,LW,64,02:00,Left-footed shot,Danilo,CR7,False
+477,15_16,LaLiga,31,2016-04-02,Away,RM,FC Barcelona,1:2,LW,85,01:02,Right-footed shot,Gareth Bale,CR7,False
+478,15_16,LaLiga,32,2016-04-09,Home,RM,SD Eibar,4:0,CF,19,03:00,Right-footed shot,Jese,CR7,False
+479,15_16,UEFA Champions League,Quarter-Finals,2016-04-12,Home,RM,VfL Wolfsburg,3:0,LW,16,01:00,Right-footed shot,Daniel Carvajal,CR7,False
+480,15_16,UEFA Champions League,Quarter-Finals,2016-04-12,Home,RM,VfL Wolfsburg,3:0,LW,17,02:00,Header,Toni Kroos,CR7,False
+481,15_16,UEFA Champions League,Quarter-Finals,2016-04-12,Home,RM,VfL Wolfsburg,3:0,LW,77,03:00,Direct free kick,,CR7,False
+482,15_16,LaLiga,33,2016-04-16,Away,RM,Getafe CF,1:5,LW,90+2,01:05,Left-footed shot,Jese,CR7,False
+483,15_16,LaLiga,37,2016-05-08,Home,RM,Valencia CF,3:2,LW,26,01:00,Right-footed shot,Marcelo,CR7,False
+484,15_16,LaLiga,37,2016-05-08,Home,RM,Valencia CF,3:2,LW,59,03:01,Left-footed shot,James Rodriguez,CR7,False
+485,15_16,LaLiga,38,2016-05-14,Away,RM,Deportivo de La Coruña,0:2,LW,8,00:01,Left-footed shot,Karim Benzema,CR7,False
+486,15_16,LaLiga,38,2016-05-14,Away,RM,Deportivo de La Coruña,0:2,LW,25,00:02,Header,Toni Kroos,CR7,False
+487,16_17,LaLiga,3,2016-09-10,Home,RM,CA Osasuna,5:2,LW,6,01:00,Right-footed shot,Gareth Bale,CR7,False
+488,16_17,UEFA Champions League,Group Stage,2016-09-14,Home,RM,Sporting CP,2:1,LW,89,01:01,Direct free kick,,CR7,False
+489,16_17,UEFA Champions League,Group Stage,2016-09-27,Away,RM,Borussia Dortmund,2:2,LW,17,00:01,Right-footed shot,Gareth Bale,CR7,False
+490,16_17,LaLiga,8,2016-10-15,Away,RM,Real Betis Balompie,1:6,LW,78,01:06,Right-footed shot,alvaro Morata,CR7,False
+491,16_17,LaLiga,10,2016-10-29,Away,RM,Deportivo Alaves,1:4,LW,17,01:01,Penalty,,CR7,True
+492,16_17,LaLiga,10,2016-10-29,Away,RM,Deportivo Alaves,1:4,LW,33,01:02,Right-footed shot,Karim Benzema,CR7,False
+493,16_17,LaLiga,10,2016-10-29,Away,RM,Deportivo Alaves,1:4,LW,88,01:04,Right-footed shot,Marcelo,CR7,False
+494,16_17,LaLiga,12,2016-11-19,Away,RM,Atletico de Madrid,0:3,CF,23,00:01,Direct free kick,,CR7,False
+495,16_17,LaLiga,12,2016-11-19,Away,RM,Atletico de Madrid,0:3,CF,71,00:02,Penalty,,CR7,True
+496,16_17,LaLiga,12,2016-11-19,Away,RM,Atletico de Madrid,0:3,CF,77,00:03,Right-footed shot,Gareth Bale,CR7,False
+497,16_17,LaLiga,13,2016-11-26,Home,RM,Sporting de Gijón,2:1,LW,5,01:00,Penalty,,CR7,True
+498,16_17,LaLiga,13,2016-11-26,Home,RM,Sporting de Gijón,2:1,LW,18,02:00,Header,Nacho Fernandez,CR7,False
+499,16_17,FIFA Club World Cup,Semi-Finals,2016-12-15,Away,RM,CF America,0:2,LW,90+3,00:02,Right-footed shot,James Rodriguez,CR7,False
+500,16_17,FIFA Club World Cup,Final,2016-12-18,Home,RM,Kashima Antlers,4:2 AET,LW,60,02:02,Penalty,,CR7,True
+501,16_17,FIFA Club World Cup,Final,2016-12-18,Home,RM,Kashima Antlers,4:2 AET,LW,97,03:02,Left-footed shot,Karim Benzema,CR7,False
+502,16_17,FIFA Club World Cup,Final,2016-12-18,Home,RM,Kashima Antlers,4:2 AET,LW,104,04:02,Left-footed shot,Toni Kroos,CR7,False
+503,16_17,LaLiga,17,2017-01-07,Home,RM,Granada CF,5:0,LW,27,03:00,Header,Marcelo,CR7,False
+504,16_17,LaLiga,18,2017-01-15,Away,RM,Sevilla FC,2:1,CF,67,00:01,Penalty,,CR7,True
+505,16_17,Copa del Rey,Quarter-Finals,2017-01-25,Away,RM,Celta de Vigo,2:2,CF,62,01:01,Direct free kick,,CR7,False
+506,16_17,LaLiga,20,2017-01-29,Home,RM,Real Sociedad,3:0,LW,51,02:00,Right-footed shot,Mateo Kovacic,CR7,False
+507,16_17,LaLiga,22,2017-02-11,Away,RM,CA Osasuna,1:3,CF,24,00:01,Right-footed shot,Karim Benzema,CR7,False
+508,16_17,LaLiga,16,2017-02-22,Away,RM,Valencia CF,2:1,LW,44,02:01,Header,Marcelo,CR7,False
+509,16_17,LaLiga,24,2017-02-26,Away,RM,Villarreal CF,2:3,LW,74,02:02,Penalty,,CR7,True
+510,16_17,LaLiga,25,2017-03-01,Home,RM,UD Las Palmas,3:3,LW,86,02:03,Penalty,,CR7,True
+511,16_17,LaLiga,25,2017-03-01,Home,RM,UD Las Palmas,3:3,LW,89,03:03,Header,James Rodriguez,CR7,False
+512,16_17,LaLiga,27,2017-03-12,Home,RM,Real Betis Balompie,2:1,LW,41,01:01,Header,Marcelo,CR7,False
+513,16_17,UEFA Champions League,Quarter-Finals,2017-04-12,Away,RM,Bayern Munich,1:2,LW,47,01:01,Right-footed shot,Daniel Carvajal,CR7,False
+514,16_17,UEFA Champions League,Quarter-Finals,2017-04-12,Away,RM,Bayern Munich,1:2,LW,77,01:02,Right-footed shot,Marco Asensio,CR7,False
+515,16_17,UEFA Champions League,Quarter-Finals,2017-04-18,Home,RM,Bayern Munich,4:2 AET,CF,76,01:01,Header,Casemiro,CR7,False
+516,16_17,UEFA Champions League,Quarter-Finals,2017-04-18,Home,RM,Bayern Munich,4:2 AET,CF,105,02:02,Left-footed shot,Sergio Ramos,CR7,False
+517,16_17,UEFA Champions League,Quarter-Finals,2017-04-18,Home,RM,Bayern Munich,4:2 AET,CF,109,03:02,Right-footed shot,Marcelo,CR7,False
+518,16_17,LaLiga,35,2017-04-29,Home,RM,Valencia CF,2:1,LW,27,01:00,Header,Daniel Carvajal,CR7,False
+519,16_17,UEFA Champions League,Semi-Finals,2017-05-02,Home,RM,Atletico de Madrid,3:0,CF,10,01:00,Header,Casemiro,CR7,False
+520,16_17,UEFA Champions League,Semi-Finals,2017-05-02,Home,RM,Atletico de Madrid,3:0,CF,73,02:00,Right-footed shot,Karim Benzema,CR7,False
+521,16_17,UEFA Champions League,Semi-Finals,2017-05-02,Home,RM,Atletico de Madrid,3:0,CF,86,03:00,Right-footed shot,Lucas Vazquez,CR7,False
+522,16_17,LaLiga,37,2017-05-14,Home,RM,Sevilla FC,4:1,LW,23,02:00,Right-footed shot,,CR7,False
+523,16_17,LaLiga,37,2017-05-14,Home,RM,Sevilla FC,4:1,LW,78,03:01,Left-footed shot,Toni Kroos,CR7,False
+524,16_17,LaLiga,21,2017-05-17,Away,RM,Celta de Vigo,1:4,CF,10,00:01,Left-footed shot,,CR7,False
+525,16_17,LaLiga,21,2017-05-17,Away,RM,Celta de Vigo,1:4,CF,48,00:02,Left-footed shot,Isco,CR7,False
+526,16_17,LaLiga,38,2017-05-21,Away,RM,Malaga CF,0:2,CF,2,00:01,Right-footed shot,Isco,CR7,False
+527,16_17,UEFA Champions League,Final,2017-06-03,Away,RM,Juventus FC,1:4,CF,20,00:01,Right-footed shot,Daniel Carvajal,CR7,False
+528,16_17,UEFA Champions League,Final,2017-06-03,Away,RM,Juventus FC,1:4,CF,64,01:03,Right-footed shot,Luka Modric,CR7,False
+529,17_18,Supercopa,final,2017-08-13,Away,RM,FC Barcelona,1:3,CF,80,01:02,Right-footed shot,Isco,CR7,False
+530,17_18,UEFA Champions League,Group Stage,2017-09-13,Home,RM,APOEL Nicosia,3:0,CF,12,01:00,Counter attack goal,Gareth Bale,CR7,False
+531,17_18,UEFA Champions League,Group Stage,2017-09-13,Home,RM,APOEL Nicosia,3:0,CF,51,02:00,Penalty,,CR7,True
+532,17_18,UEFA Champions League,Group Stage,2017-09-26,Away,RM,Borussia Dortmund,1:3,CF,49,00:02,Left-footed shot,Gareth Bale,CR7,False
+533,17_18,UEFA Champions League,Group Stage,2017-09-26,Away,RM,Borussia Dortmund,1:3,CF,79,01:03,Right-footed shot,Luka Modric,CR7,False
+534,17_18,LaLiga,8,2017-10-14,Away,RM,Getafe CF,1:2,CF,85,01:02,Right-footed shot,Isco,CR7,False
+535,17_18,UEFA Champions League,Group Stage,2017-10-17,Home,RM,Tottenham Hotspur,1:1,LW,43,01:01,Penalty,,CR7,True
+536,17_18,UEFA Champions League,Group Stage,2017-11-01,Away,RM,Tottenham Hotspur,3:1,LW,80,03:01,Right-footed shot,Borja Mayoral,CR7,False
+537,17_18,UEFA Champions League,Group Stage,2017-11-21,Away,RM,APOEL Nicosia,0:6,LW,49,00:05,Header,Marcelo,CR7,False
+538,17_18,UEFA Champions League,Group Stage,2017-11-21,Away,RM,APOEL Nicosia,0:6,LW,54,00:06,Left-footed shot,,CR7,False
+539,17_18,LaLiga,13,2017-11-25,Home,RM,Malaga CF,3:2,CF,76,03:02,Penalty rebound,,CR7,False
+540,17_18,UEFA Champions League,Group Stage,2017-12-06,Home,RM,Borussia Dortmund,3:2,LW,12,02:00,Right-footed shot,Mateo Kovacic,CR7,False
+541,17_18,LaLiga,15,2017-12-09,Home,RM,Sevilla FC,5:0,CF,23,02:00,Right-footed shot,Marco Asensio,CR7,False
+542,17_18,LaLiga,15,2017-12-09,Home,RM,Sevilla FC,5:0,CF,31,03:00,Penalty,,CR7,True
+543,17_18,FIFA Club World Cup,Semi-Finals,2017-12-13,Away,RM,Al-Jazira (Abu Dhabi),1:2,LW,53,01:01,Right-footed shot,Luka Modric,CR7,False
+544,17_18,FIFA Club World Cup,Final,2017-12-16,Home,RM,Grêmio Foot-Ball Porto Alegrense,1:0,LW,53,01:00,Direct free kick,,CR7,False
+545,17_18,LaLiga,20,2018-01-21,Home,RM,Deportivo de La Coruña,7:1,LW,78,05:01,Left-footed shot,Casemiro,CR7,False
+546,17_18,LaLiga,20,2018-01-21,Home,RM,Deportivo de La Coruña,7:1,LW,84,06:01,Header,Lucas Vazquez,CR7,False
+547,17_18,LaLiga,21,2018-01-27,Away,RM,Valencia CF,1:4,LW,16,00:01,Penalty,,CR7,True
+548,17_18,LaLiga,21,2018-01-27,Away,RM,Valencia CF,1:4,LW,38,00:02,Penalty,,CR7,True
+549,17_18,LaLiga,23,2018-02-10,Home,RM,Real Sociedad,5:2,CF,27,02:00,Right-footed shot,Marcelo,CR7,False
+550,17_18,LaLiga,23,2018-02-10,Home,RM,Real Sociedad,5:2,CF,37,04:00,Header,Luka Modric,CR7,False
+551,17_18,LaLiga,23,2018-02-10,Home,RM,Real Sociedad,5:2,CF,80,05:01,Tap-in,,CR7,False
+552,17_18,UEFA Champions League,last 16,2018-02-14,Home,RM,Paris Saint-Germain,3:1,LW,45,01:01,Penalty,,CR7,True
+553,17_18,UEFA Champions League,last 16,2018-02-14,Home,RM,Paris Saint-Germain,3:1,LW,83,02:01,Tap-in,,CR7,False
+554,17_18,LaLiga,24,2018-02-18,Away,RM,Real Betis Balompie,3:5,CF,65,02:04,Right-footed shot,Casemiro,CR7,False
+555,17_18,LaLiga,25,2018-02-24,Home,RM,Deportivo Alaves,4:0,CF,44,01:00,Left-footed shot,Karim Benzema,CR7,False
+556,17_18,LaLiga,25,2018-02-24,Home,RM,Deportivo Alaves,4:0,CF,61,03:00,Right-footed shot,Lucas Vazquez,CR7,False
+557,17_18,LaLiga,27,2018-03-03,Home,RM,Getafe CF,3:1,CF,45+1,02:00,Left-footed shot,Karim Benzema,CR7,False
+558,17_18,LaLiga,27,2018-03-03,Home,RM,Getafe CF,3:1,CF,78,03:01,Header,Marcelo,CR7,False
+559,17_18,UEFA Champions League,last 16,2018-03-06,Away,RM,Paris Saint-Germain,1:2,CF,51,00:01,Header,Lucas Vazquez,CR7,False
+560,17_18,LaLiga,28,2018-03-10,Away,RM,SD Eibar,1:2,CF,33,00:01,Right-footed shot,Luka Modric,CR7,False
+561,17_18,LaLiga,28,2018-03-10,Away,RM,SD Eibar,1:2,CF,84,01:02,Header,Daniel Carvajal,CR7,False
+562,17_18,LaLiga,29,2018-03-18,Home,RM,Girona FC,6:3,CF,11,01:00,Left-footed shot,Toni Kroos,CR7,False
+563,17_18,LaLiga,29,2018-03-18,Home,RM,Girona FC,6:3,CF,47,02:01,Left-footed shot,Karim Benzema,CR7,False
+564,17_18,LaLiga,29,2018-03-18,Home,RM,Girona FC,6:3,CF,64,04:01,Tap-in,,CR7,False
+565,17_18,LaLiga,29,2018-03-18,Home,RM,Girona FC,6:3,CF,90+1,06:03,Right-footed shot,Toni Kroos,CR7,False
+566,17_18,UEFA Champions League,Quarter-Finals,2018-04-03,Away,RM,Juventus FC,0:3,CF,3,00:01,Right-footed shot,Isco,CR7,False
+567,17_18,UEFA Champions League,Quarter-Finals,2018-04-03,Away,RM,Juventus FC,0:3,CF,64,00:02,Right-footed shot,Daniel Carvajal,CR7,False
+568,17_18,LaLiga,31,2018-04-08,Home,RM,Atletico de Madrid,1:1,CF,53,01:00,Right-footed shot,Gareth Bale,CR7,False
+569,17_18,UEFA Champions League,Quarter-Finals,2018-04-11,Home,RM,Juventus FC,1:3,CF,90+7,01:03,Penalty,,CR7,True
+570,17_18,LaLiga,33,2018-04-18,Home,RM,Athletic Bilbao,1:1,CF,87,01:01,Right-footed shot,Luka Modric,CR7,False
+571,17_18,LaLiga,36,2018-05-06,Away,RM,FC Barcelona,2:2,LW,14,01:01,Right-footed shot,Karim Benzema,CR7,False
+572,17_18,LaLiga,38,2018-05-19,Away,RM,Villarreal CF,2:2,CF,32,00:02,Header,Marcelo,CR7,False
+573,18_19,Serie A,4,2018-09-16,Home,Juv,US Sassuolo,2:1,CF,50,01:00,Tap-in,,CR7,False
+574,18_19,Serie A,4,2018-09-16,Home,Juv,US Sassuolo,2:1,CF,65,02:00,Left-footed shot,Emre Can,CR7,False
+575,18_19,Serie A,5,2018-09-23,Away,Juv,Frosinone Calcio,0:2,LW,81,00:01,Left-footed shot,,CR7,False
+576,18_19,Serie A,8,2018-10-06,Away,Juv,Udinese Calcio,0:2,LW,37,00:02,Left-footed shot,Mario Mandzukic,CR7,False
+577,18_19,Serie A,9,2018-10-20,Home,Juv,Genoa CFC,1:1,LW,18,01:00,Tap-in,,CR7,False
+578,18_19,Serie A,10,2018-10-27,Away,Juv,Empoli FC ,1:2,CF,54,01:01,Penalty,,CR7,True
+579,18_19,Serie A,10,2018-10-27,Away,Juv,Empoli FC ,1:2,CF,70,01:02,Right-footed shot,Blaise Matuidi,CR7,False
+580,18_19,UEFA Champions League,Group Stage,2018-11-07,Home,Juv,Manchester United,1:2,CF,65,01:00,Right-footed shot,Leonardo Bonucci,CR7,False
+581,18_19,Serie A,12,2018-11-11,Away,Juv,AC Milan,0:2,LW,81,00:02,Tap-in,,CR7,False
+582,18_19,Serie A,13,2018-11-24,Home,Juv,SPAL,2:0,CF,29,01:00,Left-footed shot,Miralem Pjanic,CR7,False
+583,18_19,Serie A,14,2018-12-01,Away,Juv,ACF Fiorentina,0:3,LW,79,00:03,Penalty,,CR7,True
+584,18_19,Serie A,16,2018-12-15,Away,Juv,Torino FC,0:1,LW,70,00:01,Penalty,,CR7,True
+585,18_19,Serie A,18,2018-12-26,Away,Juv,Atalanta BC,2:2,CF,78,02:02,Header,Giorgio Chiellini,CR7,False
+586,18_19,Serie A,19,2018-12-29,Home,Juv,UC Sampdoria,2:1,LW,2,01:00,Right-footed shot,Paulo Dybala,CR7,False
+587,18_19,Serie A,19,2018-12-29,Home,Juv,UC Sampdoria,2:1,LW,65,02:01,Penalty,,CR7,True
+588,18_19,Supercoppa Italiana,Final,2019-01-16,Home,Juv,AC Milan,1:0,LW,61,01:00,Header,Miralem Pjanic,CR7,False
+589,18_19,Serie A,21,2019-01-27,Away,Juv,SS Lazio,1:2,LW,88,01:02,Penalty,,CR7,True
+590,18_19,Serie A,22,2019-02-02,Home,Juv,Parma Calcio 1913,3:3,LW,36,01:00,Right-footed shot,Blaise Matuidi,CR7,False
+591,18_19,Serie A,22,2019-02-02,Home,Juv,Parma Calcio 1913,3:3,LW,66,03:01,Header,Mario Mandzukic,CR7,False
+592,18_19,Serie A,23,2019-02-10,Away,Juv,US Sassuolo,0:3,LW,70,00:02,Header,Miralem Pjanic,CR7,False
+593,18_19,Serie A,24,2019-02-15,Home,Juv,Frosinone Calcio,3:0,LW,63,03:00,Right-footed shot,Mario Mandzukic,CR7,False
+594,18_19,UEFA Champions League,last 16,2019-03-12,Home,Juv,Atletico de Madrid,3:0,CF,27,01:00,Header,Federico Bernardeschi,CR7,False
+595,18_19,UEFA Champions League,last 16,2019-03-12,Home,Juv,Atletico de Madrid,3:0,CF,49,02:00,Header,José Callejón,CR7,False
+596,18_19,UEFA Champions League,last 16,2019-03-12,Home,Juv,Atletico de Madrid,3:0,CF,86,03:00,Penalty,,CR7,True
+597,18_19,UEFA Champions League,Quarter-Finals,2019-04-10,Away,Juv,Ajax Amsterdam,1:1,LW,45,00:01,Header,José Callejón,CR7,False
+598,18_19,UEFA Champions League,Quarter-Finals,2019-04-16,Home,Juv,Ajax Amsterdam,1:2,LW,28,01:00,Header,Miralem Pjanic,CR7,False
+599,18_19,Serie A,34,2019-04-27,Away,Juv,Inter Milan,1:1,CF,62,01:01,Left-footed shot,Miralem Pjanic,CR7,False
+600,18_19,Serie A,35,2019-05-03,Home,Juv,Torino FC,1:1,CF,84,01:01,Header,Leonardo Spinazzola,CR7,False
+601,19_20,Serie A,2,2019-08-31,Home,Juv,SSC Napoli,4:3,LW,62,03:00,Left-footed shot,Douglas Costa,CR7,False
+602,19_20,Serie A,4,2019-09-21,Home,Juv,Hellas Verona,2:1,LW,49,02:01,Penalty,,CR7,True
+603,19_20,Serie A,6,2019-09-28,Home,Juv,SPAL,2:0,CF,78,02:00,Header,Paulo Dybala,CR7,False
+604,19_20,UEFA Champions League,Group Stage,2019-10-01,Home,Juv,Bayer 04 Leverkusen,3:0,CF,89,03:00,Right-footed shot,Paulo Dybala,CR7,False
+605,19_20,Serie A,8,2019-10-19,Home,Juv,Bologna FC 1909,2:1,CF,19,01:00,Right-footed shot,,CR7,False
+606,19_20,Serie A,10,2019-10-30,Home,Juv,Genoa CFC,2:1,CF,90+6,02:01,Penalty,,CR7,True
+607,19_20,Serie A,14,2019-12-01,Home,Juv,US Sassuolo,2:2,CF,68,02:02,Penalty,,CR7,True
+608,19_20,Serie A,15,2019-12-07,Away,Juv,SS Lazio,3:1,CF,25,00:01,Tap-in,Rodrigo Bentancur,CR7,False
+609,19_20,UEFA Champions League,Group Stage,2019-12-11,Away,Juv,Bayer 04 Leverkusen,0:2,CF,75,00:01,Right-footed shot,Paulo Dybala,CR7,False
+610,19_20,Serie A,16,2019-12-15,Home,Juv,Udinese Calcio,3:1,CF,9,01:00,Right-footed shot,,CR7,False
+611,19_20,Serie A,16,2019-12-15,Home,Juv,Udinese Calcio,3:1,CF,37,02:00,Left-footed shot,Gonzalo Higuain,CR7,False
+612,19_20,Serie A,17,2019-12-18,Away,Juv,UC Sampdoria,1:2,LW,45,01:02,Header,Alex Sandro,CR7,False
+613,19_20,Serie A,18,2020-01-06,Home,Juv,Cagliari Calcio,4:0,CF,49,01:00,Right-footed shot,,CR7,False
+614,19_20,Serie A,18,2020-01-06,Home,Juv,Cagliari Calcio,4:0,CF,67,02:00,Penalty,,CR7,True
+615,19_20,Serie A,18,2020-01-06,Home,Juv,Cagliari Calcio,4:0,CF,82,04:00,Left-footed shot,Douglas Costa,CR7,False
+616,19_20,Serie A,19,2020-01-12,Away,Juv,AS Roma,1:2,CF,10,00:02,Penalty,,CR7,True
+617,19_20,Serie A,20,2020-01-19,Home,Juv,Parma Calcio 1913,2:1,CF,43,01:00,Deflected shot on goal,Blaise Matuidi,CR7,False
+618,19_20,Serie A,20,2020-01-19,Home,Juv,Parma Calcio 1913,2:1,CF,58,02:01,Right-footed shot,Paulo Dybala,CR7,False
+619,19_20,Italy Cup,Quarter-Finals,2020-01-22,Home,Juv,AS Roma,3:1,LW,26,01:00,Left-footed shot,Gonzalo Higuain,CR7,False
+620,19_20,Serie A,21,2020-01-26,Away,Juv,SSC Napoli,2:1,LW,90,02:01,Right-footed shot,Rodrigo Bentancur,CR7,False
+621,19_20,Serie A,22,2020-02-02,Home,Juv,ACF Fiorentina,3:0,LW,40,01:00,Penalty,,CR7,True
+622,19_20,Serie A,22,2020-02-02,Home,Juv,ACF Fiorentina,3:0,LW,80,02:00,Penalty,,CR7,True
+623,19_20,Serie A,23,2020-02-08,Away,Juv,Hellas Verona,2:1,LW,65,00:01,Right-footed shot,Rodrigo Bentancur,CR7,False
+624,19_20,Italy Cup,Semi-Finals,2020-02-13,Away,Juv,AC Milan,1:1,LW,90+1,01:01,Penalty,,CR7,True
+625,19_20,Serie A,25,2020-02-22,Away,Juv,SPAL,1:2,LW,39,00:01,Tap-in,Juan Cuadrado,CR7,False
+626,19_20,Serie A,27,2020-06-22,Away,Juv,Bologna FC 1909,0:2,LW,23,00:01,Penalty,,CR7,True
+627,19_20,Serie A,28,2020-06-26,Home,Juv,US Lecce,4:0,LW,62,02:00,Penalty,,CR7,True
+628,19_20,Serie A,29,2020-06-30,Away,Juv,Genoa CFC,1:3,LW,56,00:02,Long distance kick,Miralem Pjanic,CR7,False
+629,19_20,Serie A,30,2020-07-04,Home,Juv,Torino FC,4:1,LW,61,03:01,Direct free kick,,CR7,False
+630,19_20,Serie A,31,2020-07-07,Away,Juv,AC Milan,4:2,LW,53,00:02,Left-footed shot,Juan Cuadrado,CR7,False
+631,19_20,Serie A,32,2020-07-11,Home,Juv,Atalanta BC,2:2,LW,55,01:01,Penalty,,CR7,True
+632,19_20,Serie A,32,2020-07-11,Home,Juv,Atalanta BC,2:2,LW,90,02:02,Penalty,,CR7,True
+633,19_20,Serie A,34,2020-07-20,Home,Juv,SS Lazio,2:1,LW,51,01:00,Penalty,,CR7,True
+634,19_20,Serie A,34,2020-07-20,Home,Juv,SS Lazio,2:1,LW,54,02:00,Counter attack goal,Paulo Dybala,CR7,False
+635,19_20,Serie A,36,2020-07-26,Home,Juv,UC Sampdoria,2:0,LW,45+7,01:00,Right-footed shot,Miralem Pjanic,CR7,False
+636,19_20,UEFA Champions League,last 16,2020-08-07,Home,Juv,Olympique Lyon,2:1,LW,43,01:01,Penalty,,CR7,True
+637,19_20,UEFA Champions League,last 16,2020-08-07,Home,Juv,Olympique Lyon,2:1,LW,60,02:01,Left-footed shot,Federico Bernardeschi,CR7,False
+638,20_21,Serie A,1,2020-09-20,Home,Juv,UC Sampdoria,3:0,CF,88,03:00,Right-footed shot,Aaron Ramsey,CR7,False
+639,20_21,Serie A,2,2020-09-27,Away,Juv,AS Roma,2:2,CF,44,01:01,Penalty,,CR7,True
+640,20_21,Serie A,2,2020-09-27,Away,Juv,AS Roma,2:2,CF,69,02:02,Header,Danilo,CR7,False
+641,20_21,Serie A,6,2020-11-01,Away,Juv,Spezia Calcio,1:4,CF,59,01:02,Right-footed shot,alvaro Morata,CR7,False
+642,20_21,Serie A,6,2020-11-01,Away,Juv,Spezia Calcio,1:4,CF,76,01:04,Penalty,,CR7,True
+643,20_21,Serie A,7,2020-11-08,Away,Juv,SS Lazio,1:1,LW,15,00:01,Right-footed shot,Juan Cuadrado,CR7,False
+644,20_21,Serie A,8,2020-11-21,Home,Juv,Cagliari Calcio,2:0,CF,38,01:00,Right-footed shot,alvaro Morata,CR7,False
+645,20_21,Serie A,8,2020-11-21,Home,Juv,Cagliari Calcio,2:0,CF,42,02:00,Right-footed shot,Merih Demiral,CR7,False
+646,20_21,UEFA Champions League,Group Stage,2020-11-24,Home,Juv,Ferencvarosi TC,2:1,CF,35,01:01,Left-footed shot,Juan Cuadrado,CR7,False
+647,20_21,UEFA Champions League,Group Stage,2020-12-02,Home,Juv,Dynamo Kyiv,3:0,CF,57,02:00,Right-footed shot,alvaro Morata,CR7,False
+648,20_21,UEFA Champions League,Group Stage,2020-12-08,Away,Juv,FC Barcelona,0:3,CF,13,00:01,Penalty,,CR7,True
+649,20_21,UEFA Champions League,Group Stage,2020-12-08,Away,Juv,FC Barcelona,0:3,CF,52,00:03,Penalty,,CR7,True
+650,20_21,Serie A,11,2020-12-13,Away,Juv,Genoa CFC,1:3,CF,78,01:02,Penalty,,CR7,True
+651,20_21,Serie A,11,2020-12-13,Away,Juv,Genoa CFC,1:3,CF,89,01:03,Penalty,,CR7,True
+652,20_21,Serie A,13,2020-12-19,Away,Juv,Parma Calcio 1913,0:4,CF,26,00:02,Header,alvaro Morata,CR7,False
+653,20_21,Serie A,13,2020-12-19,Away,Juv,Parma Calcio 1913,0:4,CF,48,00:03,Left-footed shot,Aaron Ramsey,CR7,False
+654,20_21,Serie A,15,2021-01-03,Home,Juv,Udinese Calcio,4:1,CF,31,01:00,Right-footed shot,Aaron Ramsey,CR7,False
+655,20_21,Serie A,15,2021-01-03,Home,Juv,Udinese Calcio,4:1,CF,70,03:00,Left-footed shot,Rodrigo Bentancur,CR7,False
+656,20_21,Serie A,17,2021-01-10,Home,Juv,US Sassuolo,3:1,CF,90+2,03:01,Right-footed shot,Danilo,CR7,False
+657,20_21,Supercoppa Italiana,Final,2021-01-20,Home,Juv,SSC Napoli,2:0,CF,64,01:00,Tap-in,,CR7,False
+658,20_21,Italy Cup,Semi-Finals,2021-02-02,Away,Juv,Inter Milan,1:2,CF,26,01:01,Penalty,,CR7,True
+659,20_21,Italy Cup,Semi-Finals,2021-02-02,Away,Juv,Inter Milan,1:2,CF,35,01:02,Left-footed shot,,CR7,False
+660,20_21,Serie A,21,2021-02-06,Home,Juv,AS Roma,2:0,CF,13,01:00,Left-footed shot,alvaro Morata,CR7,False
+661,20_21,Serie A,23,2021-02-22,Home,Juv,FC Crotone,3:0,CF,38,01:00,Header,Alex Sandro,CR7,False
+662,20_21,Serie A,23,2021-02-22,Home,Juv,FC Crotone,3:0,CF,45+1,02:00,Header,Aaron Ramsey,CR7,False
+663,20_21,Serie A,24,2021-02-27,Away,Juv,Hellas Verona,1:1,CF,49,00:01,Right-footed shot,Federico Chiesa,CR7,False
+664,20_21,Serie A,25,2021-03-02,Home,Juv,Spezia Calcio,3:0,CF,89,03:00,Counter attack goal,Rodrigo Bentancur,CR7,False
+665,20_21,Serie A,27,2021-03-14,Away,Juv,Cagliari Calcio,1:3,CF,10,00:01,Header,Juan Cuadrado,CR7,False
+666,20_21,Serie A,27,2021-03-14,Away,Juv,Cagliari Calcio,1:3,CF,25,00:02,Penalty,,CR7,True
+667,20_21,Serie A,27,2021-03-14,Away,Juv,Cagliari Calcio,1:3,CF,32,00:03,Left-footed shot,Federico Chiesa,CR7,False
+668,20_21,Serie A,29,2021-04-03,Away,Juv,Torino FC,2:2,CF,79,02:02,Header,Giorgio Chiellini,CR7,False
+669,20_21,Serie A,3,2021-04-07,Home,Juv,SSC Napoli,2:1,CF,13,01:00,Right-footed shot,Federico Chiesa,CR7,False
+670,20_21,Serie A,34,2021-05-02,Away,Juv,Udinese Calcio,1:2,CF,83,01:01,Penalty,,CR7,True
+671,20_21,Serie A,34,2021-05-02,Away,Juv,Udinese Calcio,1:2,CF,89,01:02,Header,Adrien Rabiot,CR7,False
+672,20_21,Serie A,36,2021-05-12,Away,Juv,US Sassuolo,1:3,CF,45,00:02,Left-footed shot,,CR7,False
+673,20_21,Serie A,37,2021-05-15,Home,Juv,Inter Milan,3:2,CF,24,01:00,Penalty rebound,,CR7,False
+674,21_22,Premier League,4,2021-09-11,Home,Man.United,Newcastle United,4:1,CF,45+2,01:00,Tap-in,,CR7,False
+675,21_22,Premier League,4,2021-09-11,Home,Man.United,Newcastle United,4:1,CF,62,02:01,Left-footed shot,Luke Shaw,CR7,False
+676,21_22,UEFA Champions League,Group Stage,2021-09-14,Away,Man.United,BSC Young Boys,2:1,CF,13,00:01,Right-footed shot,Bruno Fernandes,CR7,False
+677,21_22,Premier League,5,2021-09-19,Away,Man.United,West Ham United,1:2,CF,35,01:01,Right-footed shot,,CR7,False
+678,21_22,UEFA Champions League,Group Stage,2021-09-29,Home,Man.United,Villarreal CF,2:1,CF,90+5,02:01,Right-footed shot,Jesse Lingard,CR7,False
+679,21_22,UEFA Champions League,Group Stage,2021-10-20,Home,Man.United,Atalanta BC,3:2,CF,81,03:02,Header,Luke Shaw,CR7,False
+680,21_22,Premier League,10,2021-10-30,Away,Man.United,Tottenham Hotspur,0:3,CF,39,00:01,Right-footed shot,Bruno Fernandes,CR7,False
+681,21_22,UEFA Champions League,Group Stage,2021-11-02,Away,Man.United,Atalanta BC,2:2,CF,45+1,01:01,Right-footed shot,Bruno Fernandes,CR7,False
+682,21_22,UEFA Champions League,Group Stage,2021-11-02,Away,Man.United,Atalanta BC,2:2,CF,90+1,02:02,Right-footed shot,Mason Greenwood,CR7,False
+683,21_22,UEFA Champions League,Group Stage,2021-11-23,Away,Man.United,Villarreal CF,0:2,CF,78,00:01,Right-footed shot,,CR7,False
+684,21_22,Premier League,14,2021-12-02,Home,Man.United,Arsenal FC,3:2,CF,52,02:01,Right-footed shot,Marcus Rashford,CR7,False
+685,21_22,Premier League,14,2021-12-02,Home,Man.United,Arsenal FC,3:2,CF,70,03:02,Penalty,,CR7,True
+686,21_22,Premier League,16,2021-12-11,Away,Man.United,Norwich City,0:1,CF,75,00:01,Penalty,,CR7,True
+687,21_22,Premier League,20,2021-12-30,Home,Man.United,Burnley FC,3:1,CF,35,03:00,Right-footed shot,,CR7,False
+688,21_22,Premier League,18,2022-02-15,Home,Man.United,Brighton & Hove Albion,2:0,CF,51,01:00,Right-footed shot,Scott McTominay,CR7,False
+689,21_22,Premier League,29,2022-03-12,Home,Man.United,Tottenham Hotspur,3:2,CF,12,01:00,Right-footed shot,Fred,CR7,False
+690,21_22,Premier League,29,2022-03-12,Home,Man.United,Tottenham Hotspur,3:2,CF,38,02:01,Right-footed shot,Jadon Sancho,CR7,False
+691,21_22,Premier League,29,2022-03-12,Home,Man.United,Tottenham Hotspur,3:2,CF,81,03:02,Header,Alex Telles,CR7,False
+692,21_22,Premier League,33,2022-04-16,Home,Man.United,Norwich City,3:2,CF,7,01:00,Right-footed shot,Anthony Elanga,CR7,False
+693,21_22,Premier League,33,2022-04-16,Home,Man.United,Norwich City,3:2,CF,32,02:00,Header,Alex Telles,CR7,False
+694,21_22,Premier League,33,2022-04-16,Home,Man.United,Norwich City,3:2,CF,76,03:02,Direct free kick,,CR7,False
+695,21_22,Premier League,34,2022-04-23,Away,Man.United,Arsenal FC,3:1,CF,34,02:01,Left-footed shot,Nemanja Matić,CR7,False
+696,21_22,Premier League,37,2022-04-28,Home,Man.United,Chelsea FC,1:1,CF,62,01:01,Right-footed shot,Nemanja Matić,CR7,False
+697,21_22,Premier League,35,2022-05-02,Home,Man.United,Brentford FC,3:0,CF,61,02:00,Penalty,,CR7,True
+698,04_05,LaLiga,34,2005-05-01,Home,FC Barcelona,Albacete Balompie,2:0,CF,90+1,02:00,Left-footed shot,Ronaldinho Gaacho,Messi,False
+699,05_06,UEFA Champions League,Group Stage,2005-11-02,Home,FC Barcelona,Panathinaikos Athens,5:0,RW,34,03:00,Left-footed shot,,Messi,False
+700,05_06,LaLiga,13,2005-11-27,Home,FC Barcelona,Racing Santander,4:1,RW,51,02:00,Left-footed shot,Samuel Etoo,Messi,False
+701,05_06,LaLiga,19,2006-01-15,Home,FC Barcelona,Athletic Bilbao,2:1,RW,50,02:01,Left-footed shot,Mark van Bommel,Messi,False
+702,05_06,LaLiga,20,2006-01-22,Home,FC Barcelona,Deportivo Alaves,2:0,CF,82,02:00,Left-footed shot,Ronaldinho Gaacho,Messi,False
+703,05_06,LaLiga,21,2006-01-29,Away,FC Barcelona,RCD Mallorca,0:3,CF,75,00:02,Right-footed shot,Sylvinho,Messi,False
+704,05_06,LaLiga,21,2006-01-29,Away,FC Barcelona,RCD Mallorca,0:3,CF,83,00:03,Left-footed shot,Ronaldinho Gaacho,Messi,False
+705,05_06,Copa del Rey,Quarter-Finals,2006-02-01,Home,FC Barcelona,Real Zaragoza,2:1,CF,42,01:00,Header,Ludovic Giuly,Messi,False
+706,05_06,LaLiga,24,2006-02-18,Home,FC Barcelona,Real Betis Balompie,5:1,RW,84,05:01,Left-footed shot,,Messi,False
+707,06_07,LaLiga,1,2006-08-28,Away,FC Barcelona,Celta de Vigo,2:3,LW,59,01:02,Left-footed shot,Andres Iniesta,Messi,False
+708,06_07,LaLiga,2,2006-09-09,Home,FC Barcelona,CA Osasuna,3:0,RW,36,03:00,Left-footed shot,Samuel Etoo,Messi,False
+709,06_07,UEFA Champions League,Group Stage,2006-09-27,Away,FC Barcelona,SV Werder Bremen,1:1,RW,89,01:01,Left-footed shot,Deco,Messi,False
+710,06_07,LaLiga,6,2006-10-15,Home,FC Barcelona,Sevilla FC,3:1,RW,80,03:01,Right-footed shot,Xavi,Messi,False
+711,06_07,LaLiga,26,2007-03-10,Home,FC Barcelona,Real Madrid,3:3,RW,11,01:01,Left-footed shot,Samuel Etoo,Messi,False
+712,06_07,LaLiga,26,2007-03-10,Home,FC Barcelona,Real Madrid,3:3,RW,28,02:02,Left-footed shot,,Messi,False
+713,06_07,LaLiga,26,2007-03-10,Home,FC Barcelona,Real Madrid,3:3,RW,90+1,03:03,Left-footed shot,Ronaldinho Gaacho,Messi,False
+714,06_07,LaLiga,27,2007-03-17,Away,FC Barcelona,Recreativo Huelva,0:4,RW,86,00:04,Left-footed shot,,Messi,False
+715,06_07,LaLiga,28,2007-03-31,Home,FC Barcelona,Deportivo de La Coruaa,2:1,RW,45,01:00,Left-footed shot,Ronaldinho Gaacho,Messi,False
+716,06_07,Copa del Rey,Semi-Finals,2007-04-18,Home,FC Barcelona,Getafe CF,5:2,RW,29,02:00,Solo run,Xavi,Messi,False
+717,06_07,Copa del Rey,Semi-Finals,2007-04-18,Home,FC Barcelona,Getafe CF,5:2,RW,45,03:00,Left-footed shot,Deco,Messi,False
+718,06_07,LaLiga,35,2007-05-20,Away,FC Barcelona,Atletico de Madrid,0:6,RW,39,00:01,Left-footed shot,Samuel Etoo,Messi,False
+719,06_07,LaLiga,35,2007-05-20,Away,FC Barcelona,Atletico de Madrid,0:6,RW,80,00:05,Left-footed shot,Giovanni van Bronckhorst,Messi,False
+720,06_07,LaLiga,37,2007-06-09,Home,FC Barcelona,RCD Espanyol Barcelona,2:2,RW,43,01:01,Hand,Gianluca Zambrotta,Messi,False
+721,06_07,LaLiga,37,2007-06-09,Home,FC Barcelona,RCD Espanyol Barcelona,2:2,RW,57,02:01,Right-footed shot,Deco,Messi,False
+722,06_07,LaLiga,38,2007-06-17,Away,FC Barcelona,Gimnastic de Tarragona,1:5,RW,34,00:02,Left-footed shot,Deco,Messi,False
+723,06_07,LaLiga,38,2007-06-17,Away,FC Barcelona,Gimnastic de Tarragona,1:5,RW,51,00:04,Left-footed shot,Deco,Messi,False
+724,07_08,UEFA Champions League,Group Stage,2007-09-19,Home,FC Barcelona,Olympique Lyon,3:0,RW,82,02:00,Left-footed shot,Andres Iniesta,Messi,False
+725,07_08,LaLiga,4,2007-09-22,Home,FC Barcelona,Sevilla FC,2:1,RW,72,01:00,Left-footed shot,Thierry Henry,Messi,False
+726,07_08,LaLiga,4,2007-09-22,Home,FC Barcelona,Sevilla FC,2:1,RW,79,02:00,Penalty,,Messi,True
+727,07_08,LaLiga,5,2007-09-26,Home,FC Barcelona,Real Zaragoza,4:1,RW,5,01:00,Left-footed shot,Thierry Henry,Messi,False
+728,07_08,LaLiga,5,2007-09-26,Home,FC Barcelona,Real Zaragoza,4:1,RW,10,02:01,Left-footed shot,Deco,Messi,False
+729,07_08,LaLiga,6,2007-09-29,Away,FC Barcelona,Levante UD,1:4,RW,50,00:04,Left-footed shot,Deco,Messi,False
+730,07_08,UEFA Champions League,Group Stage,2007-10-02,Away,FC Barcelona,VfB Stuttgart,0:2,RW,66,00:02,Deflected shot on goal,Thierry Henry,Messi,False
+731,07_08,LaLiga,7,2007-10-07,Home,FC Barcelona,Atletico de Madrid,3:0,RW,19,02:00,Left-footed shot,Ronaldinho Gaacho,Messi,False
+732,07_08,LaLiga,9,2007-10-28,Home,FC Barcelona,UD Almera,2:0,RW,80,02:00,Penalty,,Messi,True
+733,07_08,UEFA Champions League,Group Stage,2007-11-07,Home,FC Barcelona,Rangers FC,2:0,RW,41,02:00,Left-footed shot,Ronaldinho Gaacho,Messi,False
+734,07_08,LaLiga,13,2007-11-24,Home,FC Barcelona,Recreativo Huelva,3:0,RW,81,03:00,Penalty,,Messi,True
+735,07_08,UEFA Champions League,Group Stage,2007-11-27,Away,FC Barcelona,Olympique Lyon,2:2,RW,58,01:02,Penalty,,Messi,True
+736,07_08,UEFA Champions League,last 16,2008-02-20,Away,FC Barcelona,Celtic FC,2:3,RW,18,01:01,Left-footed shot,Deco,Messi,False
+737,07_08,UEFA Champions League,last 16,2008-02-20,Away,FC Barcelona,Celtic FC,2:3,RW,79,02:03,Left-footed shot,,Messi,False
+738,07_08,LaLiga,25,2008-02-24,Home,FC Barcelona,Levante UD,5:1,RW,44,02:01,Left-footed shot,Xavi,Messi,False
+739,07_08,LaLiga,35,2008-05-04,Home,FC Barcelona,Valencia CF,6:0,RW,5,01:00,Penalty,,Messi,True
+740,08_09,LaLiga,2,2008-09-13,Home,FC Barcelona,Racing Santander,1:1,RW,70,01:00,Penalty,,Messi,True
+741,08_09,LaLiga,3,2008-09-21,Away,FC Barcelona,Sporting de Gijón,1:6,RW,85,01:05,Left-footed shot,Andres Iniesta,Messi,False
+742,08_09,LaLiga,3,2008-09-21,Away,FC Barcelona,Sporting de Gijón,1:6,RW,89,01:06,Header,Xavi,Messi,False
+743,08_09,LaLiga,5,2008-09-27,Away,FC Barcelona,RCD Espanyol Barcelona,1:2,RW,90,01:02,Penalty,,Messi,True
+744,08_09,UEFA Champions League,Group Stage,2008-10-01,Away,FC Barcelona,Shakhtar Donetsk,1:2,RW,87,01:01,Right-footed shot,Bojan Krkic,Messi,False
+745,08_09,UEFA Champions League,Group Stage,2008-10-01,Away,FC Barcelona,Shakhtar Donetsk,1:2,RW,90+2,01:02,Left-footed shot,Xavi,Messi,False
+746,08_09,LaLiga,6,2008-10-04,Home,FC Barcelona,Atletico de Madrid,6:1,RW,8,03:00,Direct free kick,,Messi,False
+747,08_09,UEFA Champions League,Group Stage,2008-10-22,Away,FC Barcelona,FC Basel 1893,0:5,CF,4,00:01,Left-footed shot,Dani Alves,Messi,False
+748,08_09,LaLiga,9,2008-11-01,Away,FC Barcelona,Malaga CF,1:4,RW,19,01:02,Left-footed shot,,Messi,False
+749,08_09,UEFA Champions League,Group Stage,2008-11-04,Home,FC Barcelona,FC Basel 1893,1:1,RW,61,01:00,Left-footed shot,Thierry Henry,Messi,False
+750,08_09,Copa del Rey,Fifth Round,2008-11-12,Home,FC Barcelona,Benidorm CD,1:0,RW,86,01:00,Penalty rebound,,Messi,False
+751,08_09,LaLiga,11,2008-11-16,Away,FC Barcelona,Recreativo Huelva,0:2,RW,51,00:01,Left-footed shot,Xavi,Messi,False
+752,08_09,UEFA Champions League,Group Stage,2008-11-26,Away,FC Barcelona,Sporting CP,2:5,RW,49,00:03,Left-footed shot,Dani Alves,Messi,False
+753,08_09,LaLiga,13,2008-11-29,Away,FC Barcelona,Sevilla FC,0:3,RW,78,00:02,Left-footed shot,Xavi,Messi,False
+754,08_09,LaLiga,13,2008-11-29,Away,FC Barcelona,Sevilla FC,0:3,RW,90+2,00:03,Left-footed shot,Aleksandr Hleb,Messi,False
+755,08_09,LaLiga,15,2008-12-13,Home,FC Barcelona,Real Madrid,2:0,RW,89,02:00,Counter attack goal,Thierry Henry,Messi,False
+756,08_09,Copa del Rey,Round of 16,2009-01-06,Away,FC Barcelona,Atletico de Madrid,1:3,RW,11,00:01,Left-footed shot,Dani Alves,Messi,False
+757,08_09,Copa del Rey,Round of 16,2009-01-06,Away,FC Barcelona,Atletico de Madrid,1:3,RW,57,00:02,Penalty,,Messi,True
+758,08_09,Copa del Rey,Round of 16,2009-01-06,Away,FC Barcelona,Atletico de Madrid,1:3,RW,79,01:03,Right-footed shot,Andres Iniesta,Messi,False
+759,08_09,LaLiga,18,2009-01-11,Away,FC Barcelona,CA Osasuna,2:3,RW,84,02:03,Left-footed shot,Dani Alves,Messi,False
+760,08_09,LaLiga,19,2009-01-17,Home,FC Barcelona,Deportivo de La Coruaa,5:0,RW,21,01:00,Left-footed shot,,Messi,False
+761,08_09,LaLiga,20,2009-01-24,Home,FC Barcelona,CD Numancia,4:1,RW,49,01:00,Left-footed shot,Dani Alves,Messi,False
+762,08_09,LaLiga,20,2009-01-24,Home,FC Barcelona,CD Numancia,4:1,RW,76,04:01,Right-footed shot,,Messi,False
+763,08_09,LaLiga,21,2009-02-01,Away,FC Barcelona,Racing Santander,1:2,RW,65,01:01,Right-footed shot,Xavi,Messi,False
+764,08_09,LaLiga,21,2009-02-01,Away,FC Barcelona,Racing Santander,1:2,RW,81,01:02,Right-footed shot,,Messi,False
+765,08_09,LaLiga,25,2009-03-01,Away,FC Barcelona,Atletico de Madrid,4:3,RW,30,00:02,Left-footed shot,,Messi,False
+766,08_09,Copa del Rey,Semi-Finals,2009-03-04,Away,FC Barcelona,RCD Mallorca,1:1,RW,81,01:01,Left-footed shot,Gerard Pique,Messi,False
+767,08_09,LaLiga,26,2009-03-07,Home,FC Barcelona,Athletic Bilbao,2:0,RW,31,02:00,Penalty,,Messi,True
+768,08_09,UEFA Champions League,last 16,2009-03-11,Home,FC Barcelona,Olympique Lyon,5:2,RW,40,03:00,Left-footed shot,Samuel Etoo,Messi,False
+769,08_09,LaLiga,28,2009-03-22,Home,FC Barcelona,Malaga CF,6:0,RW,26,02:00,Right-footed shot,Xavi,Messi,False
+770,08_09,UEFA Champions League,Quarter-Finals,2009-04-08,Home,FC Barcelona,Bayern Munich,4:0,RW,9,01:00,Left-footed shot,Samuel Etoo,Messi,False
+771,08_09,UEFA Champions League,Quarter-Finals,2009-04-08,Home,FC Barcelona,Bayern Munich,4:0,RW,38,03:00,Right-footed shot,Thierry Henry,Messi,False
+772,08_09,LaLiga,31,2009-04-18,Away,FC Barcelona,Getafe CF,0:1,RW,18,00:01,Left-footed shot,Xavi,Messi,False
+773,08_09,LaLiga,33,2009-04-25,Away,FC Barcelona,Valencia CF,2:2,RW,23,00:01,Left-footed shot,Andres Iniesta,Messi,False
+774,08_09,LaLiga,34,2009-05-02,Away,FC Barcelona,Real Madrid,2:6,CF,35,01:03,Left-footed shot,Xavi,Messi,False
+775,08_09,LaLiga,34,2009-05-02,Away,FC Barcelona,Real Madrid,2:6,CF,75,02:05,Left-footed shot,Xavi,Messi,False
+776,08_09,Copa del Rey,Final,2009-05-13,Home,FC Barcelona,Athletic Bilbao,4:1,RW,55,02:01,Left-footed shot,Samuel Etoo,Messi,False
+777,08_09,UEFA Champions League,Final,2009-05-27,Home,FC Barcelona,Manchester United,2:0,CF,70,02:00,Header,Xavi,Messi,False
+778,09_10,Supercopa,final,2009-08-23,Home,FC Barcelona,Athletic Bilbao,3:0,RW,50,01:00,Right-footed shot,Zlatan Ibrahimovic,Messi,False
+779,09_10,Supercopa,final,2009-08-23,Home,FC Barcelona,Athletic Bilbao,3:0,RW,68,02:00,Penalty,,Messi,True
+780,09_10,LaLiga,2,2009-09-12,Away,FC Barcelona,Getafe CF,0:2,RW,78,00:02,Header,Zlatan Ibrahimovic,Messi,False
+781,09_10,LaLiga,3,2009-09-19,Home,FC Barcelona,Atletico de Madrid,5:2,RW,15,02:00,Left-footed shot,Xavi,Messi,False
+782,09_10,LaLiga,3,2009-09-19,Home,FC Barcelona,Atletico de Madrid,5:2,RW,90+3,05:02,Right-footed shot,Dani Alves,Messi,False
+783,09_10,LaLiga,4,2009-09-22,Away,FC Barcelona,Racing Santander,1:4,RW,23,00:02,Left-footed shot,Xavi,Messi,False
+784,09_10,LaLiga,4,2009-09-22,Away,FC Barcelona,Racing Santander,1:4,RW,63,00:04,Left-footed shot,Xavi,Messi,False
+785,09_10,UEFA Champions League,Group Stage,2009-09-29,Home,FC Barcelona,Dynamo Kyiv,2:0,RW,25,01:00,Left-footed shot,Andres Iniesta,Messi,False
+786,09_10,LaLiga,8,2009-10-25,Home,FC Barcelona,Real Zaragoza,6:1,RW,80,05:01,Left-footed shot,Andres Iniesta,Messi,False
+787,09_10,LaLiga,10,2009-11-07,Home,FC Barcelona,RCD Mallorca,4:2,RW,86,04:01,Penalty,,Messi,True
+788,09_10,Copa del Rey,5th round,2009-11-10,Home,FC Barcelona,Cultural Leonesa,5:0,RW,64,04:00,Left-footed shot,Pedro,Messi,False
+789,09_10,LaLiga,13,2009-12-05,Away,FC Barcelona,Deportivo de La Coruaa,1:3,RW,26,00:01,Left-footed shot,Dani Alves,Messi,False
+790,09_10,LaLiga,13,2009-12-05,Away,FC Barcelona,Deportivo de La Coruaa,1:3,RW,80,01:02,Header,Pedro,Messi,False
+791,09_10,UEFA Champions League,Group Stage,2009-12-09,Away,FC Barcelona,Dynamo Kyiv,1:2,RW,86,01:02,Direct free kick,,Messi,False
+792,09_10,FIFA Club World Cup,Semi-Finals,2009-12-16,Away,FC Barcelona,CF Atlante,1:3,RW,55,01:02,Left-footed shot,Zlatan Ibrahimovic,Messi,False
+793,09_10,FIFA Club World Cup,Final,2009-12-19,Away,FC Barcelona,Club Estudiantes de La Plata,1:2 AET,RW,110,01:02,Chest,Dani Alves,Messi,False
+794,09_10,LaLiga,17,2010-01-10,Away,FC Barcelona,CD Tenerife,0:5,RW,36,00:01,Left-footed shot,Bojan Krkic,Messi,False
+795,09_10,LaLiga,17,2010-01-10,Away,FC Barcelona,CD Tenerife,0:5,RW,45,00:03,Right-footed shot,Bojan Krkic,Messi,False
+796,09_10,LaLiga,17,2010-01-10,Away,FC Barcelona,CD Tenerife,0:5,RW,75,00:04,Left-footed shot,Bojan Krkic,Messi,False
+797,09_10,LaLiga,18,2010-01-16,Home,FC Barcelona,Sevilla FC,4:0,RW,85,03:00,Left-footed shot,Dani Alves,Messi,False
+798,09_10,LaLiga,18,2010-01-16,Home,FC Barcelona,Sevilla FC,4:0,RW,90+1,04:00,Left-footed shot,Eric Abidal ,Messi,False
+799,09_10,LaLiga,19,2010-01-23,Away,FC Barcelona,Real Valladolid CF,0:3,RW,54,00:03,Left-footed shot,Zlatan Ibrahimovic,Messi,False
+800,09_10,LaLiga,21,2010-02-06,Home,FC Barcelona,Getafe CF,2:1,RW,7,01:00,Left-footed shot,Yaya Toure,Messi,False
+801,09_10,LaLiga,24,2010-02-27,Home,FC Barcelona,Malaga CF,2:1,RW,84,02:01,Right-footed shot,Dani Alves,Messi,False
+802,09_10,LaLiga,25,2010-03-06,Away,FC Barcelona,UD Almera,2:2,RW,42,01:01,Direct free kick,,Messi,False
+803,09_10,LaLiga,25,2010-03-06,Away,FC Barcelona,UD Almera,2:2,RW,66,02:02,Left-footed shot,,Messi,False
+804,09_10,LaLiga,26,2010-03-14,Home,FC Barcelona,Valencia CF,3:0,CF,56,01:00,Left-footed shot,Xavi,Messi,False
+805,09_10,LaLiga,26,2010-03-14,Home,FC Barcelona,Valencia CF,3:0,CF,80,02:00,Left-footed shot,Thierry Henry,Messi,False
+806,09_10,LaLiga,26,2010-03-14,Home,FC Barcelona,Valencia CF,3:0,CF,82,03:00,Right-footed shot,Thierry Henry,Messi,False
+807,09_10,UEFA Champions League,last 16,2010-03-17,Home,FC Barcelona,VfB Stuttgart,4:0,CF,13,01:00,Left-footed shot,Yaya Toure,Messi,False
+808,09_10,UEFA Champions League,last 16,2010-03-17,Home,FC Barcelona,VfB Stuttgart,4:0,CF,56,03:00,Left-footed shot,Dani Alves,Messi,False
+809,09_10,LaLiga,27,2010-03-21,Away,FC Barcelona,Real Zaragoza,2:4,RW,4,00:01,Header,Pedro,Messi,False
+810,09_10,LaLiga,27,2010-03-21,Away,FC Barcelona,Real Zaragoza,2:4,RW,65,00:02,Left-footed shot,,Messi,False
+811,09_10,LaLiga,27,2010-03-21,Away,FC Barcelona,Real Zaragoza,2:4,RW,78,00:03,Left-footed shot,Andres Iniesta,Messi,False
+812,09_10,LaLiga,30,2010-04-03,Home,FC Barcelona,Athletic Bilbao,4:1,CF,67,04:00,Left-footed shot,Pedro,Messi,False
+813,09_10,UEFA Champions League,Quarter-Finals,2010-04-06,Home,FC Barcelona,Arsenal FC,4:1,CF,21,01:01,Left-footed shot,,Messi,False
+814,09_10,UEFA Champions League,Quarter-Finals,2010-04-06,Home,FC Barcelona,Arsenal FC,4:1,CF,37,02:01,Right-footed shot,Pedro,Messi,False
+815,09_10,UEFA Champions League,Quarter-Finals,2010-04-06,Home,FC Barcelona,Arsenal FC,4:1,CF,42,03:01,Left-footed shot,Seydou Keita,Messi,False
+816,09_10,UEFA Champions League,Quarter-Finals,2010-04-06,Home,FC Barcelona,Arsenal FC,4:1,CF,88,04:01,Left-footed shot,Xavi,Messi,False
+817,09_10,LaLiga,31,2010-04-10,Away,FC Barcelona,Real Madrid,0:2,CF,32,00:01,Right-footed shot,Xavi,Messi,False
+818,09_10,LaLiga,35,2010-05-01,Away,FC Barcelona,Villarreal CF,1:4,RW,18,00:01,Left-footed shot,Xavi,Messi,False
+819,09_10,LaLiga,35,2010-05-01,Away,FC Barcelona,Villarreal CF,1:4,RW,87,01:04,Left-footed shot,Dani Alves,Messi,False
+820,09_10,LaLiga,36,2010-05-04,Home,FC Barcelona,CD Tenerife,4:1,RW,16,01:00,Right-footed shot,Zlatan Ibrahimovic,Messi,False
+821,09_10,LaLiga,36,2010-05-04,Home,FC Barcelona,CD Tenerife,4:1,RW,90+3,04:01,Right-footed shot,Dani Alves,Messi,False
+822,09_10,LaLiga,37,2010-05-08,Away,FC Barcelona,Sevilla FC,2:3,RW,5,00:01,Left-footed shot,Maxwell,Messi,False
+823,09_10,LaLiga,38,2010-05-16,Home,FC Barcelona,Real Valladolid CF,4:0,RW,61,03:00,Right-footed shot,Yaya Toure,Messi,False
+824,09_10,LaLiga,38,2010-05-16,Home,FC Barcelona,Real Valladolid CF,4:0,RW,74,04:00,Left-footed shot,Yaya Toure,Messi,False
+825,10_11,Supercopa,final,2010-08-21,Home,FC Barcelona,Sevilla FC,4:0,RW,25,02:00,Left-footed shot,Xavi,Messi,False
+826,10_11,Supercopa,final,2010-08-21,Home,FC Barcelona,Sevilla FC,4:0,RW,43,03:00,Right-footed shot,Dani Alves,Messi,False
+827,10_11,Supercopa,final,2010-08-21,Home,FC Barcelona,Sevilla FC,4:0,RW,90+1,04:00,Left-footed shot,Andres Iniesta,Messi,False
+828,10_11,LaLiga,1,2010-08-29,Away,FC Barcelona,Racing Santander,0:3,RW,3,00:01,Left-footed shot,Andres Iniesta,Messi,False
+829,10_11,UEFA Champions League,Group Stage,2010-09-14,Home,FC Barcelona,Panathinaikos Athens,5:1,CF,22,01:01,Left-footed shot,Xavi,Messi,False
+830,10_11,UEFA Champions League,Group Stage,2010-09-14,Home,FC Barcelona,Panathinaikos Athens,5:1,CF,45,03:01,Left-footed shot,Pedro,Messi,False
+831,10_11,LaLiga,3,2010-09-19,Away,FC Barcelona,Atletico de Madrid,1:2,CF,12,00:01,Left-footed shot,Pedro,Messi,False
+832,10_11,LaLiga,6,2010-10-03,Home,FC Barcelona,RCD Mallorca,1:1,CF,20,01:00,Left-footed shot,Pedro,Messi,False
+833,10_11,UEFA Champions League,Group Stage,2010-10-20,Home,FC Barcelona,FC Copenhagen,2:0,CF,18,01:00,Left-footed shot,Andres Iniesta,Messi,False
+834,10_11,UEFA Champions League,Group Stage,2010-10-20,Home,FC Barcelona,FC Copenhagen,2:0,CF,90+1,02:00,Left-footed shot,Eric Abidal ,Messi,False
+835,10_11,LaLiga,8,2010-10-23,Away,FC Barcelona,Real Zaragoza,0:2,CF,41,00:01,Left-footed shot,David Villa,Messi,False
+836,10_11,LaLiga,8,2010-10-23,Away,FC Barcelona,Real Zaragoza,0:2,CF,65,00:02,Left-footed shot,,Messi,False
+837,10_11,LaLiga,9,2010-10-30,Home,FC Barcelona,Sevilla FC,5:0,RW,4,01:00,Left-footed shot,,Messi,False
+838,10_11,LaLiga,9,2010-10-30,Home,FC Barcelona,Sevilla FC,5:0,RW,63,04:00,Left-footed shot,,Messi,False
+839,10_11,UEFA Champions League,Group Stage,2010-11-02,Away,FC Barcelona,FC Copenhagen,1:1,CF,31,00:01,Right-footed shot,,Messi,False
+840,10_11,LaLiga,10,2010-11-07,Away,FC Barcelona,Getafe CF,1:3,CF,23,00:01,Left-footed shot,David Villa,Messi,False
+841,10_11,Copa del Rey,4th round,2010-11-10,Home,FC Barcelona,Club Atletico de Ceuta,5:1,RW,67,05:01,Left-footed shot,Thiago,Messi,False
+842,10_11,LaLiga,11,2010-11-13,Home,FC Barcelona,Villarreal CF,3:1,CF,58,02:01,Right-footed shot,Pedro,Messi,False
+843,10_11,LaLiga,11,2010-11-13,Home,FC Barcelona,Villarreal CF,3:1,CF,83,03:01,Left-footed shot,Pedro,Messi,False
+844,10_11,LaLiga,12,2010-11-20,Away,FC Barcelona,UD Almera,0:8,CF,16,00:01,Left-footed shot,David Villa,Messi,False
+845,10_11,LaLiga,12,2010-11-20,Away,FC Barcelona,UD Almera,0:8,CF,36,00:05,Tap-in,,Messi,False
+846,10_11,LaLiga,12,2010-11-20,Away,FC Barcelona,UD Almera,0:8,CF,67,00:07,Tap-in,David Villa,Messi,False
+847,10_11,UEFA Champions League,Group Stage,2010-11-24,Away,FC Barcelona,Panathinaikos Athens,0:3,CF,63,00:02,Left-footed shot,Adriano,Messi,False
+848,10_11,LaLiga,14,2010-12-04,Away,FC Barcelona,CA Osasuna,0:3,CF,64,00:02,Left-footed shot,David Villa,Messi,False
+849,10_11,LaLiga,14,2010-12-04,Away,FC Barcelona,CA Osasuna,0:3,CF,82,00:03,Penalty,,Messi,True
+850,10_11,LaLiga,15,2010-12-12,Home,FC Barcelona,Real Sociedad,5:0,CF,46,03:00,Left-footed shot,Dani Alves,Messi,False
+851,10_11,LaLiga,15,2010-12-12,Home,FC Barcelona,Real Sociedad,5:0,CF,86,04:00,Left-footed shot,Bojan Krkic,Messi,False
+852,10_11,LaLiga,18,2011-01-08,Away,FC Barcelona,Deportivo de La Coruaa,0:4,CF,51,00:02,Direct free kick,,Messi,False
+853,10_11,Copa del Rey,Quarter-Finals,2011-01-12,Home,FC Barcelona,Real Betis Balompie,5:0,CF,44,01:00,Left-footed shot,Andres Iniesta,Messi,False
+854,10_11,Copa del Rey,Quarter-Finals,2011-01-12,Home,FC Barcelona,Real Betis Balompie,5:0,CF,63,02:00,Left-footed shot,,Messi,False
+855,10_11,Copa del Rey,Quarter-Finals,2011-01-12,Home,FC Barcelona,Real Betis Balompie,5:0,CF,73,03:00,Left-footed shot,Xavi,Messi,False
+856,10_11,Copa del Rey,Quarter-Finals,2011-01-19,Away,FC Barcelona,Real Betis Balompie,3:1,RW,37,02:01,Left-footed shot,Xavi,Messi,False
+857,10_11,LaLiga,20,2011-01-22,Home,FC Barcelona,Racing Santander,3:0,CF,33,02:00,Penalty,,Messi,True
+858,10_11,Copa del Rey,Semi-Finals,2011-01-26,Home,FC Barcelona,UD Almera,5:0,CF,9,01:00,Left-footed shot,Pedro,Messi,False
+859,10_11,Copa del Rey,Semi-Finals,2011-01-26,Home,FC Barcelona,UD Almera,5:0,CF,15,03:00,Left-footed shot,Andres Iniesta,Messi,False
+860,10_11,LaLiga,21,2011-01-29,Away,FC Barcelona,Hercules CF,0:3,CF,87,00:02,Left-footed shot,Dani Alves,Messi,False
+861,10_11,LaLiga,21,2011-01-29,Away,FC Barcelona,Hercules CF,0:3,CF,89,00:03,Left-footed shot,Dani Alves,Messi,False
+862,10_11,LaLiga,22,2011-02-05,Home,FC Barcelona,Atletico de Madrid,3:0,CF,16,01:00,Left-footed shot,Dani Alves,Messi,False
+863,10_11,LaLiga,22,2011-02-05,Home,FC Barcelona,Atletico de Madrid,3:0,CF,28,02:00,Left-footed shot,Pedro,Messi,False
+864,10_11,LaLiga,22,2011-02-05,Home,FC Barcelona,Atletico de Madrid,3:0,CF,78,03:00,Left-footed shot,David Villa,Messi,False
+865,10_11,LaLiga,24,2011-02-20,Home,FC Barcelona,Athletic Bilbao,2:1,CF,78,02:01,Right-footed shot,Dani Alves,Messi,False
+866,10_11,LaLiga,25,2011-02-26,Away,FC Barcelona,RCD Mallorca,0:3,CF,38,00:01,Header,Seydou Keita,Messi,False
+867,10_11,LaLiga,26,2011-03-02,Away,FC Barcelona,Valencia CF,0:1,CF,77,00:01,Left-footed shot,Adriano,Messi,False
+868,10_11,UEFA Champions League,last 16,2011-03-08,Home,FC Barcelona,Arsenal FC,3:1,RW,49,01:00,Left-footed shot,Andres Iniesta,Messi,False
+869,10_11,UEFA Champions League,last 16,2011-03-08,Home,FC Barcelona,Arsenal FC,3:1,RW,72,03:01,Penalty,,Messi,True
+870,10_11,LaLiga,31,2011-04-09,Home,FC Barcelona,UD Almera,3:1,CF,52,01:01,Penalty,,Messi,True
+871,10_11,LaLiga,31,2011-04-09,Home,FC Barcelona,UD Almera,3:1,CF,90+1,03:01,Left-footed shot,Seydou Keita,Messi,False
+872,10_11,UEFA Champions League,Quarter-Finals,2011-04-12,Away,FC Barcelona,Shakhtar Donetsk,0:1,CF,42,00:01,Left-footed shot,Dani Alves,Messi,False
+873,10_11,LaLiga,32,2011-04-16,Away,FC Barcelona,Real Madrid,1:1,CF,53,00:01,Penalty,,Messi,True
+874,10_11,LaLiga,33,2011-04-23,Home,FC Barcelona,CA Osasuna,2:0,CF,87,02:00,Right-footed shot,Dani Alves,Messi,False
+875,10_11,UEFA Champions League,Semi-Finals,2011-04-27,Away,FC Barcelona,Real Madrid,0:2,CF,76,00:01,Left-footed shot,Ibrahim Afellay,Messi,False
+876,10_11,UEFA Champions League,Semi-Finals,2011-04-27,Away,FC Barcelona,Real Madrid,0:2,CF,87,00:02,Solo run,Sergio Busquets,Messi,False
+877,10_11,UEFA Champions League,Final,2011-05-28,Home,FC Barcelona,Manchester United,3:1,CF,54,02:01,Left-footed shot,Andres Iniesta,Messi,False
+878,11_12,Supercopa,final,2011-08-14,Away,FC Barcelona,Real Madrid,2:2,CF,45,01:02,Left-footed shot,Thiago,Messi,False
+879,11_12,Supercopa,final,2011-08-17,Home,FC Barcelona,Real Madrid,3:2,CF,44,02:01,Right-footed shot,Gerard Pique,Messi,False
+880,11_12,Supercopa,final,2011-08-17,Home,FC Barcelona,Real Madrid,3:2,CF,88,03:02,Left-footed shot,Adriano,Messi,False
+881,11_12,UEFA Super Cup,Final,2011-08-26,Home,FC Barcelona,FC Porto,2:0,CF,39,01:00,Left-footed shot,,Messi,False
+882,11_12,LaLiga,2,2011-08-29,Home,FC Barcelona,Villarreal CF,5:0,CF,51,04:00,Right-footed shot,Andres Iniesta,Messi,False
+883,11_12,LaLiga,2,2011-08-29,Home,FC Barcelona,Villarreal CF,5:0,CF,74,05:00,Left-footed shot,Thiago,Messi,False
+884,11_12,LaLiga,4,2011-09-17,Home,FC Barcelona,CA Osasuna,8:0,CF,5,01:00,Left-footed shot,Dani Alves,Messi,False
+885,11_12,LaLiga,4,2011-09-17,Home,FC Barcelona,CA Osasuna,8:0,CF,41,05:00,Left-footed shot,Cesc Fabregas,Messi,False
+886,11_12,LaLiga,4,2011-09-17,Home,FC Barcelona,CA Osasuna,8:0,CF,79,08:00,Left-footed shot,Cesc Fabregas,Messi,False
+887,11_12,LaLiga,6,2011-09-24,Home,FC Barcelona,Atletico de Madrid,5:0,CF,26,03:00,Left-footed shot,Pedro,Messi,False
+888,11_12,LaLiga,6,2011-09-24,Home,FC Barcelona,Atletico de Madrid,5:0,CF,78,04:00,Left-footed shot,Dani Alves,Messi,False
+889,11_12,LaLiga,6,2011-09-24,Home,FC Barcelona,Atletico de Madrid,5:0,CF,90+1,05:00,Left-footed shot,David Villa,Messi,False
+890,11_12,UEFA Champions League,Group Stage,2011-09-28,Away,FC Barcelona,BATE Borisov,0:5,CF,38,00:03,Header,,Messi,False
+891,11_12,UEFA Champions League,Group Stage,2011-09-28,Away,FC Barcelona,BATE Borisov,0:5,CF,56,00:04,Left-footed shot,Dani Alves,Messi,False
+892,11_12,LaLiga,8,2011-10-15,Home,FC Barcelona,Racing Santander,3:0,CF,11,01:00,Right-footed shot,Andres Iniesta,Messi,False
+893,11_12,LaLiga,8,2011-10-15,Home,FC Barcelona,Racing Santander,3:0,CF,69,03:00,Right-footed shot,,Messi,False
+894,11_12,LaLiga,11,2011-10-29,Home,FC Barcelona,RCD Mallorca,5:0,CF,13,01:00,Penalty,,Messi,True
+895,11_12,LaLiga,11,2011-10-29,Home,FC Barcelona,RCD Mallorca,5:0,CF,21,02:00,Right-footed shot,Adriano,Messi,False
+896,11_12,LaLiga,11,2011-10-29,Home,FC Barcelona,RCD Mallorca,5:0,CF,30,03:00,Left-footed shot,Dani Alves,Messi,False
+897,11_12,UEFA Champions League,Group Stage,2011-11-01,Away,FC Barcelona,FC Viktoria Plzen,0:4,CF,24,00:01,Penalty,,Messi,True
+898,11_12,UEFA Champions League,Group Stage,2011-11-01,Away,FC Barcelona,FC Viktoria Plzen,0:4,CF,45+2,00:02,Left-footed shot,Adriano,Messi,False
+899,11_12,UEFA Champions League,Group Stage,2011-11-01,Away,FC Barcelona,FC Viktoria Plzen,0:4,CF,90+2,00:04,Left-footed shot,Gerard Pique,Messi,False
+900,11_12,LaLiga,12,2011-11-06,Away,FC Barcelona,Athletic Bilbao,2:2,CF,90,02:02,Left-footed shot,,Messi,False
+901,11_12,LaLiga,13,2011-11-19,Home,FC Barcelona,Real Zaragoza,4:0,CF,43,02:00,Right-footed shot,Cesc Fabregas,Messi,False
+902,11_12,UEFA Champions League,Group Stage,2011-11-23,Away,FC Barcelona,AC Milan,2:3,SS,31,01:02,Penalty,,Messi,True
+903,11_12,LaLiga,17,2011-11-29,Home,FC Barcelona,Rayo Vallecano,4:0,CF,49,04:00,Left-footed shot,Dani Alves,Messi,False
+904,11_12,LaLiga,15,2011-12-03,Home,FC Barcelona,Levante UD,5:0,CF,55,04:00,Left-footed shot,Dani Alves,Messi,False
+905,11_12,FIFA Club World Cup,Final,2011-12-18,Away,FC Barcelona,Santos FC,0:4,RW,17,00:01,Left-footed shot,Xavi,Messi,False
+906,11_12,FIFA Club World Cup,Final,2011-12-18,Away,FC Barcelona,Santos FC,0:4,RW,82,00:04,Left-footed shot,Dani Alves,Messi,False
+907,11_12,Copa del Rey,last 16,2012-01-04,Home,FC Barcelona,CA Osasuna,4:0,CF,71,03:00,Header,Cesc Fabregas,Messi,False
+908,11_12,Copa del Rey,last 16,2012-01-04,Home,FC Barcelona,CA Osasuna,4:0,CF,90,04:00,Left-footed shot,Xavi,Messi,False
+909,11_12,LaLiga,19,2012-01-15,Home,FC Barcelona,Real Betis Balompie,4:2,CF,12,02:00,Right-footed shot,Alexis Sanchez,Messi,False
+910,11_12,LaLiga,19,2012-01-15,Home,FC Barcelona,Real Betis Balompie,4:2,CF,86,04:02,Penalty,,Messi,True
+911,11_12,LaLiga,1,2012-01-22,Away,FC Barcelona,Malaga CF,1:4,CF,32,00:01,Header,Adriano,Messi,False
+912,11_12,LaLiga,1,2012-01-22,Away,FC Barcelona,Malaga CF,1:4,CF,51,00:03,Left-footed shot,Thiago,Messi,False
+913,11_12,LaLiga,1,2012-01-22,Away,FC Barcelona,Malaga CF,1:4,CF,77,00:04,Left-footed shot,Pedro,Messi,False
+914,11_12,LaLiga,22,2012-02-04,Home,FC Barcelona,Real Sociedad,2:1,CF,72,02:00,Left-footed shot,Dani Alves,Messi,False
+915,11_12,UEFA Champions League,last 16,2012-02-14,Away,FC Barcelona,Bayer 04 Leverkusen,1:3,CF,88,01:03,Left-footed shot,Dani Alves,Messi,False
+916,11_12,LaLiga,24,2012-02-19,Home,FC Barcelona,Valencia CF,5:1,CF,21,01:01,Left-footed shot,,Messi,False
+917,11_12,LaLiga,24,2012-02-19,Home,FC Barcelona,Valencia CF,5:1,CF,27,02:01,Tap-in,,Messi,False
+918,11_12,LaLiga,24,2012-02-19,Home,FC Barcelona,Valencia CF,5:1,CF,75,03:01,Left-footed shot,Cristian Tello,Messi,False
+919,11_12,LaLiga,24,2012-02-19,Home,FC Barcelona,Valencia CF,5:1,CF,84,04:01,Left-footed shot,Sergio Busquets,Messi,False
+920,11_12,LaLiga,25,2012-02-26,Away,FC Barcelona,Atletico de Madrid,1:2,CF,79,01:02,Direct free kick,,Messi,False
+921,11_12,UEFA Champions League,last 16,2012-03-07,Home,FC Barcelona,Bayer 04 Leverkusen,7:1,CF,25,01:00,Left-footed shot,Xavi,Messi,False
+922,11_12,UEFA Champions League,last 16,2012-03-07,Home,FC Barcelona,Bayer 04 Leverkusen,7:1,CF,42,02:00,Left-footed shot,Andres Iniesta,Messi,False
+923,11_12,UEFA Champions League,last 16,2012-03-07,Home,FC Barcelona,Bayer 04 Leverkusen,7:1,CF,50,03:00,Right-footed shot,Cesc Fabregas,Messi,False
+924,11_12,UEFA Champions League,last 16,2012-03-07,Home,FC Barcelona,Bayer 04 Leverkusen,7:1,CF,58,05:00,Left-footed shot,,Messi,False
+925,11_12,UEFA Champions League,last 16,2012-03-07,Home,FC Barcelona,Bayer 04 Leverkusen,7:1,CF,85,07:00,Left-footed shot,Seydou Keita,Messi,False
+926,11_12,LaLiga,27,2012-03-11,Away,FC Barcelona,Racing Santander,0:2,CF,28,00:01,Left-footed shot,Cesc Fabregas,Messi,False
+927,11_12,LaLiga,27,2012-03-11,Away,FC Barcelona,Racing Santander,0:2,CF,55,00:02,Penalty,,Messi,True
+928,11_12,LaLiga,28,2012-03-17,Away,FC Barcelona,Sevilla FC,0:2,CF,25,00:02,Left-footed shot,Andres Iniesta,Messi,False
+929,11_12,LaLiga,29,2012-03-20,Home,FC Barcelona,Granada CF,5:3,CF,16,02:00,Left-footed shot,Isaac Cuenca,Messi,False
+930,11_12,LaLiga,29,2012-03-20,Home,FC Barcelona,Granada CF,5:3,CF,66,03:02,Left-footed shot,Dani Alves,Messi,False
+931,11_12,LaLiga,29,2012-03-20,Home,FC Barcelona,Granada CF,5:3,CF,85,05:02,Left-footed shot,Dani Alves,Messi,False
+932,11_12,LaLiga,30,2012-03-24,Away,FC Barcelona,RCD Mallorca,0:2,CF,25,00:01,Direct free kick,,Messi,False
+933,11_12,LaLiga,31,2012-03-31,Home,FC Barcelona,Athletic Bilbao,2:0,CF,57,02:00,Penalty,,Messi,True
+934,11_12,UEFA Champions League,Quarter-Finals,2012-04-03,Home,FC Barcelona,AC Milan,3:1,RW,11,01:00,Penalty,,Messi,True
+935,11_12,UEFA Champions League,Quarter-Finals,2012-04-03,Home,FC Barcelona,AC Milan,3:1,RW,42,02:01,Penalty,,Messi,True
+936,11_12,LaLiga,32,2012-04-07,Away,FC Barcelona,Real Zaragoza,1:4,CF,39,01:02,Left-footed shot,Alexis Sanchez,Messi,False
+937,11_12,LaLiga,32,2012-04-07,Away,FC Barcelona,Real Zaragoza,1:4,CF,86,01:03,Penalty,,Messi,True
+938,11_12,LaLiga,33,2012-04-10,Home,FC Barcelona,Getafe CF,4:0,CF,44,02:00,Left-footed shot,Andres Iniesta,Messi,False
+939,11_12,LaLiga,34,2012-04-14,Away,FC Barcelona,Levante UD,1:2,CF,64,01:01,Left-footed shot,Alexis Sanchez,Messi,False
+940,11_12,LaLiga,34,2012-04-14,Away,FC Barcelona,Levante UD,1:2,CF,73,01:02,Penalty,,Messi,True
+941,11_12,LaLiga,36,2012-04-29,Away,FC Barcelona,Rayo Vallecano,0:7,CF,16,00:01,Left-footed shot,Pedro,Messi,False
+942,11_12,LaLiga,36,2012-04-29,Away,FC Barcelona,Rayo Vallecano,0:7,CF,88,00:07,Left-footed shot,Pedro,Messi,False
+943,11_12,LaLiga,20,2012-05-02,Home,FC Barcelona,Malaga CF,4:1,CF,34,02:01,Penalty,,Messi,True
+944,11_12,LaLiga,20,2012-05-02,Home,FC Barcelona,Malaga CF,4:1,CF,60,03:01,Penalty,,Messi,True
+945,11_12,LaLiga,20,2012-05-02,Home,FC Barcelona,Malaga CF,4:1,CF,63,04:01,Left-footed shot,Andres Iniesta,Messi,False
+946,11_12,LaLiga,37,2012-05-05,Home,FC Barcelona,RCD Espanyol Barcelona,4:0,CF,11,01:00,Direct free kick,,Messi,False
+947,11_12,LaLiga,37,2012-05-05,Home,FC Barcelona,RCD Espanyol Barcelona,4:0,CF,63,02:00,Penalty,,Messi,True
+948,11_12,LaLiga,37,2012-05-05,Home,FC Barcelona,RCD Espanyol Barcelona,4:0,CF,73,03:00,Left-footed shot,Adriano,Messi,False
+949,11_12,LaLiga,37,2012-05-05,Home,FC Barcelona,RCD Espanyol Barcelona,4:0,CF,78,04:00,Penalty,,Messi,True
+950,11_12,Copa del Rey,Final,2012-05-25,Home,FC Barcelona,Athletic Bilbao,3:0,CF,20,02:00,Right-footed shot,Andres Iniesta,Messi,False
+951,12_13,LaLiga,1,2012-08-19,Home,FC Barcelona,Real Sociedad,5:1,CF,10,02:01,Left-footed shot,Pedro,Messi,False
+952,12_13,LaLiga,1,2012-08-19,Home,FC Barcelona,Real Sociedad,5:1,CF,15,03:01,Left-footed shot,Cristian Tello,Messi,False
+953,12_13,Supercopa,final,2012-08-23,Home,FC Barcelona,Real Madrid,3:2,CF,60,02:01,Penalty,,Messi,True
+954,12_13,LaLiga,2,2012-08-26,Away,FC Barcelona,CA Osasuna,1:2,CF,74,01:01,Left-footed shot,Alexis Sanchez,Messi,False
+955,12_13,LaLiga,2,2012-08-26,Away,FC Barcelona,CA Osasuna,1:2,CF,79,01:02,Left-footed shot,Jordi Alba,Messi,False
+956,12_13,Supercopa,final,2012-08-29,Away,FC Barcelona,Real Madrid,2:1,CF,45,02:01,Direct free kick,,Messi,False
+957,12_13,LaLiga,4,2012-09-15,Away,FC Barcelona,Getafe CF,1:4,CF,74,00:02,Penalty,,Messi,True
+958,12_13,LaLiga,4,2012-09-15,Away,FC Barcelona,Getafe CF,1:4,CF,78,00:03,Left-footed shot,Pedro,Messi,False
+959,12_13,UEFA Champions League,Group Stage,2012-09-19,Home,FC Barcelona,Spartak Moscow,3:2,CF,71,02:02,Left-footed shot,Cristian Tello,Messi,False
+960,12_13,UEFA Champions League,Group Stage,2012-09-19,Home,FC Barcelona,Spartak Moscow,3:2,CF,80,03:02,Header,Alexis Sanchez,Messi,False
+961,12_13,LaLiga,7,2012-10-07,Home,FC Barcelona,Real Madrid,2:2,CF,31,01:01,Left-footed shot,,Messi,False
+962,12_13,LaLiga,7,2012-10-07,Home,FC Barcelona,Real Madrid,2:2,CF,60,02:01,Direct free kick,,Messi,False
+963,12_13,LaLiga,8,2012-10-20,Away,FC Barcelona,Deportivo de La Coruaa,4:5,CF,17,00:03,Left-footed shot,Cesc Fabregas,Messi,False
+964,12_13,LaLiga,8,2012-10-20,Away,FC Barcelona,Deportivo de La Coruaa,4:5,CF,43,02:04,Left-footed shot,Cesc Fabregas,Messi,False
+965,12_13,LaLiga,8,2012-10-20,Away,FC Barcelona,Deportivo de La Coruaa,4:5,CF,76,03:05,Left-footed shot,Xavi,Messi,False
+966,12_13,LaLiga,9,2012-10-27,Away,FC Barcelona,Rayo Vallecano,0:5,CF,48,00:02,Left-footed shot,Marta Montoya,Messi,False
+967,12_13,LaLiga,9,2012-10-27,Away,FC Barcelona,Rayo Vallecano,0:5,CF,89,00:05,Right-footed shot,Cesc Fabregas,Messi,False
+968,12_13,UEFA Champions League,Group Stage,2012-11-07,Away,FC Barcelona,Celtic FC,2:1,CF,90+1,02:01,Tap-in,,Messi,False
+969,12_13,LaLiga,11,2012-11-11,Away,FC Barcelona,RCD Mallorca,2:4,CF,43,00:02,Left-footed shot,Sergio Busquets,Messi,False
+970,12_13,LaLiga,11,2012-11-11,Away,FC Barcelona,RCD Mallorca,2:4,CF,70,02:04,Left-footed shot,Alexis Sanchez,Messi,False
+971,12_13,LaLiga,12,2012-11-17,Home,FC Barcelona,Real Zaragoza,3:1,CF,15,01:00,Left-footed shot,Jordi Alba,Messi,False
+972,12_13,LaLiga,12,2012-11-17,Home,FC Barcelona,Real Zaragoza,3:1,CF,60,03:01,Left-footed shot,Marta Montoya,Messi,False
+973,12_13,UEFA Champions League,Group Stage,2012-11-20,Away,FC Barcelona,Spartak Moscow,0:3,CF,27,00:02,Right-footed shot,,Messi,False
+974,12_13,UEFA Champions League,Group Stage,2012-11-20,Away,FC Barcelona,Spartak Moscow,0:3,CF,39,00:03,Left-footed shot,Pedro,Messi,False
+975,12_13,LaLiga,13,2012-11-25,Away,FC Barcelona,Levante UD,0:4,CF,46,00:01,Left-footed shot,Andres Iniesta,Messi,False
+976,12_13,LaLiga,13,2012-11-25,Away,FC Barcelona,Levante UD,0:4,CF,51,00:02,Left-footed shot,Andres Iniesta,Messi,False
+977,12_13,LaLiga,14,2012-12-01,Home,FC Barcelona,Athletic Bilbao,5:1,CF,24,02:00,Left-footed shot,Xavi,Messi,False
+978,12_13,LaLiga,14,2012-12-01,Home,FC Barcelona,Athletic Bilbao,5:1,CF,69,05:01,Right-footed shot,Pedro,Messi,False
+979,12_13,LaLiga,15,2012-12-09,Away,FC Barcelona,Real Betis Balompie,1:2,CF,16,00:01,Left-footed shot,Andres Iniesta,Messi,False
+980,12_13,LaLiga,15,2012-12-09,Away,FC Barcelona,Real Betis Balompie,1:2,CF,25,00:02,Left-footed shot,Andres Iniesta,Messi,False
+981,12_13,Copa del Rey,last 16,2012-12-12,Away,FC Barcelona,Córdoba CF,0:2,CF,10,00:01,Left-footed shot,David Villa,Messi,False
+982,12_13,Copa del Rey,last 16,2012-12-12,Away,FC Barcelona,Córdoba CF,0:2,CF,73,00:02,Left-footed shot,Alexis Sanchez,Messi,False
+983,12_13,LaLiga,16,2012-12-16,Home,FC Barcelona,Atletico de Madrid,4:1,CF,58,03:01,Left-footed shot,Alexis Sanchez,Messi,False
+984,12_13,LaLiga,16,2012-12-16,Home,FC Barcelona,Atletico de Madrid,4:1,CF,88,04:01,Left-footed shot,,Messi,False
+985,12_13,LaLiga,17,2012-12-22,Away,FC Barcelona,Real Valladolid CF,1:3,CF,59,00:02,Left-footed shot,Xavi,Messi,False
+986,12_13,LaLiga,18,2013-01-06,Home,FC Barcelona,RCD Espanyol Barcelona,4:0,CF,28,04:00,Penalty,,Messi,True
+987,12_13,LaLiga,19,2013-01-13,Away,FC Barcelona,Malaga CF,1:3,CF,26,00:01,Right-footed shot,,Messi,False
+988,12_13,Copa del Rey,Quarter-Finals,2013-01-16,Home,FC Barcelona,Malaga CF,2:2,CF,29,01:01,Left-footed shot,,Messi,False
+989,12_13,LaLiga,20,2013-01-19,Away,FC Barcelona,Real Sociedad,3:2,CF,6,00:01,Left-footed shot,Andres Iniesta,Messi,False
+990,12_13,Copa del Rey,Quarter-Finals,2013-01-24,Away,FC Barcelona,Malaga CF,2:4,CF,79,02:04,Header,Dani Alves,Messi,False
+991,12_13,LaLiga,21,2013-01-27,Home,FC Barcelona,CA Osasuna,5:1,CF,11,01:00,Right-footed shot,Xavi,Messi,False
+992,12_13,LaLiga,21,2013-01-27,Home,FC Barcelona,CA Osasuna,5:1,CF,28,02:01,Penalty,,Messi,True
+993,12_13,LaLiga,21,2013-01-27,Home,FC Barcelona,CA Osasuna,5:1,CF,56,04:01,Left-footed shot,David Villa,Messi,False
+994,12_13,LaLiga,21,2013-01-27,Home,FC Barcelona,CA Osasuna,5:1,CF,58,05:01,Left-footed shot,Adriano,Messi,False
+995,12_13,LaLiga,22,2013-02-03,Away,FC Barcelona,Valencia CF,1:1,CF,39,01:01,Penalty,,Messi,True
+996,12_13,LaLiga,23,2013-02-10,Home,FC Barcelona,Getafe CF,6:1,CF,13,02:00,Left-footed shot,Thiago,Messi,False
+997,12_13,LaLiga,24,2013-02-16,Away,FC Barcelona,Granada CF,1:2,CF,49,01:01,Left-footed shot,,Messi,False
+998,12_13,LaLiga,24,2013-02-16,Away,FC Barcelona,Granada CF,1:2,CF,72,01:02,Direct free kick,,Messi,False
+999,12_13,LaLiga,25,2013-02-23,Home,FC Barcelona,Sevilla FC,2:1,CF,60,02:01,Left-footed shot,Cristian Tello,Messi,False
+1000,12_13,LaLiga,26,2013-03-02,Away,FC Barcelona,Real Madrid,2:1,CF,18,01:01,Left-footed shot,Dani Alves,Messi,False
+1001,12_13,LaLiga,27,2013-03-09,Home,FC Barcelona,Deportivo de La Coruaa,2:0,CF,88,02:00,Left-footed shot,Alexis Sanchez,Messi,False
+1002,12_13,UEFA Champions League,last 16,2013-03-12,Home,FC Barcelona,AC Milan,4:0,CF,5,01:00,Left-footed shot,Xavi,Messi,False
+1003,12_13,UEFA Champions League,last 16,2013-03-12,Home,FC Barcelona,AC Milan,4:0,CF,40,02:00,Left-footed shot,Andres Iniesta,Messi,False
+1004,12_13,LaLiga,28,2013-03-17,Home,FC Barcelona,Rayo Vallecano,3:1,CF,40,02:00,Left-footed shot,David Villa,Messi,False
+1005,12_13,LaLiga,28,2013-03-17,Home,FC Barcelona,Rayo Vallecano,3:1,CF,57,03:00,Left-footed shot,David Villa,Messi,False
+1006,12_13,LaLiga,29,2013-03-30,Away,FC Barcelona,Celta de Vigo,2:2,CF,73,01:02,Left-footed shot,Cristian Tello,Messi,False
+1007,12_13,UEFA Champions League,Quarter-Finals,2013-04-02,Away,FC Barcelona,Paris Saint-Germain,2:2,CF,38,00:01,Left-footed shot,Dani Alves,Messi,False
+1008,12_13,LaLiga,33,2013-04-27,Away,FC Barcelona,Athletic Bilbao,2:2,CF,67,01:01,Left-footed shot,Thiago,Messi,False
+1009,12_13,LaLiga,34,2013-05-05,Home,FC Barcelona,Real Betis Balompie,4:2,CF,60,03:02,Direct free kick,,Messi,False
+1010,12_13,LaLiga,34,2013-05-05,Home,FC Barcelona,Real Betis Balompie,4:2,CF,71,04:02,Left-footed shot,Alexis Sanchez,Messi,False
+1011,13_14,LaLiga,1,2013-08-18,Home,FC Barcelona,Levante UD,7:0,CF,13,02:00,Left-footed shot,Pedro,Messi,False
+1012,13_14,LaLiga,1,2013-08-18,Home,FC Barcelona,Levante UD,7:0,CF,42,05:00,Penalty,,Messi,True
+1013,13_14,LaLiga,3,2013-09-01,Away,FC Barcelona,Valencia CF,2:3,CF,11,00:01,Left-footed shot,Cesc Fabregas,Messi,False
+1014,13_14,LaLiga,3,2013-09-01,Away,FC Barcelona,Valencia CF,2:3,CF,39,00:02,Right-footed shot,Cesc Fabregas,Messi,False
+1015,13_14,LaLiga,3,2013-09-01,Away,FC Barcelona,Valencia CF,2:3,CF,41,00:03,Left-footed shot,Neymar,Messi,False
+1016,13_14,LaLiga,4,2013-09-14,Home,FC Barcelona,Sevilla FC,3:2,CF,75,02:00,Left-footed shot,Neymar,Messi,False
+1017,13_14,UEFA Champions League,Group Stage,2013-09-18,Home,FC Barcelona,Ajax Amsterdam,4:0,CF,22,01:00,Direct free kick,,Messi,False
+1018,13_14,UEFA Champions League,Group Stage,2013-09-18,Home,FC Barcelona,Ajax Amsterdam,4:0,CF,55,02:00,Left-footed shot,Sergio Busquets,Messi,False
+1019,13_14,UEFA Champions League,Group Stage,2013-09-18,Home,FC Barcelona,Ajax Amsterdam,4:0,CF,75,04:00,Left-footed shot,Xavi,Messi,False
+1020,13_14,LaLiga,6,2013-09-24,Home,FC Barcelona,Real Sociedad,4:1,CF,8,02:00,Header,Neymar,Messi,False
+1021,13_14,LaLiga,7,2013-09-28,Away,FC Barcelona,UD Almera,0:2,CF,21,00:01,Left-footed shot,Pedro,Messi,False
+1022,13_14,UEFA Champions League,Group Stage,2013-10-22,Away,FC Barcelona,AC Milan,1:1,CF,23,01:01,Left-footed shot,Andres Iniesta,Messi,False
+1023,13_14,UEFA Champions League,Group Stage,2013-11-06,Home,FC Barcelona,AC Milan,3:1,CF,30,01:00,Penalty,,Messi,True
+1024,13_14,UEFA Champions League,Group Stage,2013-11-06,Home,FC Barcelona,AC Milan,3:1,CF,83,03:01,Left-footed shot,Cesc Fabregas,Messi,False
+1025,13_14,Copa del Rey,last 16,2014-01-08,Home,FC Barcelona,Getafe CF,4:0,CF,90,03:00,Left-footed shot,Marta Montoya,Messi,False
+1026,13_14,Copa del Rey,last 16,2014-01-08,Home,FC Barcelona,Getafe CF,4:0,CF,90+2,04:00,Left-footed shot,Alex Song,Messi,False
+1027,13_14,Copa del Rey,last 16,2014-01-16,Away,FC Barcelona,Getafe CF,0:2,CF,43,00:01,Right-footed shot,Cristian Tello,Messi,False
+1028,13_14,Copa del Rey,last 16,2014-01-16,Away,FC Barcelona,Getafe CF,0:2,CF,63,00:02,Left-footed shot,,Messi,False
+1029,13_14,LaLiga,22,2014-02-01,Home,FC Barcelona,Valencia CF,2:3,CF,54,02:02,Penalty,,Messi,True
+1030,13_14,LaLiga,23,2014-02-09,Away,FC Barcelona,Sevilla FC,1:4,CF,44,01:02,Left-footed shot,Pedro,Messi,False
+1031,13_14,LaLiga,23,2014-02-09,Away,FC Barcelona,Sevilla FC,1:4,CF,56,01:03,Left-footed shot,Andres Iniesta,Messi,False
+1032,13_14,Copa del Rey,Semi-Finals,2014-02-12,Away,FC Barcelona,Real Sociedad,1:1,CF,26,00:01,Solo run,,Messi,False
+1033,13_14,LaLiga,24,2014-02-15,Home,FC Barcelona,Rayo Vallecano,6:0,CF,36,02:00,Left-footed shot,Cesc Fabregas,Messi,False
+1034,13_14,LaLiga,24,2014-02-15,Home,FC Barcelona,Rayo Vallecano,6:0,CF,68,05:00,Left-footed shot,Alexis Sanchez,Messi,False
+1035,13_14,UEFA Champions League,last 16,2014-02-18,Away,FC Barcelona,Manchester City,0:2,CF,54,00:01,Penalty,,Messi,True
+1036,13_14,LaLiga,25,2014-02-22,Away,FC Barcelona,Real Sociedad,3:1,CF,36,01:01,Left-footed shot,Marta Montoya,Messi,False
+1037,13_14,LaLiga,26,2014-03-02,Home,FC Barcelona,UD Almera,4:1,CF,24,02:00,Direct free kick,,Messi,False
+1038,13_14,UEFA Champions League,last 16,2014-03-12,Home,FC Barcelona,Manchester City,2:1,CF,67,01:00,Left-footed shot,,Messi,False
+1039,13_14,LaLiga,28,2014-03-16,Home,FC Barcelona,CA Osasuna,7:0,CF,18,01:00,Left-footed shot,Alexis Sanchez,Messi,False
+1040,13_14,LaLiga,28,2014-03-16,Home,FC Barcelona,CA Osasuna,7:0,CF,63,04:00,Left-footed shot,Andres Iniesta,Messi,False
+1041,13_14,LaLiga,28,2014-03-16,Home,FC Barcelona,CA Osasuna,7:0,CF,88,06:00,Right-footed shot,Dani Alves,Messi,False
+1042,13_14,LaLiga,29,2014-03-23,Away,FC Barcelona,Real Madrid,3:4,CF,42,02:02,Left-footed shot,Neymar,Messi,False
+1043,13_14,LaLiga,29,2014-03-23,Away,FC Barcelona,Real Madrid,3:4,CF,65,03:03,Penalty,,Messi,True
+1044,13_14,LaLiga,29,2014-03-23,Away,FC Barcelona,Real Madrid,3:4,CF,84,03:04,Penalty,,Messi,True
+1045,13_14,LaLiga,30,2014-03-26,Home,FC Barcelona,Celta de Vigo,3:0,CF,30,02:00,Right-footed shot,Andres Iniesta,Messi,False
+1046,13_14,LaLiga,31,2014-03-29,Away,FC Barcelona,RCD Espanyol Barcelona,0:1,CF,77,00:01,Penalty,,Messi,True
+1047,13_14,LaLiga,32,2014-04-05,Home,FC Barcelona,Real Betis Balompie,3:1,CF,15,01:00,Penalty,,Messi,True
+1048,13_14,LaLiga,32,2014-04-05,Home,FC Barcelona,Real Betis Balompie,3:1,CF,86,03:01,Penalty rebound,Antonio Amaya,Messi,False
+1049,13_14,LaLiga,34,2014-04-20,Home,FC Barcelona,Athletic Bilbao,2:1,CF,74,02:01,Direct free kick,,Messi,False
+1050,13_14,LaLiga,35,2014-04-27,Away,FC Barcelona,Villarreal CF,2:3,CF,83,02:03,Right-footed shot,Cesc Fabregas,Messi,False
+1051,13_14,LaLiga,36,2014-05-03,Home,FC Barcelona,Getafe CF,2:2,CF,23,01:00,Left-footed shot,Dani Alves,Messi,False
+1052,14_15,LaLiga,1,2014-08-24,Home,FC Barcelona,Elche CF,3:0,CF,42,01:00,Left-footed shot,Sergio Busquets,Messi,False
+1053,14_15,LaLiga,1,2014-08-24,Home,FC Barcelona,Elche CF,3:0,CF,64,03:00,Left-footed shot,,Messi,False
+1054,14_15,LaLiga,4,2014-09-21,Away,FC Barcelona,Levante UD,0:5,CF,77,00:05,Right-footed shot,,Messi,False
+1055,14_15,LaLiga,6,2014-09-27,Home,FC Barcelona,Granada CF,6:0,CF,62,04:00,Header,Dani Alves,Messi,False
+1056,14_15,LaLiga,6,2014-09-27,Home,FC Barcelona,Granada CF,6:0,CF,82,06:00,Right-footed shot,,Messi,False
+1057,14_15,UEFA Champions League,Group Stage,2014-09-30,Away,FC Barcelona,Paris Saint-Germain,3:2,RW,12,01:01,Left-footed shot,Andres Iniesta,Messi,False
+1058,14_15,LaLiga,7,2014-10-04,Away,FC Barcelona,Rayo Vallecano,0:2,CF,35,00:01,Left-footed shot,Gerard Pique,Messi,False
+1059,14_15,LaLiga,8,2014-10-18,Home,FC Barcelona,SD Eibar,3:0,CF,74,03:00,Left-footed shot,Neymar,Messi,False
+1060,14_15,UEFA Champions League,Group Stage,2014-10-21,Home,FC Barcelona,Ajax Amsterdam,3:1,CF,24,02:00,Left-footed shot,Andres Iniesta,Messi,False
+1061,14_15,UEFA Champions League,Group Stage,2014-11-05,Away,FC Barcelona,Ajax Amsterdam,0:2,RW,36,00:01,Header,Marc Bartra,Messi,False
+1062,14_15,UEFA Champions League,Group Stage,2014-11-05,Away,FC Barcelona,Ajax Amsterdam,0:2,RW,76,00:02,Left-footed shot,Pedro,Messi,False
+1063,14_15,LaLiga,12,2014-11-22,Home,FC Barcelona,Sevilla FC,5:1,RW,21,01:00,Direct free kick,,Messi,False
+1064,14_15,LaLiga,12,2014-11-22,Home,FC Barcelona,Sevilla FC,5:1,RW,73,04:01,Tap-in,Neymar,Messi,False
+1065,14_15,LaLiga,12,2014-11-22,Home,FC Barcelona,Sevilla FC,5:1,RW,78,05:01,Left-footed shot,Neymar,Messi,False
+1066,14_15,UEFA Champions League,Group Stage,2014-11-25,Away,FC Barcelona,APOEL Nicosia,0:4,CF,38,00:02,Right-footed shot,Rafinha,Messi,False
+1067,14_15,UEFA Champions League,Group Stage,2014-11-25,Away,FC Barcelona,APOEL Nicosia,0:4,CF,58,00:03,Right-footed shot,Dani Alves,Messi,False
+1068,14_15,UEFA Champions League,Group Stage,2014-11-25,Away,FC Barcelona,APOEL Nicosia,0:4,CF,87,00:04,Right-footed shot,Pedro,Messi,False
+1069,14_15,LaLiga,14,2014-12-07,Home,FC Barcelona,RCD Espanyol Barcelona,5:1,RW,45+1,01:01,Left-footed shot,Xavi,Messi,False
+1070,14_15,LaLiga,14,2014-12-07,Home,FC Barcelona,RCD Espanyol Barcelona,5:1,RW,50,02:01,Right-footed shot,Luis Suarez,Messi,False
+1071,14_15,LaLiga,14,2014-12-07,Home,FC Barcelona,RCD Espanyol Barcelona,5:1,RW,81,05:01,Right-footed shot,Pedro,Messi,False
+1072,14_15,UEFA Champions League,Group Stage,2014-12-10,Home,FC Barcelona,Paris Saint-Germain,3:1,AM,19,01:01,Right-footed shot,Luis Suarez,Messi,False
+1073,14_15,LaLiga,16,2014-12-20,Home,FC Barcelona,Córdoba CF,5:0,RW,82,04:00,Right-footed shot,,Messi,False
+1074,14_15,LaLiga,16,2014-12-20,Home,FC Barcelona,Córdoba CF,5:0,RW,90,05:00,Right-footed shot,,Messi,False
+1075,14_15,Copa del Rey,last 16,2015-01-08,Home,FC Barcelona,Elche CF,5:0,RW,45,03:00,Penalty,,Messi,True
+1076,14_15,LaLiga,18,2015-01-11,Home,FC Barcelona,Atletico de Madrid,3:1,RW,87,03:01,Left-footed shot,,Messi,False
+1077,14_15,LaLiga,19,2015-01-18,Away,FC Barcelona,Deportivo de La Coruaa,0:4,RW,11,00:01,Header,Ivan Rakitic,Messi,False
+1078,14_15,LaLiga,19,2015-01-18,Away,FC Barcelona,Deportivo de La Coruaa,0:4,RW,33,00:02,Left-footed shot,Luis Suarez,Messi,False
+1079,14_15,LaLiga,19,2015-01-18,Away,FC Barcelona,Deportivo de La Coruaa,0:4,RW,62,00:03,Left-footed shot,Ivan Rakitic,Messi,False
+1080,14_15,Copa del Rey,Quarter-Finals,2015-01-21,Home,FC Barcelona,Atletico de Madrid,1:0,RW,85,01:00,Penalty rebound,,Messi,False
+1081,14_15,LaLiga,20,2015-01-24,Away,FC Barcelona,Elche CF,0:6,CF,55,00:02,Penalty,,Messi,True
+1082,14_15,LaLiga,20,2015-01-24,Away,FC Barcelona,Elche CF,0:6,CF,88,00:05,Left-footed shot,Marc Bartra,Messi,False
+1083,14_15,LaLiga,21,2015-02-01,Home,FC Barcelona,Villarreal CF,3:2,RW,55,03:02,Right-footed shot,Luis Suarez,Messi,False
+1084,14_15,LaLiga,22,2015-02-08,Away,FC Barcelona,Athletic Bilbao,2:5,RW,15,00:01,Direct free kick,,Messi,False
+1085,14_15,Copa del Rey,Semi-Finals,2015-02-11,Home,FC Barcelona,Villarreal CF,3:1,RW,41,01:00,Left-footed shot,Luis Suarez,Messi,False
+1086,14_15,LaLiga,23,2015-02-15,Home,FC Barcelona,Levante UD,5:0,CF,38,02:00,Right-footed shot,Marc Bartra,Messi,False
+1087,14_15,LaLiga,23,2015-02-15,Home,FC Barcelona,Levante UD,5:0,CF,59,03:00,Right-footed shot,Pedro,Messi,False
+1088,14_15,LaLiga,23,2015-02-15,Home,FC Barcelona,Levante UD,5:0,CF,65,04:00,Penalty,,Messi,True
+1089,14_15,LaLiga,25,2015-02-28,Away,FC Barcelona,Granada CF,1:3,RW,70,01:03,Right-footed shot,Luis Suarez,Messi,False
+1090,14_15,LaLiga,26,2015-03-08,Home,FC Barcelona,Rayo Vallecano,6:1,RW,56,03:00,Penalty,,Messi,True
+1091,14_15,LaLiga,26,2015-03-08,Home,FC Barcelona,Rayo Vallecano,6:1,RW,63,04:00,Tap-in,,Messi,False
+1092,14_15,LaLiga,26,2015-03-08,Home,FC Barcelona,Rayo Vallecano,6:1,RW,68,05:00,Left-footed shot,Pedro,Messi,False
+1093,14_15,LaLiga,27,2015-03-14,Away,FC Barcelona,SD Eibar,0:2,RW,31,00:01,Penalty,,Messi,True
+1094,14_15,LaLiga,27,2015-03-14,Away,FC Barcelona,SD Eibar,0:2,RW,55,00:02,Header,Ivan Rakitic,Messi,False
+1095,14_15,LaLiga,30,2015-04-08,Home,FC Barcelona,UD Almera,4:0,RW,33,01:00,Left-footed shot,Marc Bartra,Messi,False
+1096,14_15,LaLiga,31,2015-04-11,Away,FC Barcelona,Sevilla FC,2:2,RW,15,00:01,Left-footed shot,Neymar,Messi,False
+1097,14_15,LaLiga,32,2015-04-18,Home,FC Barcelona,Valencia CF,2:0,RW,90+4,02:00,Left-footed shot,,Messi,False
+1098,14_15,LaLiga,33,2015-04-25,Away,FC Barcelona,RCD Espanyol Barcelona,0:2,RW,25,00:02,Left-footed shot,Luis Suarez,Messi,False
+1099,14_15,LaLiga,34,2015-04-28,Home,FC Barcelona,Getafe CF,6:0,RW,9,01:00,Penalty,,Messi,True
+1100,14_15,LaLiga,34,2015-04-28,Home,FC Barcelona,Getafe CF,6:0,RW,47,06:00,Left-footed shot,Luis Suarez,Messi,False
+1101,14_15,LaLiga,35,2015-05-02,Away,FC Barcelona,Córdoba CF,0:8,RW,47,00:03,Header,Dani Alves,Messi,False
+1102,14_15,LaLiga,35,2015-05-02,Away,FC Barcelona,Córdoba CF,0:8,RW,80,00:06,Left-footed shot,Luis Suarez,Messi,False
+1103,14_15,UEFA Champions League,Semi-Finals,2015-05-06,Home,FC Barcelona,Bayern Munich,3:0,RW,77,01:00,Left-footed shot,Dani Alves,Messi,False
+1104,14_15,UEFA Champions League,Semi-Finals,2015-05-06,Home,FC Barcelona,Bayern Munich,3:0,RW,80,02:00,Right-footed shot,Ivan Rakitic,Messi,False
+1105,14_15,LaLiga,37,2015-05-17,Away,FC Barcelona,Atletico de Madrid,0:1,RW,65,00:01,Left-footed shot,Pedro,Messi,False
+1106,14_15,LaLiga,38,2015-05-23,Home,FC Barcelona,Deportivo de La Coruaa,2:2,RW,5,01:00,Header,Rafinha,Messi,False
+1107,14_15,LaLiga,38,2015-05-23,Home,FC Barcelona,Deportivo de La Coruaa,2:2,RW,59,02:00,Right-footed shot,Neymar,Messi,False
+1108,14_15,Copa del Rey,Final,2015-05-30,Away,FC Barcelona,Athletic Bilbao,1:3,RW,20,00:01,Solo run,,Messi,False
+1109,14_15,Copa del Rey,Final,2015-05-30,Away,FC Barcelona,Athletic Bilbao,1:3,RW,74,00:03,Left-footed shot,Dani Alves,Messi,False
+1110,15_16,UEFA Super Cup,Final,2015-08-11,Home,FC Barcelona,Sevilla FC,5:4 AET,RW,7,01:01,Direct free kick,,Messi,False
+1111,15_16,UEFA Super Cup,Final,2015-08-11,Home,FC Barcelona,Sevilla FC,5:4 AET,RW,16,02:01,Direct free kick,,Messi,False
+1112,15_16,Supercopa,final,2015-08-17,Home,FC Barcelona,Athletic Bilbao,1:1,RW,43,01:00,Left-footed shot,Luis Suarez,Messi,False
+1113,15_16,LaLiga,3,2015-09-12,Away,FC Barcelona,Atletico de Madrid,1:2,RW,77,01:02,Left-footed shot,Luis Suarez,Messi,False
+1114,15_16,LaLiga,4,2015-09-20,Home,FC Barcelona,Levante UD,4:1,AM,61,03:00,Penalty,,Messi,True
+1115,15_16,LaLiga,4,2015-09-20,Home,FC Barcelona,Levante UD,4:1,AM,90,04:01,Left-footed shot,Marc Bartra,Messi,False
+1116,15_16,UEFA Champions League,Group Stage,2015-11-24,Home,FC Barcelona,AS Roma,6:1,RW,18,02:00,Left-footed shot,Luis Suarez,Messi,False
+1117,15_16,UEFA Champions League,Group Stage,2015-11-24,Home,FC Barcelona,AS Roma,6:1,RW,60,05:00,Tap-in,,Messi,False
+1118,15_16,LaLiga,13,2015-11-28,Home,FC Barcelona,Real Sociedad,4:0,RW,90+1,04:00,Left-footed shot,Neymar,Messi,False
+1119,15_16,UEFA Champions League,Group Stage,2015-12-09,Away,FC Barcelona,Bayer 04 Leverkusen,1:1,CF,20,00:01,Right-footed shot,Ivan Rakitic,Messi,False
+1120,15_16,LaLiga,15,2015-12-12,Home,FC Barcelona,Deportivo de La Coruaa,2:2,RW,39,01:00,Direct free kick,,Messi,False
+1121,15_16,FIFA Club World Cup,Final,2015-12-20,Away,FC Barcelona,CA River Plate,0:3,RW,36,00:01,Left-footed shot,Neymar,Messi,False
+1122,15_16,LaLiga,17,2015-12-30,Home,FC Barcelona,Real Betis Balompie,4:0,RW,33,02:00,Right-footed shot,Neymar,Messi,False
+1123,15_16,Copa del Rey,last 16,2016-01-06,Home,FC Barcelona,RCD Espanyol Barcelona,4:1,RW,13,01:01,Left-footed shot,Andres Iniesta,Messi,False
+1124,15_16,Copa del Rey,last 16,2016-01-06,Home,FC Barcelona,RCD Espanyol Barcelona,4:1,RW,44,02:01,Direct free kick,,Messi,False
+1125,15_16,LaLiga,19,2016-01-09,Home,FC Barcelona,Granada CF,4:0,RW,8,01:00,Left-footed shot,Arda Turan,Messi,False
+1126,15_16,LaLiga,19,2016-01-09,Home,FC Barcelona,Granada CF,4:0,RW,14,02:00,Left-footed shot,Luis Suarez,Messi,False
+1127,15_16,LaLiga,19,2016-01-09,Home,FC Barcelona,Granada CF,4:0,RW,58,03:00,Tap-in,,Messi,False
+1128,15_16,LaLiga,20,2016-01-17,Home,FC Barcelona,Athletic Bilbao,6:0,RW,7,01:00,Penalty,,Messi,True
+1129,15_16,LaLiga,21,2016-01-23,Away,FC Barcelona,Malaga CF,1:2,RW,51,01:02,Left-footed shot,Adriano,Messi,False
+1130,15_16,LaLiga,22,2016-01-30,Home,FC Barcelona,Atletico de Madrid,2:1,RW,30,01:01,Left-footed shot,Jordi Alba,Messi,False
+1131,15_16,Copa del Rey,Semi-Finals,2016-02-03,Home,FC Barcelona,Valencia CF,7:0,RW,29,03:00,Left-footed shot,Neymar,Messi,False
+1132,15_16,Copa del Rey,Semi-Finals,2016-02-03,Home,FC Barcelona,Valencia CF,7:0,RW,59,04:00,Left-footed shot,Luis Suarez,Messi,False
+1133,15_16,Copa del Rey,Semi-Finals,2016-02-03,Home,FC Barcelona,Valencia CF,7:0,RW,74,05:00,Left-footed shot,,Messi,False
+1134,15_16,LaLiga,24,2016-02-14,Home,FC Barcelona,Celta de Vigo,6:1,RW,28,01:00,Direct free kick,,Messi,False
+1135,15_16,LaLiga,16,2016-02-17,Away,FC Barcelona,Sporting de Gijón,1:3,RW,25,00:01,Left-footed shot,Luis Suarez,Messi,False
+1136,15_16,LaLiga,16,2016-02-17,Away,FC Barcelona,Sporting de Gijón,1:3,RW,31,01:02,Left-footed shot,Luis Suarez,Messi,False
+1137,15_16,UEFA Champions League,last 16,2016-02-23,Away,FC Barcelona,Arsenal FC,0:2,RW,71,00:01,Left-footed shot,Neymar,Messi,False
+1138,15_16,UEFA Champions League,last 16,2016-02-23,Away,FC Barcelona,Arsenal FC,0:2,RW,83,00:02,Penalty,,Messi,True
+1139,15_16,LaLiga,26,2016-02-28,Home,FC Barcelona,Sevilla FC,2:1,RW,31,01:01,Direct free kick,,Messi,False
+1140,15_16,LaLiga,27,2016-03-03,Away,FC Barcelona,Rayo Vallecano,1:5,RW,23,00:02,Left-footed shot,Neymar,Messi,False
+1141,15_16,LaLiga,27,2016-03-03,Away,FC Barcelona,Rayo Vallecano,1:5,RW,53,00:03,Left-footed shot,,Messi,False
+1142,15_16,LaLiga,27,2016-03-03,Away,FC Barcelona,Rayo Vallecano,1:5,RW,72,01:04,Left-footed shot,Sergio Busquets,Messi,False
+1143,15_16,LaLiga,28,2016-03-06,Away,FC Barcelona,SD Eibar,0:4,RW,42,00:02,Left-footed shot,Munir El Haddadi,Messi,False
+1144,15_16,LaLiga,28,2016-03-06,Away,FC Barcelona,SD Eibar,0:4,RW,76,00:03,Penalty,,Messi,True
+1145,15_16,LaLiga,29,2016-03-12,Home,FC Barcelona,Getafe CF,6:0,CF,41,04:00,Left-footed shot,Arda Turan,Messi,False
+1146,15_16,UEFA Champions League,last 16,2016-03-16,Home,FC Barcelona,Arsenal FC,3:1,RW,86,03:01,Left-footed shot,Neymar,Messi,False
+1147,15_16,LaLiga,33,2016-04-17,Home,FC Barcelona,Valencia CF,1:2,RW,63,01:02,Left-footed shot,Jordi Alba,Messi,False
+1148,15_16,LaLiga,34,2016-04-20,Away,FC Barcelona,Deportivo de La Coruaa,0:8,RW,73,00:06,Left-footed shot,Luis Suarez,Messi,False
+1149,15_16,LaLiga,35,2016-04-23,Home,FC Barcelona,Sporting de Gijón,6:0,RW,13,01:00,Header,,Messi,False
+1150,15_16,LaLiga,37,2016-05-08,Home,FC Barcelona,RCD Espanyol Barcelona,5:0,RW,8,01:00,Direct free kick,,Messi,False
+1151,16_17,Supercopa,final,2016-08-17,Home,FC Barcelona,Sevilla FC,3:0,RW,55,03:00,Header,Lucas Digne,Messi,False
+1152,16_17,LaLiga,1,2016-08-20,Home,FC Barcelona,Real Betis Balompie,6:2,RW,37,02:01,Left-footed shot,Sergi Roberto,Messi,False
+1153,16_17,LaLiga,1,2016-08-20,Home,FC Barcelona,Real Betis Balompie,6:2,RW,58,05:01,Left-footed shot,Arda Turan,Messi,False
+1154,16_17,UEFA Champions League,Group Stage,2016-09-13,Home,FC Barcelona,Celtic FC,7:0,RW,3,01:00,Left-footed shot,Neymar,Messi,False
+1155,16_17,UEFA Champions League,Group Stage,2016-09-13,Home,FC Barcelona,Celtic FC,7:0,RW,27,02:00,Left-footed shot,Neymar,Messi,False
+1156,16_17,UEFA Champions League,Group Stage,2016-09-13,Home,FC Barcelona,Celtic FC,7:0,RW,60,05:00,Left-footed shot,Luis Suarez,Messi,False
+1157,16_17,LaLiga,4,2016-09-17,Away,FC Barcelona,CD Leganes,1:5,RW,15,00:01,Left-footed shot,Luis Suarez,Messi,False
+1158,16_17,LaLiga,4,2016-09-17,Away,FC Barcelona,CD Leganes,1:5,RW,55,00:04,Penalty,,Messi,True
+1159,16_17,LaLiga,8,2016-10-15,Home,FC Barcelona,Deportivo de La Coruaa,4:0,RW,58,04:00,Left-footed shot,Neymar,Messi,False
+1160,16_17,UEFA Champions League,Group Stage,2016-10-19,Home,FC Barcelona,Manchester City,4:0,RW,17,01:00,Left-footed shot,Andres Iniesta,Messi,False
+1161,16_17,UEFA Champions League,Group Stage,2016-10-19,Home,FC Barcelona,Manchester City,4:0,RW,61,02:00,Left-footed shot,Andres Iniesta,Messi,False
+1162,16_17,UEFA Champions League,Group Stage,2016-10-19,Home,FC Barcelona,Manchester City,4:0,RW,69,03:00,Left-footed shot,Luis Suarez,Messi,False
+1163,16_17,LaLiga,9,2016-10-22,Away,FC Barcelona,Valencia CF,2:3,RW,22,00:01,Left-footed shot,Ivan Rakitic,Messi,False
+1164,16_17,LaLiga,9,2016-10-22,Away,FC Barcelona,Valencia CF,2:3,RW,90+4,02:03,Penalty,,Messi,True
+1165,16_17,UEFA Champions League,Group Stage,2016-11-01,Away,FC Barcelona,Manchester City,3:1,RW,21,00:01,Left-footed shot,Neymar,Messi,False
+1166,16_17,LaLiga,11,2016-11-06,Away,FC Barcelona,Sevilla FC,1:2,RW,43,01:01,Left-footed shot,Neymar,Messi,False
+1167,16_17,UEFA Champions League,Group Stage,2016-11-23,Away,FC Barcelona,Celtic FC,0:2,RW,24,00:01,Left-footed shot,Neymar,Messi,False
+1168,16_17,UEFA Champions League,Group Stage,2016-11-23,Away,FC Barcelona,Celtic FC,0:2,RW,55,00:02,Penalty,,Messi,True
+1169,16_17,LaLiga,13,2016-11-27,Away,FC Barcelona,Real Sociedad,1:1,RW,59,01:01,Left-footed shot,Neymar,Messi,False
+1170,16_17,UEFA Champions League,Group Stage,2016-12-06,Home,FC Barcelona,Borussia Mönchengladbach,4:0,RW,16,01:00,Left-footed shot,Arda Turan,Messi,False
+1171,16_17,LaLiga,15,2016-12-10,Away,FC Barcelona,CA Osasuna,0:3,RW,72,00:02,Left-footed shot,Jordi Alba,Messi,False
+1172,16_17,LaLiga,15,2016-12-10,Away,FC Barcelona,CA Osasuna,0:3,RW,90+2,00:03,Left-footed shot,Sergio Busquets,Messi,False
+1173,16_17,LaLiga,16,2016-12-18,Home,FC Barcelona,RCD Espanyol Barcelona,4:1,RW,90,04:01,Left-footed shot,Luis Suarez,Messi,False
+1174,16_17,Copa del Rey,last 16,2017-01-05,Away,FC Barcelona,Athletic Bilbao,2:1,RW,52,02:01,Direct free kick,,Messi,False
+1175,16_17,LaLiga,17,2017-01-08,Away,FC Barcelona,Villarreal CF,1:1,RW,90,01:01,Direct free kick,,Messi,False
+1176,16_17,Copa del Rey,last 16,2017-01-11,Home,FC Barcelona,Athletic Bilbao,3:1,RW,78,03:01,Direct free kick,,Messi,False
+1177,16_17,LaLiga,18,2017-01-14,Home,FC Barcelona,UD Las Palmas,5:0,RW,52,02:00,Right-footed shot,,Messi,False
+1178,16_17,LaLiga,19,2017-01-22,Away,FC Barcelona,SD Eibar,0:4,RW,50,00:02,Left-footed shot,Luis Suarez,Messi,False
+1179,16_17,Copa del Rey,Quarter-Finals,2017-01-26,Home,FC Barcelona,Real Sociedad,5:2,RW,55,02:00,Penalty,,Messi,True
+1180,16_17,Copa del Rey,Semi-Finals,2017-02-01,Away,FC Barcelona,Atletico de Madrid,1:2,RW,33,00:02,Left-footed shot,Ivan Rakitic,Messi,False
+1181,16_17,LaLiga,21,2017-02-04,Home,FC Barcelona,Athletic Bilbao,3:0,RW,40,02:00,Direct free kick,,Messi,False
+1182,16_17,LaLiga,22,2017-02-11,Away,FC Barcelona,Deportivo Alaves,0:6,RW,59,00:03,Left-footed shot,Neymar,Messi,False
+1183,16_17,LaLiga,23,2017-02-19,Home,FC Barcelona,CD Leganes,2:1,RW,4,01:00,Right-footed shot,Luis Suarez,Messi,False
+1184,16_17,LaLiga,23,2017-02-19,Home,FC Barcelona,CD Leganes,2:1,RW,90,02:01,Penalty,,Messi,True
+1185,16_17,LaLiga,24,2017-02-26,Away,FC Barcelona,Atletico de Madrid,1:2,RW,86,01:02,Left-footed shot,,Messi,False
+1186,16_17,LaLiga,25,2017-03-01,Home,FC Barcelona,Sporting de Gijón,6:1,RW,9,01:00,Header,Javier Mascherano,Messi,False
+1187,16_17,LaLiga,26,2017-03-04,Home,FC Barcelona,Celta de Vigo,5:0,AM,24,01:00,Left-footed shot,Sergio Busquets,Messi,False
+1188,16_17,LaLiga,26,2017-03-04,Home,FC Barcelona,Celta de Vigo,5:0,AM,64,05:00,Left-footed shot,,Messi,False
+1189,16_17,UEFA Champions League,last 16,2017-03-08,Home,FC Barcelona,Paris Saint-Germain,6:1,AM,50,03:00,Penalty,,Messi,True
+1190,16_17,LaLiga,28,2017-03-19,Home,FC Barcelona,Valencia CF,4:2,AM,45,02:01,Penalty,,Messi,True
+1191,16_17,LaLiga,28,2017-03-19,Home,FC Barcelona,Valencia CF,4:2,AM,53,03:02,Right-footed shot,Javier Mascherano,Messi,False
+1192,16_17,LaLiga,30,2017-04-05,Home,FC Barcelona,Sevilla FC,3:0,RW,28,02:00,Right-footed shot,Luis Suarez,Messi,False
+1193,16_17,LaLiga,30,2017-04-05,Home,FC Barcelona,Sevilla FC,3:0,RW,33,03:00,Left-footed shot,,Messi,False
+1194,16_17,LaLiga,32,2017-04-15,Home,FC Barcelona,Real Sociedad,3:2,RW,17,01:00,Left-footed shot,Luis Suarez,Messi,False
+1195,16_17,LaLiga,32,2017-04-15,Home,FC Barcelona,Real Sociedad,3:2,RW,37,02:00,Tap-in,,Messi,False
+1196,16_17,LaLiga,33,2017-04-23,Away,FC Barcelona,Real Madrid,2:3,RW,33,01:01,Left-footed shot,Ivan Rakitic,Messi,False
+1197,16_17,LaLiga,33,2017-04-23,Away,FC Barcelona,Real Madrid,2:3,RW,90+2,02:03,Left-footed shot,Jordi Alba,Messi,False
+1198,16_17,LaLiga,34,2017-04-26,Home,FC Barcelona,CA Osasuna,7:1,AM,12,01:00,Left-footed shot,,Messi,False
+1199,16_17,LaLiga,34,2017-04-26,Home,FC Barcelona,CA Osasuna,7:1,AM,61,04:01,Left-footed shot,Ivan Rakitic,Messi,False
+1200,16_17,LaLiga,36,2017-05-06,Home,FC Barcelona,Villarreal CF,4:1,RW,45,02:01,Left-footed shot,Sergio Busquets,Messi,False
+1201,16_17,LaLiga,36,2017-05-06,Home,FC Barcelona,Villarreal CF,4:1,RW,82,04:01,Penalty,,Messi,True
+1202,16_17,LaLiga,38,2017-05-21,Home,FC Barcelona,SD Eibar,4:2,RW,75,03:02,Penalty,,Messi,True
+1203,16_17,LaLiga,38,2017-05-21,Home,FC Barcelona,SD Eibar,4:2,RW,90+2,04:02,Right-footed shot,,Messi,False
+1204,16_17,Copa del Rey,Final,2017-05-27,Home,FC Barcelona,Deportivo Alaves,3:1,RW,30,01:00,Left-footed shot,Neymar,Messi,False
+1205,17_18,Supercopa,final,2017-08-13,Home,FC Barcelona,Real Madrid,1:3,RW,77,01:01,Penalty,,Messi,True
+1206,17_18,LaLiga,2,2017-08-26,Away,FC Barcelona,Deportivo Alaves,0:2,CF,55,00:01,Left-footed shot,Jordi Alba,Messi,False
+1207,17_18,LaLiga,2,2017-08-26,Away,FC Barcelona,Deportivo Alaves,0:2,CF,66,00:02,Left-footed shot,Paco Alcacer,Messi,False
+1208,17_18,LaLiga,3,2017-09-09,Home,FC Barcelona,RCD Espanyol Barcelona,5:0,CF,26,01:00,Left-footed shot,Ivan Rakitic,Messi,False
+1209,17_18,LaLiga,3,2017-09-09,Home,FC Barcelona,RCD Espanyol Barcelona,5:0,CF,35,02:00,Right-footed shot,Jordi Alba,Messi,False
+1210,17_18,LaLiga,3,2017-09-09,Home,FC Barcelona,RCD Espanyol Barcelona,5:0,CF,67,03:00,Left-footed shot,Jordi Alba,Messi,False
+1211,17_18,UEFA Champions League,Group Stage,2017-09-12,Home,FC Barcelona,Juventus FC,3:0,CF,45,01:00,Left-footed shot,Luis Suarez,Messi,False
+1212,17_18,UEFA Champions League,Group Stage,2017-09-12,Home,FC Barcelona,Juventus FC,3:0,CF,69,03:00,Left-footed shot,,Messi,False
+1213,17_18,LaLiga,5,2017-09-19,Home,FC Barcelona,SD Eibar,6:1,CF,21,01:00,Penalty,,Messi,True
+1214,17_18,LaLiga,5,2017-09-19,Home,FC Barcelona,SD Eibar,6:1,CF,59,04:01,Left-footed shot,Sergio Busquets,Messi,False
+1215,17_18,LaLiga,5,2017-09-19,Home,FC Barcelona,SD Eibar,6:1,CF,62,05:01,Left-footed shot,Paulinho,Messi,False
+1216,17_18,LaLiga,5,2017-09-19,Home,FC Barcelona,SD Eibar,6:1,CF,87,06:01,Left-footed shot,Aleix Vidal,Messi,False
+1217,17_18,LaLiga,7,2017-10-01,Home,FC Barcelona,UD Las Palmas,3:0,SS,70,02:00,Left-footed shot,Denis Suarez,Messi,False
+1218,17_18,LaLiga,7,2017-10-01,Home,FC Barcelona,UD Las Palmas,3:0,SS,77,03:00,Left-footed shot,Luis Suarez,Messi,False
+1219,17_18,UEFA Champions League,Group Stage,2017-10-18,Home,FC Barcelona,Olympiacos Piraeus,3:1,CF,61,02:00,Direct free kick,,Messi,False
+1220,17_18,LaLiga,10,2017-10-28,Away,FC Barcelona,Athletic Bilbao,0:2,SS,37,00:01,Left-footed shot,Jordi Alba,Messi,False
+1221,17_18,LaLiga,14,2017-12-02,Home,FC Barcelona,Celta de Vigo,2:2,SS,22,01:01,Left-footed shot,Paulinho,Messi,False
+1222,17_18,LaLiga,15,2017-12-10,Away,FC Barcelona,Villarreal CF,0:2,RW,83,00:02,Left-footed shot,Sergio Busquets,Messi,False
+1223,17_18,LaLiga,17,2017-12-23,Away,FC Barcelona,Real Madrid,0:3,SS,64,00:02,Penalty,,Messi,True
+1224,17_18,LaLiga,18,2018-01-07,Home,FC Barcelona,Levante UD,3:0,SS,12,01:00,Left-footed shot,Jordi Alba,Messi,False
+1225,17_18,Copa del Rey,last 16,2018-01-11,Home,FC Barcelona,Celta de Vigo,5:0,SS,13,01:00,Left-footed shot,Jordi Alba,Messi,False
+1226,17_18,Copa del Rey,last 16,2018-01-11,Home,FC Barcelona,Celta de Vigo,5:0,SS,15,02:00,Left-footed shot,Jordi Alba,Messi,False
+1227,17_18,LaLiga,19,2018-01-14,Away,FC Barcelona,Real Sociedad,2:4,SS,85,02:04,Direct free kick,,Messi,False
+1228,17_18,LaLiga,20,2018-01-21,Away,FC Barcelona,Real Betis Balompie,0:5,SS,64,00:02,Left-footed shot,Sergio Busquets,Messi,False
+1229,17_18,LaLiga,20,2018-01-21,Away,FC Barcelona,Real Betis Balompie,0:5,SS,80,00:04,Left-footed shot,Luis Suarez,Messi,False
+1230,17_18,Copa del Rey,Quarter-Finals,2018-01-25,Home,FC Barcelona,RCD Espanyol Barcelona,2:0,SS,25,02:00,Deflected shot on goal,,Messi,False
+1231,17_18,LaLiga,21,2018-01-28,Home,FC Barcelona,Deportivo Alaves,2:1,SS,84,02:01,Direct free kick,,Messi,False
+1232,17_18,UEFA Champions League,last 16,2018-02-20,Away,FC Barcelona,Chelsea FC,1:1,SS,75,01:01,Left-footed shot,Andres Iniesta,Messi,False
+1233,17_18,LaLiga,25,2018-02-24,Home,FC Barcelona,Girona FC,6:1,SS,30,02:01,Left-footed shot,Luis Suarez,Messi,False
+1234,17_18,LaLiga,25,2018-02-24,Home,FC Barcelona,Girona FC,6:1,SS,36,03:01,Direct free kick,,Messi,False
+1235,17_18,LaLiga,26,2018-03-01,Away,FC Barcelona,UD Las Palmas,1:1,SS,21,00:01,Direct free kick,,Messi,False
+1236,17_18,LaLiga,27,2018-03-04,Home,FC Barcelona,Atletico de Madrid,1:0,SS,26,01:00,Direct free kick,,Messi,False
+1237,17_18,UEFA Champions League,last 16,2018-03-14,Home,FC Barcelona,Chelsea FC,3:0,SS,3,01:00,Right-footed shot,Luis Suarez,Messi,False
+1238,17_18,UEFA Champions League,last 16,2018-03-14,Home,FC Barcelona,Chelsea FC,3:0,SS,63,03:00,Left-footed shot,Luis Suarez,Messi,False
+1239,17_18,LaLiga,29,2018-03-18,Home,FC Barcelona,Athletic Bilbao,2:0,SS,30,02:00,Left-footed shot,Ousmane Dembele,Messi,False
+1240,17_18,LaLiga,30,2018-03-31,Away,FC Barcelona,Sevilla FC,2:2,RW,89,02:02,Left-footed shot,Philippe Coutinho,Messi,False
+1241,17_18,LaLiga,31,2018-04-07,Home,FC Barcelona,CD Leganes,3:1,SS,27,01:00,Direct free kick,,Messi,False
+1242,17_18,LaLiga,31,2018-04-07,Home,FC Barcelona,CD Leganes,3:1,SS,32,02:00,Left-footed shot,Philippe Coutinho,Messi,False
+1243,17_18,LaLiga,31,2018-04-07,Home,FC Barcelona,CD Leganes,3:1,SS,87,03:01,Left-footed shot,Ousmane Dembele,Messi,False
+1244,17_18,Copa del Rey,Final,2018-04-21,Away,FC Barcelona,Sevilla FC,0:5,SS,31,00:02,Left-footed shot,Jordi Alba,Messi,False
+1245,17_18,LaLiga,35,2018-04-29,Away,FC Barcelona,Deportivo de La Coruaa,2:4,CF,38,00:02,Left-footed shot,Luis Suarez,Messi,False
+1246,17_18,LaLiga,35,2018-04-29,Away,FC Barcelona,Deportivo de La Coruaa,2:4,CF,82,02:03,Right-footed shot,Luis Suarez,Messi,False
+1247,17_18,LaLiga,35,2018-04-29,Away,FC Barcelona,Deportivo de La Coruaa,2:4,CF,85,02:04,Left-footed shot,Luis Suarez,Messi,False
+1248,17_18,LaLiga,36,2018-05-06,Home,FC Barcelona,Real Madrid,2:2,SS,52,02:01,Left-footed shot,Luis Suarez,Messi,False
+1249,17_18,LaLiga,34,2018-05-09,Home,FC Barcelona,Villarreal CF,5:1,CF,45,03:00,Left-footed shot,Andres Iniesta,Messi,False
+1250,18_19,LaLiga,1,2018-08-18,Home,FC Barcelona,Deportivo Alaves,3:0,RW,64,01:00,Direct free kick,,Messi,False
+1251,18_19,LaLiga,1,2018-08-18,Home,FC Barcelona,Deportivo Alaves,3:0,RW,90+2,03:00,Left-footed shot,Luis Suarez,Messi,False
+1252,18_19,LaLiga,3,2018-09-02,Home,FC Barcelona,SD Huesca,8:2,RW,16,01:01,Right-footed shot,Ivan Rakitic,Messi,False
+1253,18_19,LaLiga,3,2018-09-02,Home,FC Barcelona,SD Huesca,8:2,RW,61,06:02,Left-footed shot,Philippe Coutinho,Messi,False
+1254,18_19,UEFA Champions League,Group Stage,2018-09-18,Home,FC Barcelona,PSV Eindhoven,4:0,RW,31,01:00,Direct free kick,,Messi,False
+1255,18_19,UEFA Champions League,Group Stage,2018-09-18,Home,FC Barcelona,PSV Eindhoven,4:0,RW,77,03:00,Left-footed shot,Ivan Rakitic,Messi,False
+1256,18_19,UEFA Champions League,Group Stage,2018-09-18,Home,FC Barcelona,PSV Eindhoven,4:0,RW,87,04:00,Right-footed shot,Luis Suarez,Messi,False
+1257,18_19,LaLiga,5,2018-09-23,Home,FC Barcelona,Girona FC,2:2,RW,19,01:00,Left-footed shot,Arturo Vidal,Messi,False
+1258,18_19,UEFA Champions League,Group Stage,2018-10-03,Away,FC Barcelona,Tottenham Hotspur,2:4,RW,56,01:03,Left-footed shot,Jordi Alba,Messi,False
+1259,18_19,UEFA Champions League,Group Stage,2018-10-03,Away,FC Barcelona,Tottenham Hotspur,2:4,RW,90,02:04,Left-footed shot,Jordi Alba,Messi,False
+1260,18_19,LaLiga,8,2018-10-07,Away,FC Barcelona,Valencia CF,1:1,RW,23,01:01,Left-footed shot,Luis Suarez,Messi,False
+1261,18_19,LaLiga,9,2018-10-20,Home,FC Barcelona,Sevilla FC,4:2,RW,12,02:00,Left-footed shot,Luis Suarez,Messi,False
+1262,18_19,LaLiga,12,2018-11-11,Home,FC Barcelona,Real Betis Balompie,3:4,SS,68,01:02,Penalty,,Messi,True
+1263,18_19,LaLiga,12,2018-11-11,Home,FC Barcelona,Real Betis Balompie,3:4,SS,90+4,03:04,Left-footed shot,Arturo Vidal,Messi,False
+1264,18_19,UEFA Champions League,Group Stage,2018-11-28,Away,FC Barcelona,PSV Eindhoven,1:2,CF,61,00:01,Left-footed shot,Ousmane Dembele,Messi,False
+1265,18_19,LaLiga,15,2018-12-08,Away,FC Barcelona,RCD Espanyol Barcelona,0:4,RW,17,00:01,Direct free kick,,Messi,False
+1266,18_19,LaLiga,15,2018-12-08,Away,FC Barcelona,RCD Espanyol Barcelona,0:4,RW,65,00:04,Direct free kick,,Messi,False
+1267,18_19,LaLiga,16,2018-12-16,Away,FC Barcelona,Levante UD,0:5,SS,43,00:02,Right-footed shot,Sergio Busquets,Messi,False
+1268,18_19,LaLiga,16,2018-12-16,Away,FC Barcelona,Levante UD,0:5,SS,47,00:03,Left-footed shot,,Messi,False
+1269,18_19,LaLiga,16,2018-12-16,Away,FC Barcelona,Levante UD,0:5,SS,60,00:04,Left-footed shot,Arturo Vidal,Messi,False
+1270,18_19,LaLiga,17,2018-12-22,Home,FC Barcelona,Celta de Vigo,2:0,RW,45,02:00,Left-footed shot,Jordi Alba,Messi,False
+1271,18_19,LaLiga,18,2019-01-06,Away,FC Barcelona,Getafe CF,1:2,RW,20,00:01,Left-footed shot,,Messi,False
+1272,18_19,LaLiga,19,2019-01-13,Home,FC Barcelona,SD Eibar,3:0,RW,53,02:00,Left-footed shot,Luis Suarez,Messi,False
+1273,18_19,Copa del Rey,last 16,2019-01-17,Home,FC Barcelona,Levante UD,3:0,CF,54,03:00,Left-footed shot,Nelson Semedo,Messi,False
+1274,18_19,LaLiga,20,2019-01-20,Home,FC Barcelona,CD Leganes,3:1,SS,90+2,03:01,Right-footed shot,Jordi Alba,Messi,False
+1275,18_19,LaLiga,21,2019-01-27,Away,FC Barcelona,Girona FC,0:2,RW,69,00:02,Left-footed shot,Jordi Alba,Messi,False
+1276,18_19,Copa del Rey,Quarter-Finals,2019-01-30,Home,FC Barcelona,Sevilla FC,6:1,RW,90+2,06:01,Left-footed shot,Jordi Alba,Messi,False
+1277,18_19,LaLiga,22,2019-02-02,Home,FC Barcelona,Valencia CF,2:2,RW,39,01:02,Penalty,,Messi,True
+1278,18_19,LaLiga,22,2019-02-02,Home,FC Barcelona,Valencia CF,2:2,RW,64,02:02,Left-footed shot,Arturo Vidal,Messi,False
+1279,18_19,LaLiga,24,2019-02-16,Home,FC Barcelona,Real Valladolid CF,1:0,RW,43,01:00,Penalty,,Messi,True
+1280,18_19,LaLiga,25,2019-02-23,Away,FC Barcelona,Sevilla FC,2:4,RW,26,01:01,Left-footed shot,Ivan Rakitic,Messi,False
+1281,18_19,LaLiga,25,2019-02-23,Away,FC Barcelona,Sevilla FC,2:4,RW,67,02:02,Right-footed shot,Ousmane Dembele,Messi,False
+1282,18_19,LaLiga,25,2019-02-23,Away,FC Barcelona,Sevilla FC,2:4,RW,85,02:03,Left-footed shot,,Messi,False
+1283,18_19,LaLiga,27,2019-03-09,Home,FC Barcelona,Rayo Vallecano,3:1,RW,51,02:01,Penalty,,Messi,True
+1284,18_19,UEFA Champions League,last 16,2019-03-13,Home,FC Barcelona,Olympique Lyon,5:1,RW,18,01:00,Penalty,,Messi,True
+1285,18_19,UEFA Champions League,last 16,2019-03-13,Home,FC Barcelona,Olympique Lyon,5:1,RW,78,03:01,Right-footed shot,Sergio Busquets,Messi,False
+1286,18_19,LaLiga,28,2019-03-17,Away,FC Barcelona,Real Betis Balompie,1:4,SS,18,00:01,Direct free kick,,Messi,False
+1287,18_19,LaLiga,28,2019-03-17,Away,FC Barcelona,Real Betis Balompie,1:4,SS,45+2,00:02,Left-footed shot,Luis Suarez,Messi,False
+1288,18_19,LaLiga,28,2019-03-17,Away,FC Barcelona,Real Betis Balompie,1:4,SS,85,01:04,Left-footed shot,Ivan Rakitic,Messi,False
+1289,18_19,LaLiga,29,2019-03-30,Home,FC Barcelona,RCD Espanyol Barcelona,2:0,RW,71,01:00,Direct free kick,,Messi,False
+1290,18_19,LaLiga,29,2019-03-30,Home,FC Barcelona,RCD Espanyol Barcelona,2:0,RW,89,02:00,Left-footed shot,Malcom,Messi,False
+1291,18_19,LaLiga,30,2019-04-02,Away,FC Barcelona,Villarreal CF,4:4,RW,90,04:03,Direct free kick,,Messi,False
+1292,18_19,LaLiga,31,2019-04-06,Home,FC Barcelona,Atletico de Madrid,2:0,SS,87,02:00,Left-footed shot,,Messi,False
+1293,18_19,UEFA Champions League,Quarter-Finals,2019-04-16,Home,FC Barcelona,Manchester United,3:0,RW,16,01:00,Left-footed shot,,Messi,False
+1294,18_19,UEFA Champions League,Quarter-Finals,2019-04-16,Home,FC Barcelona,Manchester United,3:0,RW,20,02:00,Right-footed shot,,Messi,False
+1295,18_19,LaLiga,35,2019-04-27,Home,FC Barcelona,Levante UD,1:0,RW,62,01:00,Left-footed shot,Arturo Vidal,Messi,False
+1296,18_19,UEFA Champions League,Semi-Finals,2019-05-01,Home,FC Barcelona,Liverpool FC,3:0,RW,75,02:00,Left-footed shot,Luis Suarez,Messi,False
+1297,18_19,UEFA Champions League,Semi-Finals,2019-05-01,Home,FC Barcelona,Liverpool FC,3:0,RW,82,03:00,Direct free kick,,Messi,False
+1298,18_19,LaLiga,38,2019-05-19,Away,FC Barcelona,SD Eibar,2:2,CF,31,01:01,Left-footed shot,Arturo Vidal,Messi,False
+1299,18_19,LaLiga,38,2019-05-19,Away,FC Barcelona,SD Eibar,2:2,CF,32,01:02,Left-footed shot,Ivan Rakitic,Messi,False
+1300,18_19,Copa del Rey,Final,2019-05-25,Home,FC Barcelona,Valencia CF,1:2,CF,73,01:02,Left-footed shot,Clement Lenglet,Messi,False
+1301,19_20,LaLiga,8,2019-10-06,Home,FC Barcelona,Sevilla FC,4:0,RW,78,04:00,Direct free kick,,Messi,False
+1302,19_20,LaLiga,9,2019-10-19,Away,FC Barcelona,SD Eibar,0:3,RW,58,00:02,Left-footed shot,Antoine Griezmann,Messi,False
+1303,19_20,UEFA Champions League,Group Stage,2019-10-23,Away,FC Barcelona,SK Slavia Prague,1:2,RW,3,00:01,Left-footed shot,Arthur,Messi,False
+1304,19_20,LaLiga,11,2019-10-29,Home,FC Barcelona,Real Valladolid CF,5:1,RW,34,03:01,Direct free kick,,Messi,False
+1305,19_20,LaLiga,11,2019-10-29,Home,FC Barcelona,Real Valladolid CF,5:1,RW,75,04:01,Left-footed shot,Ivan Rakitic,Messi,False
+1306,19_20,LaLiga,12,2019-11-02,Away,FC Barcelona,Levante UD,3:1,RW,38,00:01,Penalty,,Messi,True
+1307,19_20,LaLiga,13,2019-11-09,Home,FC Barcelona,Celta de Vigo,4:1,RW,23,01:00,Penalty,,Messi,True
+1308,19_20,LaLiga,13,2019-11-09,Home,FC Barcelona,Celta de Vigo,4:1,RW,45+1,02:01,Direct free kick,,Messi,False
+1309,19_20,LaLiga,13,2019-11-09,Home,FC Barcelona,Celta de Vigo,4:1,RW,48,03:01,Direct free kick,,Messi,False
+1310,19_20,UEFA Champions League,Group Stage,2019-11-27,Home,FC Barcelona,Borussia Dortmund,3:1,RW,33,02:00,Left-footed shot,Luis Suarez,Messi,False
+1311,19_20,LaLiga,15,2019-12-01,Away,FC Barcelona,Atletico de Madrid,0:1,RW,86,00:01,Left-footed shot,Luis Suarez,Messi,False
+1312,19_20,LaLiga,16,2019-12-07,Home,FC Barcelona,RCD Mallorca,5:2,RW,17,02:00,Left-footed shot,Antoine Griezmann,Messi,False
+1313,19_20,LaLiga,16,2019-12-07,Home,FC Barcelona,RCD Mallorca,5:2,RW,41,03:01,Left-footed shot,Ivan Rakitic,Messi,False
+1314,19_20,LaLiga,16,2019-12-07,Home,FC Barcelona,RCD Mallorca,5:2,RW,83,05:02,Left-footed shot,Luis Suarez,Messi,False
+1315,19_20,LaLiga,18,2019-12-21,Home,FC Barcelona,Deportivo Alaves,4:1,RW,69,03:01,Left-footed shot,Luis Suarez,Messi,False
+1316,19_20,Supercopa,Semi-Finals,2020-01-09,Home,FC Barcelona,Atletico de Madrid,2:3,RW,51,01:01,Right-footed shot,Luis Suarez,Messi,False
+1317,19_20,LaLiga,20,2020-01-19,Home,FC Barcelona,Granada CF,1:0,CF,76,01:00,Right-footed shot,Arturo Vidal,Messi,False
+1318,19_20,Copa del Rey,Round of 16,2020-01-30,Home,FC Barcelona,CD Leganes,5:0,RW,59,03:00,Left-footed shot,Frenkie de Jong,Messi,False
+1319,19_20,Copa del Rey,Round of 16,2020-01-30,Home,FC Barcelona,CD Leganes,5:0,RW,89,05:00,Left-footed shot,Ivan Rakitic,Messi,False
+1320,19_20,LaLiga,25,2020-02-22,Home,FC Barcelona,SD Eibar,5:0,SS,14,01:00,Left-footed shot,Ivan Rakitic,Messi,False
+1321,19_20,LaLiga,25,2020-02-22,Home,FC Barcelona,SD Eibar,5:0,SS,37,02:00,Left-footed shot,Arturo Vidal,Messi,False
+1322,19_20,LaLiga,25,2020-02-22,Home,FC Barcelona,SD Eibar,5:0,SS,40,03:00,Left-footed shot,,Messi,False
+1323,19_20,LaLiga,25,2020-02-22,Home,FC Barcelona,SD Eibar,5:0,SS,87,04:00,Left-footed shot,,Messi,False
+1324,19_20,LaLiga,27,2020-03-07,Home,FC Barcelona,Real Sociedad,1:0,CF,81,01:00,Penalty,,Messi,True
+1325,19_20,LaLiga,28,2020-06-13,Away,FC Barcelona,RCD Mallorca,0:4,RW,90+3,00:04,Right-footed shot,Luis Suarez,Messi,False
+1326,19_20,LaLiga,29,2020-06-16,Home,FC Barcelona,CD Leganes,2:0,RW,69,02:00,Penalty,,Messi,True
+1327,19_20,LaLiga,33,2020-06-30,Home,FC Barcelona,Atletico de Madrid,2:2,SS,50,02:01,Penalty,,Messi,True
+1328,19_20,LaLiga,37,2020-07-16,Home,FC Barcelona,CA Osasuna,1:2,RW,62,01:01,Direct free kick,,Messi,False
+1329,19_20,LaLiga,38,2020-07-19,Away,FC Barcelona,Deportivo Alaves,0:5,RW,34,00:02,Left-footed shot,Riqui Puig,Messi,False
+1330,19_20,LaLiga,38,2020-07-19,Away,FC Barcelona,Deportivo Alaves,0:5,RW,75,00:05,Left-footed shot,Jordi Alba,Messi,False
+1331,19_20,UEFA Champions League,last 16,2020-08-08,Home,FC Barcelona,SSC Napoli,3:1,SS,23,02:00,Left-footed shot,,Messi,False
+1332,20_21,LaLiga,3,2020-09-27,Home,FC Barcelona,Villarreal CF,4:0,CF,35,03:00,Penalty,,Messi,True
+1333,20_21,UEFA Champions League,Group Stage,2020-10-20,Home,FC Barcelona,Ferencvarosi TC,5:1,CF,27,01:00,Penalty,,Messi,True
+1334,20_21,UEFA Champions League,Group Stage,2020-10-28,Away,FC Barcelona,Juventus FC,0:2,CF,90+1,00:02,Penalty,,Messi,True
+1335,20_21,UEFA Champions League,Group Stage,2020-11-04,Home,FC Barcelona,Dynamo Kyiv,2:1,RW,5,01:00,Penalty,,Messi,True
+1336,20_21,LaLiga,9,2020-11-07,Home,FC Barcelona,Real Betis Balompie,5:2,CF,61,03:01,Penalty,,Messi,True
+1337,20_21,LaLiga,9,2020-11-07,Home,FC Barcelona,Real Betis Balompie,5:2,CF,82,04:02,Left-footed shot,Sergi Roberto,Messi,False
+1338,20_21,LaLiga,11,2020-11-29,Home,FC Barcelona,CA Osasuna,4:0,RW,73,04:00,Left-footed shot,Francisco Trincão,Messi,False
+1339,20_21,LaLiga,13,2020-12-13,Home,FC Barcelona,Levante UD,1:0,CF,76,01:00,Left-footed shot,Frenkie de Jong,Messi,False
+1340,20_21,LaLiga,14,2020-12-19,Home,FC Barcelona,Valencia CF,2:2,CF,45+4,01:01,Header,,Messi,False
+1341,20_21,LaLiga,15,2020-12-22,Away,FC Barcelona,Real Valladolid CF,0:3,AM,65,00:03,Left-footed shot,Pedri,Messi,False
+1342,20_21,LaLiga,2,2021-01-06,Away,FC Barcelona,Athletic Bilbao,2:3,CF,38,01:02,Left-footed shot,Pedri,Messi,False
+1343,20_21,LaLiga,2,2021-01-06,Away,FC Barcelona,Athletic Bilbao,2:3,CF,62,01:03,Left-footed shot,Antoine Griezmann,Messi,False
+1344,20_21,LaLiga,18,2021-01-09,Away,FC Barcelona,Granada CF,0:4,CF,35,00:02,Left-footed shot,Antoine Griezmann,Messi,False
+1345,20_21,LaLiga,18,2021-01-09,Away,FC Barcelona,Granada CF,0:4,CF,42,00:03,Direct free kick,,Messi,False
+1346,20_21,Copa del Rey,Round of 16,2021-01-27,Away,FC Barcelona,Rayo Vallecano,1:2,CF,69,01:01,Left-footed shot,Antoine Griezmann,Messi,False
+1347,20_21,LaLiga,21,2021-01-31,Home,FC Barcelona,Athletic Bilbao,2:1,CF,20,01:00,Direct free kick,,Messi,False
+1348,20_21,LaLiga,22,2021-02-07,Away,FC Barcelona,Real Betis Balompie,2:3,CF,59,01:01,Left-footed shot,Ousmane Dembele,Messi,False
+1349,20_21,LaLiga,23,2021-02-13,Home,FC Barcelona,Deportivo Alaves,5:1,CF,45+1,02:00,Left-footed shot,Sergio Busquets,Messi,False
+1350,20_21,LaLiga,23,2021-02-13,Home,FC Barcelona,Deportivo Alaves,5:1,CF,75,04:01,Left-footed shot,Antoine Griezmann,Messi,False
+1351,20_21,UEFA Champions League,last 16,2021-02-16,Home,FC Barcelona,Paris Saint-Germain,1:4,CF,27,01:00,Penalty,,Messi,True
+1352,20_21,LaLiga,24,2021-02-21,Home,FC Barcelona,Cadiz CF,1:1,CF,32,01:00,Penalty,,Messi,True
+1353,20_21,LaLiga,1,2021-02-24,Home,FC Barcelona,Elche CF,3:0,CF,48,01:00,Left-footed shot,Martin Braithwaite,Messi,False
+1354,20_21,LaLiga,1,2021-02-24,Home,FC Barcelona,Elche CF,3:0,CF,68,02:00,Left-footed shot,Frenkie de Jong,Messi,False
+1355,20_21,LaLiga,25,2021-02-27,Away,FC Barcelona,Sevilla FC,0:2,CF,85,00:02,Right-footed shot,Ilaix Moriba,Messi,False
+1356,20_21,UEFA Champions League,last 16,2021-03-10,Away,FC Barcelona,Paris Saint-Germain,1:1,SS,37,01:01,Long distance kick,Pedri,Messi,False
+1357,20_21,LaLiga,27,2021-03-15,Home,FC Barcelona,SD Huesca,4:1,SS,13,01:00,Left-footed shot,Sergio Busquets,Messi,False
+1358,20_21,LaLiga,27,2021-03-15,Home,FC Barcelona,SD Huesca,4:1,SS,90,04:01,Left-footed shot,Francisco Trincão,Messi,False
+1359,20_21,LaLiga,28,2021-03-21,Away,FC Barcelona,Real Sociedad,1:6,SS,56,00:04,Left-footed shot,Sergio Busquets,Messi,False
+1360,20_21,LaLiga,28,2021-03-21,Away,FC Barcelona,Real Sociedad,1:6,SS,89,01:06,Left-footed shot,Jordi Alba,Messi,False
+1361,20_21,Copa del Rey,Final,2021-04-17,Away,FC Barcelona,Athletic Bilbao,0:4,CF,68,00:03,Left-footed shot,Frenkie de Jong,Messi,False
+1362,20_21,Copa del Rey,Final,2021-04-17,Away,FC Barcelona,Athletic Bilbao,0:4,CF,72,00:04,Left-footed shot,Jordi Alba,Messi,False
+1363,20_21,LaLiga,31,2021-04-22,Home,FC Barcelona,Getafe CF,5:2,CF,8,01:00,Left-footed shot,Sergio Busquets,Messi,False
+1364,20_21,LaLiga,31,2021-04-22,Home,FC Barcelona,Getafe CF,5:2,CF,33,03:01,Left-footed shot,,Messi,False
+1365,20_21,LaLiga,33,2021-04-29,Home,FC Barcelona,Granada CF,1:2,CF,23,01:00,Left-footed shot,Antoine Griezmann,Messi,False
+1366,20_21,LaLiga,34,2021-05-02,Away,FC Barcelona,Valencia CF,2:3,CF,57,01:01,Left-footed shot,,Messi,False
+1367,20_21,LaLiga,34,2021-05-02,Away,FC Barcelona,Valencia CF,2:3,CF,69,01:03,Direct free kick,,Messi,False
+1368,20_21,LaLiga,36,2021-05-11,Away,FC Barcelona,Levante UD,3:3,SS,25,00:01,Left-footed shot,,Messi,False
+1369,20_21,LaLiga,37,2021-05-16,Home,FC Barcelona,Celta de Vigo,1:2,SS,28,01:00,Header,Sergio Busquets,Messi,False
+1370,21_22,UEFA Champions League,Group Stage,2021-09-28,Home,Paris Saint-Germain,Manchester City,2:0,RW,74,02:00,Left-footed shot,Kylian Mbappe,Messi,False
+1371,21_22,UEFA Champions League,Group Stage,2021-10-19,Home,Paris Saint-Germain,RB Leipzig,3:2,RW,67,02:02,Left-footed shot,Kylian Mbappe,Messi,False
+1372,21_22,UEFA Champions League,Group Stage,2021-10-19,Home,Paris Saint-Germain,RB Leipzig,3:2,RW,74,03:02,Penalty,,Messi,True
+1373,21_22,Ligue 1,14,2021-11-20,Home,Paris Saint-Germain,FC Nantes,3:1,RW,87,03:01,Left-footed shot,Kylian Mbappe,Messi,False
+1374,21_22,UEFA Champions League,Group Stage,2021-12-07,Home,Paris Saint-Germain,Club Brugge KV,4:1,CF,38,03:00,Left-footed shot,Kylian Mbappe,Messi,False
+1375,21_22,UEFA Champions League,Group Stage,2021-12-07,Home,Paris Saint-Germain,Club Brugge KV,4:1,CF,76,04:01,Penalty,,Messi,True
+1376,21_22,Ligue 1,23,2022-02-06,Away,Paris Saint-Germain,LOSC Lille,1:5,CF,38,01:03,Left-footed shot,,Messi,False
+1377,21_22,Ligue 1,30,2022-04-03,Home,Paris Saint-Germain,FC Lorient,5:1,RW,73,04:01,Left-footed shot,Kylian Mbappe,Messi,False
+1378,21_22,Ligue 1,34,2022-04-23,Home,Paris Saint-Germain,RC Lens,1:1,RW,68,01:00,Left-footed shot,Neymar,Messi,False
+1379,21_22,Ligue 1,37,2022-05-14,Away,Paris Saint-Germain,Montpellier,0:4,CF,6,00:01,Left-footed shot,Kylian Mbappé,Messi,False
+1380,21_22,Ligue 1,37,2022-05-14,Away,Paris Saint-Germain,Montpellier,0:4,CF,20,00:02,Left-footed shot,Kylian Mbappé,Messi,False
